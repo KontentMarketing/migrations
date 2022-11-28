@@ -12,92 +12,92 @@ export const updateWebinarsPageContentType = async (
 			.modifyContentType()
 			.byTypeCodename(contentTypes.webinars_page.codename)
 			.withData([
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.hero_perex.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.hero_image.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.release_projects.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.live_webinars_heading.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.on_demand_webinars_heading.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.emea_title.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.americas_title.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.apac_title.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.topic_card_title.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.reservation_form_title.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.related_dates_title.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.consent_elements.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.webinar_topics.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.on_demand_webinars.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinars_page.elements.on_demand_thank_you___title.codename}`,
-				// },
 				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Featured",
-						type: "modular_content",
-						guidelines: "Featured webinars/events",
-						is_required: true,
-						item_count_limit: {
-							condition: "at_most",
-							value: 3,
-						},
-						allowed_content_types: [
-							{
-								codename: contentTypes.event.codename,
-							},
-							{
-								codename: contentTypes.webinar_topic.codename,
-							},
-						],
-						content_group: {
-							codename: "webinars",
-						},
-						codename: "featured",
-					},
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.hero_perex.codename}`,
 				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.hero_image.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.release_projects.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.live_webinars_heading.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.on_demand_webinars_heading.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.emea_title.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.americas_title.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.apac_title.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.topic_card_title.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.reservation_form_title.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.related_dates_title.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.consent_elements.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.webinar_topics.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.on_demand_webinars.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinars_page.elements.on_demand_thank_you___title.codename}`,
+				},
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Featured",
+				// 		type: "modular_content",
+				// 		guidelines: "Featured webinars/events",
+				// 		is_required: true,
+				// 		item_count_limit: {
+				// 			condition: "at_most",
+				// 			value: 3,
+				// 		},
+				// 		allowed_content_types: [
+				// 			{
+				// 				codename: contentTypes.event.codename,
+				// 			},
+				// 			{
+				// 				codename: contentTypes.webinar_topic.codename,
+				// 			},
+				// 		],
+				// 		content_group: {
+				// 			codename: "webinars",
+				// 		},
+				// 		codename: "featured",
+				// 	},
+				// },
 			])
 			.toPromise();
 	} catch (error) {
@@ -120,18 +120,18 @@ export const updateWebinarTopicContentType = async (
 				// 	op: "remove",
 				// 	path: `/elements/codename:${contentTypes.webinar_topic.elements.subtitle.codename}`,
 				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinar_topic.elements.sticky.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinar_topic.elements.type.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinar_topic.elements.header_image.codename}`,
-				// },
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinar_topic.elements.sticky.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinar_topic.elements.type.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinar_topic.elements.header_image.codename}`,
+				},
 				// {
 				// 	op: "addInto",
 				// 	path: "/content_groups",
@@ -140,86 +140,86 @@ export const updateWebinarTopicContentType = async (
 				// 		codename: "urls",
 				// 	},
 				// },
-				{
-					op: "addInto",
-					path: "/content_groups",
-					after: {
-						codename: "general",
-					},
-					value: {
-						name: "Images",
-						codename: "images",
-					},
-				},
-				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Card image",
-						type: "asset",
-						is_required: true,
-						asset_count_limit: {
-							value: 1,
-							condition: "exactly",
-						},
-						guidelines:
-							"A smaller image used for the card on the webinars page",
-						content_group: {
-							codename: "images",
-						},
-					},
-				},
-				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Image strip image",
-						type: "asset",
-						asset_count_limit: {
-							value: 1,
-							condition: "at_most",
-						},
-						guidelines:
-							"Optional full-width image black and white image used on the webinar detail page.",
-						content_group: {
-							codename: "images",
-						},
-					},
-				},
-				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Hero image",
-						type: "asset",
-						asset_count_limit: {
-							value: 1,
-							condition: "at_most",
-						},
-						guidelines:
-							"Optional hero image used on the webinar detail page with a petal (if there's no image strip). If no image strip or hero image is provided, only the petal will be shown.",
-						content_group: {
-							codename: "images",
-						},
-					},
-				},
-				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Recording poster",
-						type: "asset",
-						asset_count_limit: {
-							value: 1,
-							condition: "at_most",
-						},
-						guidelines:
-							"Poster image for the webinar video iframe. If no poster is provided, the video will be shown without a poster (default YouTube iframe behaviour).",
-						content_group: {
-							codename: "images",
-						},
-					},
-				},
+				// {
+				// 	op: "addInto",
+				// 	path: "/content_groups",
+				// 	after: {
+				// 		codename: "general",
+				// 	},
+				// 	value: {
+				// 		name: "Images",
+				// 		codename: "images",
+				// 	},
+				// },
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Card image",
+				// 		type: "asset",
+				// 		is_required: true,
+				// 		asset_count_limit: {
+				// 			value: 1,
+				// 			condition: "exactly",
+				// 		},
+				// 		guidelines:
+				// 			"A smaller image used for the card on the webinars page",
+				// 		content_group: {
+				// 			codename: "images",
+				// 		},
+				// 	},
+				// },
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Image strip image",
+				// 		type: "asset",
+				// 		asset_count_limit: {
+				// 			value: 1,
+				// 			condition: "at_most",
+				// 		},
+				// 		guidelines:
+				// 			"Optional full-width image black and white image used on the webinar detail page.",
+				// 		content_group: {
+				// 			codename: "images",
+				// 		},
+				// 	},
+				// },
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Hero image",
+				// 		type: "asset",
+				// 		asset_count_limit: {
+				// 			value: 1,
+				// 			condition: "at_most",
+				// 		},
+				// 		guidelines:
+				// 			"Optional hero image used on the webinar detail page with a petal (if there's no image strip). If no image strip or hero image is provided, only the petal will be shown.",
+				// 		content_group: {
+				// 			codename: "images",
+				// 		},
+				// 	},
+				// },
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Recording poster",
+				// 		type: "asset",
+				// 		asset_count_limit: {
+				// 			value: 1,
+				// 			condition: "at_most",
+				// 		},
+				// 		guidelines:
+				// 			"Poster image for the webinar video iframe. If no poster is provided, the video will be shown without a poster (default YouTube iframe behaviour).",
+				// 		content_group: {
+				// 			codename: "images",
+				// 		},
+				// 	},
+				// },
 				// {
 				// 	op: "addInto",
 				// 	path: "/elements",
@@ -378,55 +378,55 @@ export const updateWebinarDateContentType = async (
 			.modifyContentType()
 			.byTypeCodename(contentTypes.webinar_date.codename)
 			.withData([
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Registration open",
+				// 		type: "multiple_choice",
+				// 		is_required: true,
+				// 		mode: "single",
+				// 		options: [
+				// 			{
+				// 				name: "Yes",
+				// 				codename: "yes",
+				// 			},
+				// 		],
+				// 		default: {
+				// 			global: {
+				// 				value: [
+				// 					{
+				// 						codename: "yes",
+				// 					},
+				// 				],
+				// 			},
+				// 		},
+				// 	},
+				// },
 				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Registration open",
-						type: "multiple_choice",
-						is_required: true,
-						mode: "single",
-						options: [
-							{
-								name: "Yes",
-								codename: "yes",
-							},
-						],
-						default: {
-							global: {
-								value: [
-									{
-										codename: "yes",
-									},
-								],
-							},
-						},
-					},
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinar_date.elements.is_external.codename}`,
 				},
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinar_date.elements.is_external.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinar_date.elements.url_slug.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinar_date.elements.url_slug_value.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinar_date.elements.webinar_registration_url.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinar_date.elements.time_zone.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.webinar_date.elements.description.codename}`,
-				// },
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinar_date.elements.url_slug.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinar_date.elements.url_slug_value.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinar_date.elements.webinar_registration_url.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinar_date.elements.time_zone.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.webinar_date.elements.description.codename}`,
+				},
 			])
 			.toPromise();
 	} catch (error) {
@@ -442,46 +442,46 @@ export const updateEventDateContentType = async (
 			.modifyContentType()
 			.byTypeCodename(contentTypes.event_date.codename)
 			.withData([
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Registration open",
+				// 		type: "multiple_choice",
+				// 		is_required: true,
+				// 		mode: "single",
+				// 		content_group: {
+				// 			codename: "basic_info",
+				// 		},
+				// 		options: [
+				// 			{
+				// 				name: "Yes",
+				// 				codename: "yes",
+				// 			},
+				// 		],
+				// 		default: {
+				// 			global: {
+				// 				value: [
+				// 					{
+				// 						codename: "yes",
+				// 					},
+				// 				],
+				// 			},
+				// 		},
+				// 	},
+				// },
 				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Registration open",
-						type: "multiple_choice",
-						is_required: true,
-						mode: "single",
-						content_group: {
-							codename: "basic_info",
-						},
-						options: [
-							{
-								name: "Yes",
-								codename: "yes",
-							},
-						],
-						default: {
-							global: {
-								value: [
-									{
-										codename: "yes",
-									},
-								],
-							},
-						},
-					},
+					op: "remove",
+					path: `/elements/codename:${contentTypes.event_date.elements.consent.codename}`,
 				},
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.event_date.elements.consent.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.event_date.elements.url_slug.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.event_date.elements.description.codename}`,
-				// },
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.event_date.elements.url_slug.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.event_date.elements.description.codename}`,
+				},
 			])
 			.toPromise();
 	} catch (error) {
@@ -495,14 +495,14 @@ export const updateEventContentType = async (apiClient: ManagementClient) => {
 			.modifyContentType()
 			.byTypeCodename(contentTypes.event.codename)
 			.withData([
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.event.elements.sticky.codename}`,
-				// },
-				// {
-				// 	op: "remove",
-				// 	path: `/elements/codename:${contentTypes.event.elements.header_image.codename}`,
-				// },
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.event.elements.sticky.codename}`,
+				},
+				{
+					op: "remove",
+					path: `/elements/codename:${contentTypes.event.elements.header_image.codename}`,
+				},
 				// {
 				// 	op: "addInto",
 				// 	path: "/elements",
@@ -619,69 +619,69 @@ export const updateEventContentType = async (apiClient: ManagementClient) => {
 				// 		},
 				// 	},
 				// },
-				{
-					op: "addInto",
-					path: "/content_groups",
-					after: {
-						codename: "general",
-					},
-					value: {
-						name: "Images",
-						codename: "images",
-					},
-				},
-				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Card image",
-						type: "asset",
-						is_required: true,
-						asset_count_limit: {
-							value: 1,
-							condition: "exactly",
-						},
-						guidelines:
-							"A smaller image used for the card on the webinars page",
-						content_group: {
-							codename: "images",
-						},
-					},
-				},
-				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Image strip image",
-						type: "asset",
-						asset_count_limit: {
-							value: 1,
-							condition: "at_most",
-						},
-						guidelines:
-							"Optional full-width image black and white image used on the webinar detail page.",
-						content_group: {
-							codename: "images",
-						},
-					},
-				},
-				{
-					op: "addInto",
-					path: "/elements",
-					value: {
-						name: "Hero image",
-						type: "asset",
-						asset_count_limit: {
-							value: 1,
-							condition: "at_most",
-						},
-						guidelines:
-							"Optional hero image used on the webinar detail page with a petal (if there's no image strip). If no image strip or hero image is provided, only the petal will be shown.",
-						content_group: {
-							codename: "images",
-						},
-					},
-				},
+				// {
+				// 	op: "addInto",
+				// 	path: "/content_groups",
+				// 	after: {
+				// 		codename: "general",
+				// 	},
+				// 	value: {
+				// 		name: "Images",
+				// 		codename: "images",
+				// 	},
+				// },
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Card image",
+				// 		type: "asset",
+				// 		is_required: true,
+				// 		asset_count_limit: {
+				// 			value: 1,
+				// 			condition: "exactly",
+				// 		},
+				// 		guidelines:
+				// 			"A smaller image used for the card on the webinars page",
+				// 		content_group: {
+				// 			codename: "images",
+				// 		},
+				// 	},
+				// },
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Image strip image",
+				// 		type: "asset",
+				// 		asset_count_limit: {
+				// 			value: 1,
+				// 			condition: "at_most",
+				// 		},
+				// 		guidelines:
+				// 			"Optional full-width image black and white image used on the webinar detail page.",
+				// 		content_group: {
+				// 			codename: "images",
+				// 		},
+				// 	},
+				// },
+				// {
+				// 	op: "addInto",
+				// 	path: "/elements",
+				// 	value: {
+				// 		name: "Hero image",
+				// 		type: "asset",
+				// 		asset_count_limit: {
+				// 			value: 1,
+				// 			condition: "at_most",
+				// 		},
+				// 		guidelines:
+				// 			"Optional hero image used on the webinar detail page with a petal (if there's no image strip). If no image strip or hero image is provided, only the petal will be shown.",
+				// 		content_group: {
+				// 			codename: "images",
+				// 		},
+				// 	},
+				// },
 			])
 			.toPromise();
 	} catch (error) {
