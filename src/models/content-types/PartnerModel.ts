@@ -162,6 +162,16 @@ export type PartnerModel = IContentItem<{
   urlSlug: Elements.UrlSlugElement;
 
   /**
+   * URL Slug history (custom)
+   * Required: false
+   * Id: f1eef4aa-3dfb-4400-962b-b6fa9a3fee4d
+   * Codename: url_slug_history
+   *
+   * This handles redirects if the URL slug changed. No need to touch this otherwise.
+   */
+  urlSlugHistory: Elements.CustomElement;
+
+  /**
    * Opengraph Image (asset)
    * Required: false
    * Id: e463b7f9-9ed1-4119-b323-2c199e28c236
