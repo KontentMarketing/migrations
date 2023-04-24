@@ -62,7 +62,7 @@ export const updateWebinarsPageContentType = async (
         // },
         // {
         // 	op: "remove",
-        // 	path: `/elements/codename:${contentTypes.webinars_page.elements.webinar_topics.codename}`,
+        // 	path: `/elements/codename:${contentTypes.webinars_page.elements.webinars.codename}`,
         // },
         // {
         // 	op: "remove",
@@ -89,7 +89,7 @@ export const updateWebinarsPageContentType = async (
                 codename: contentTypes.event.codename,
               },
               {
-                codename: contentTypes.webinar_topic.codename,
+                codename: contentTypes.webinar.codename,
               },
             ],
             content_group: {
@@ -113,24 +113,24 @@ export const updateWebinarTopicContentType = async (
   try {
     await apiClient
       .modifyContentType()
-      .byTypeCodename(contentTypes.webinar_topic.codename)
+      .byTypeCodename(contentTypes.webinar.codename)
       .withData([
         // { op: "replace", path: "/name", value: "Webinar" },
         // {
         // 	op: "remove",
-        // 	path: `/elements/codename:${contentTypes.webinar_topic.elements.subtitle.codename}`,
+        // 	path: `/elements/codename:${contentTypes.webinar.elements.subtitle.codename}`,
         // },
         // {
         // 	op: "remove",
-        // 	path: `/elements/codename:${contentTypes.webinar_topic.elements.sticky.codename}`,
+        // 	path: `/elements/codename:${contentTypes.webinar.elements.sticky.codename}`,
         // },
         // {
         // 	op: "remove",
-        // 	path: `/elements/codename:${contentTypes.webinar_topic.elements.type.codename}`,
+        // 	path: `/elements/codename:${contentTypes.webinar.elements.type.codename}`,
         // },
         // {
         // 	op: "remove",
-        // 	path: `/elements/codename:${contentTypes.webinar_topic.elements.header_image.codename}`,
+        // 	path: `/elements/codename:${contentTypes.webinar.elements.header_image.codename}`,
         // },
         // {
         // 	op: "addInto",
@@ -343,7 +343,7 @@ export const updateWebinarTopicContentType = async (
         // },
         // {
         // 	op: "replace",
-        // 	path: `/elements/codename:${contentTypes.webinar_topic.elements.webinar_dates.codename}/item_count_limit`,
+        // 	path: `/elements/codename:${contentTypes.webinar.elements.webinar_dates.codename}/item_count_limit`,
         // 	value: {
         // 		condition: "at_most",
         // 		value: 3,
@@ -694,10 +694,10 @@ export const updateWebinarSlugs = async (apiClient: ManagementClient) => {
   // 	// Get all topics with dates
   // 	const topicsResponse = await KontentService.Instance()
   // 		.deliveryClient.items<WebinarTopicModel>()
-  // 		.type(contentTypes.webinar_topic.codename)
+  // 		.type(contentTypes.webinar.codename)
   // 		.notEmptyFilter(
   // 			getElementsParamCodename(
-  // 				contentTypes.webinar_topic.elements.webinar_dates.codename
+  // 				contentTypes.webinar.elements.webinar_dates.codename
   // 			)
   // 		)
   // 		.toPromise();
@@ -854,10 +854,10 @@ export const migrateHeaderImageToCardImage = async (
   // const webinars = (
   // 	await KontentService.Instance()
   // 		.deliveryClient.items<WebinarTopicModel>()
-  // 		.type(contentTypes.webinar_topic.codename)
+  // 		.type(contentTypes.webinar.codename)
   // 		.notEmptyFilter(
   // 			getElementsParamCodename(
-  // 				contentTypes.webinar_topic.elements.header_image.codename
+  // 				contentTypes.webinar.elements.header_image.codename
   // 			)
   // 		)
   // 		.toPromise()
