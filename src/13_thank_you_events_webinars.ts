@@ -13,8 +13,70 @@ import { ARCHIVED, ARCHIVED_2, PUBLISHED } from './constants';
 const migration: MigrationModule = {
   order: 13,
   run: async (apiClient: ManagementClient) => {
-    await updateContentType(apiClient, contentTypes.webinar.codename);
-    await updateContentType(apiClient, contentTypes.event.codename);
+    const newThankYouPageContentType = await apiClient
+      .addContentType()
+      .withData((builder) => {
+        return {
+          name: 'Events & Webinars Thank You Page',
+          codename: 'events_and_webinars_thank_you_page',
+          elements: [
+            builder.assetElement({
+              name: 'Thank You - Image',
+              codename: 'thank_you___image',
+              type: 'asset',
+            }),
+            builder.textElement({
+              name: 'Thank You - Title',
+              codename: 'thank_you___title',
+              type: 'text',
+            }),
+            builder.richTextElement({
+              name: 'Thank You - Message',
+              codename: 'thank_you___message',
+              type: 'rich_text',
+            }),
+            builder.linkedItemsElement({
+              name: 'Thank You - Links',
+              codename: 'thank_you___links',
+              type: 'modular_content',
+              allowed_content_types: [
+                {
+                  codename: 'shared_content',
+                },
+              ],
+            }),
+          ],
+        };
+      })
+      .toPromise();
+
+    const standardWebinarEventThankYouPage = await apiClient
+      .addContentItem()
+      .withData({
+        name: 'Standard Webinar/Event Thank You Page',
+        codename: 'standard_webinar_event_thank_you_page',
+        type: {
+          codename: newThankYouPageContentType.data.codename,
+        },
+        collection: {
+          codename: 'default',
+        },
+      })
+      .toPromise();
+
+    const attendingWebinarEventThankYouPage = await apiClient
+      .addContentItem()
+      .withData({
+        name: 'Attending Webinar/Event Thank You Page',
+        codename: 'attending_webinar_event_thank_you_page',
+        type: {
+          codename: newThankYouPageContentType.data.codename,
+        },
+        collection: {
+          codename: 'default',
+        },
+      })
+      .toPromise();
 
     const webinarsRootPage = (
       await KontentService.Instance()
@@ -22,7 +84,96 @@ const migration: MigrationModule = {
         .toPromise()
     ).data.item;
 
-    console.log(webinarsRootPage.elements.thankYouTitle);
+    // @ts-ignore
+    const standardVariant = await apiClient
+      .upsertLanguageVariant()
+      .byItemCodename(standardWebinarEventThankYouPage.data.codename)
+      .byLanguageCodename('default')
+      .withData((builder) => [
+        builder.textElement({
+          element: {
+            codename: 'thank_you___title',
+          },
+          value: webinarsRootPage.elements.thankYouTitle.value,
+        }),
+        builder.richTextElement({
+          element: {
+            codename: 'thank_you___message',
+          },
+          value: webinarsRootPage.elements.thankYouMessage.value,
+        }),
+        builder.assetElement({
+          element: {
+            codename: 'thank_you___image',
+          },
+          value: [{ id: '3ebb5ea1-6692-4a49-bf75-e4f321d68a46' }],
+        }),
+        builder.linkedItemsElement({
+          element: {
+            codename: 'thank_you___links',
+          },
+          value: [
+            { codename: 'webinars___other_webinars' },
+            { codename: 'webinars___see_docs_and_tutorials' },
+            { codename: 'webinars___talk_to_us' },
+          ],
+        }),
+      ])
+      .toPromise();
+
+    // @ts-ignore
+    const alternativeVariant = await apiClient
+      .upsertLanguageVariant()
+      .byItemCodename(attendingWebinarEventThankYouPage.data.codename)
+      .byLanguageCodename('default')
+      .withData((builder) => [
+        builder.textElement({
+          element: {
+            codename: 'thank_you___title',
+          },
+          value: 'Alternative thank you page',
+        }),
+        builder.richTextElement({
+          element: {
+            codename: 'thank_you___message',
+          },
+          value: webinarsRootPage.elements.thankYouMessage.value,
+        }),
+        builder.assetElement({
+          element: {
+            codename: 'thank_you___image',
+          },
+          value: [{ id: '3ebb5ea1-6692-4a49-bf75-e4f321d68a46' }],
+        }),
+        builder.linkedItemsElement({
+          element: {
+            codename: 'thank_you___links',
+          },
+          value: [
+            { codename: 'webinars___other_webinars' },
+            { codename: 'webinars___see_docs_and_tutorials' },
+            { codename: 'webinars___talk_to_us' },
+          ],
+        }),
+      ])
+      .toPromise();
+
+    await apiClient
+      .publishLanguageVariant()
+      .byItemCodename(standardWebinarEventThankYouPage.data.codename)
+      .byLanguageCodename('default')
+      .withoutData()
+      .toPromise();
+
+    await apiClient
+      .publishLanguageVariant()
+      .byItemCodename(attendingWebinarEventThankYouPage.data.codename)
+      .byLanguageCodename('default')
+      .withoutData()
+      .toPromise();
+
+    await updateContentType(apiClient, contentTypes.webinar.codename);
+    await updateContentType(apiClient, contentTypes.event.codename);
 
     const allWebinars = (
       await KontentService.Instance()
@@ -58,33 +209,11 @@ const migration: MigrationModule = {
             .byItemCodename(webinar.system.codename)
             .byLanguageCodename('default')
             .withData((builder) => [
-              builder.textElement({
-                element: {
-                  codename: 'thank_you_title',
-                },
-                value: webinarsRootPage.elements.thankYouTitle.value,
-              }),
-              builder.richTextElement({
-                element: {
-                  codename: 'thank_you_message',
-                },
-                value: webinarsRootPage.elements.thankYouMessage.value,
-              }),
-              builder.assetElement({
-                element: {
-                  codename: 'thank_you_image',
-                },
-                value: [{ id: '3ebb5ea1-6692-4a49-bf75-e4f321d68a46' }],
-              }),
               builder.linkedItemsElement({
                 element: {
-                  codename: 'thank_you_links',
+                  codename: 'thank_you_page',
                 },
-                value: [
-                  { codename: 'webinars___other_webinars' },
-                  { codename: 'webinars___see_docs_and_tutorials' },
-                  { codename: 'webinars___talk_to_us' },
-                ],
+                value: [{ codename: 'standard_webinar_event_thank_you_page' }],
               }),
             ])
             .toPromise();
@@ -102,39 +231,16 @@ const migration: MigrationModule = {
             .byItemCodename(webinar.system.codename)
             .byLanguageCodename('default')
             .withData((builder) => [
-              builder.textElement({
-                element: {
-                  codename: 'thank_you_title',
-                },
-                value: webinarsRootPage.elements.thankYouTitle.value,
-              }),
-              builder.richTextElement({
-                element: {
-                  codename: 'thank_you_message',
-                },
-                value: webinarsRootPage.elements.thankYouMessage.value,
-              }),
-              builder.assetElement({
-                element: {
-                  codename: 'thank_you_image',
-                },
-                value: [{ id: '3ebb5ea1-6692-4a49-bf75-e4f321d68a46' }],
-              }),
               builder.linkedItemsElement({
                 element: {
-                  codename: 'thank_you_links',
+                  codename: 'thank_you_page',
                 },
-                value: [
-                  { codename: 'webinars___other_webinars' },
-                  { codename: 'webinars___see_docs_and_tutorials' },
-                  { codename: 'webinars___talk_to_us' },
-                ],
+                value: [{ codename: 'standard_webinar_event_thank_you_page' }],
               }),
             ])
             .toPromise();
       }
     }
-
     for (const event of allEvents) {
       const workflowStep = event.system.workflowStep;
       switch (workflowStep) {
@@ -155,33 +261,11 @@ const migration: MigrationModule = {
             .byItemCodename(event.system.codename)
             .byLanguageCodename('default')
             .withData((builder) => [
-              builder.textElement({
-                element: {
-                  codename: 'thank_you_title',
-                },
-                value: webinarsRootPage.elements.thankYouTitle.value,
-              }),
-              builder.richTextElement({
-                element: {
-                  codename: 'thank_you_message',
-                },
-                value: webinarsRootPage.elements.thankYouMessage.value,
-              }),
-              builder.assetElement({
-                element: {
-                  codename: 'thank_you_image',
-                },
-                value: [{ id: '3ebb5ea1-6692-4a49-bf75-e4f321d68a46' }],
-              }),
               builder.linkedItemsElement({
                 element: {
-                  codename: 'thank_you_links',
+                  codename: 'thank_you_page',
                 },
-                value: [
-                  { codename: 'webinars___other_webinars' },
-                  { codename: 'webinars___see_docs_and_tutorials' },
-                  { codename: 'webinars___talk_to_us' },
-                ],
+                value: [{ codename: 'standard_webinar_event_thank_you_page' }],
               }),
             ])
             .toPromise();
@@ -199,33 +283,11 @@ const migration: MigrationModule = {
             .byItemCodename(event.system.codename)
             .byLanguageCodename('default')
             .withData((builder) => [
-              builder.textElement({
-                element: {
-                  codename: 'thank_you_title',
-                },
-                value: webinarsRootPage.elements.thankYouTitle.value,
-              }),
-              builder.richTextElement({
-                element: {
-                  codename: 'thank_you_message',
-                },
-                value: webinarsRootPage.elements.thankYouMessage.value,
-              }),
-              builder.assetElement({
-                element: {
-                  codename: 'thank_you_image',
-                },
-                value: [{ id: '3ebb5ea1-6692-4a49-bf75-e4f321d68a46' }],
-              }),
               builder.linkedItemsElement({
                 element: {
-                  codename: 'thank_you_links',
+                  codename: 'thank_you_page',
                 },
-                value: [
-                  { codename: 'webinars___other_webinars' },
-                  { codename: 'webinars___see_docs_and_tutorials' },
-                  { codename: 'webinars___talk_to_us' },
-                ],
+                value: [{ codename: 'standard_webinar_event_thank_you_page' }],
               }),
             ])
             .toPromise();

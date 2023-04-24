@@ -1,5 +1,4 @@
 import { ManagementClient } from '@kontent-ai/management-sdk';
-import { contentTypes } from '../models';
 
 export const updateContentType = async (
   apiClient: ManagementClient,
@@ -25,53 +24,16 @@ export const updateContentType = async (
           op: 'addInto',
           path: '/elements',
           value: {
-            name: 'Thank You - Image',
-            codename: 'thank_you_image',
-            type: 'asset',
-            is_required: true,
-            content_group: {
-              codename: 'thank_you',
-            },
-          },
-        },
-        {
-          op: 'addInto',
-          path: '/elements',
-          value: {
-            name: 'Thank You - Title',
-            codename: 'thank_you_title',
-            type: 'text',
-            is_required: true,
-            content_group: {
-              codename: 'thank_you',
-            },
-          },
-        },
-        {
-          op: 'addInto',
-          path: '/elements',
-          value: {
-            name: 'Thank You - Message',
-            codename: 'thank_you_message',
-            type: 'rich_text',
-            is_required: true,
-            content_group: {
-              codename: 'thank_you',
-            },
-          },
-        },
-        {
-          op: 'addInto',
-          path: '/elements',
-          value: {
-            name: 'Thank You - Links',
-            codename: 'thank_you_links',
+            name: 'Thank You Page',
+            codename: 'thank_you_page',
             type: 'modular_content',
             is_required: true,
+            item_count_limit: {
+              value: 1,
+              condition: 'exactly',
+            },
             allowed_content_types: [
-              {
-                codename: contentTypes.shared_content.codename,
-              },
+              { codename: 'events_and_webinars_thank_you_page' },
             ],
             content_group: {
               codename: 'thank_you',
