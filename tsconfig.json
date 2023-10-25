@@ -13,7 +13,7 @@
 		"alwaysStrict": true,
 		"forceConsistentCasingInFileNames": true,
 		"noUnusedParameters": false,
-		"noUnusedLocals": true,
+		"noUnusedLocals": false,
 		"strictFunctionTypes": false,
 		"noImplicitAny": false,
 		"noImplicitReturns": false,
