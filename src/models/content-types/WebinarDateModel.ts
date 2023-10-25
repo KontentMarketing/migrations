@@ -20,6 +20,16 @@ export type WebinarDateModel = IContentItem<{
   pardotUrl: Elements.TextElement;
 
   /**
+   * Demio event ID (text)
+   * Required: true
+   * Id: cc06c248-9f37-4673-ac16-9fcf0b71aa29
+   * Codename: demio_event_id
+   *
+   * ID of the Demio event (last part of the registration URL) e.g. https://my.demio.com/ref/DLUQZzRux56aX4Jq => ID => DLUQZzRux56aX4Jq
+   */
+  demioEventId: Elements.TextElement;
+
+  /**
    * Start Date and Time (date_time)
    * Required: true
    * Id: fd62c01b-ce81-4936-a524-f88960e8d0e6

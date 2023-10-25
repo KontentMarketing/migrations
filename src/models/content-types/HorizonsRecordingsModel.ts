@@ -44,4 +44,14 @@ export type HorizonsRecordingsModel = IContentItem<{
    * Codename: event_date
    */
   eventDate: Elements.LinkedItemsElement<EventDateModel>;
+
+  /**
+   * Recordings Pardot URL (text)
+   * Required: false
+   * Id: 7331bb91-9f9f-42ee-bfbb-3f1782f36f85
+   * Codename: recordings_pardot_url
+   *
+   * Pardot URL, ie. https://tracker.kontent.ai/l/849473/2020-05-20/6qk5
+   */
+  recordingsPardotUrl: Elements.TextElement;
 }>;
