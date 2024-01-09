@@ -12,11 +12,11 @@ const fixNumberPrefixElementResolver = (elementName) => {
 };
 
 const runAsync = async () => {
-	rmSync("../models", { recursive: true });
-	mkdirSync("../models");
+	rmSync('./src/models', { recursive: true, force: true })
+  mkdirSync('./src/models', { recursive: true })
 
-	// change working directory to models
-	process.chdir("./src/models");
+  // change working directory to models
+  process.chdir('./src/models')
 
 	await generateModelsAsync({
 		sdkType: "delivery",
@@ -33,7 +33,7 @@ const runAsync = async () => {
 		taxonomyTypeResolver: (type) => `${textHelper.toPascalCase(type.codename)}`,
 		exportProjectSettings: {
 			exportWebhooks: false,
-			exportWorkflows: false,
+			exportWorkflows: true,
 			exportRoles: false,
 			exportAssetFolders: false,
 			exportCollections: false,
