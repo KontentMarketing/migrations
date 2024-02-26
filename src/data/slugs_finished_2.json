@@ -1,0 +1,248 @@
+[
+  {
+    "status": "published",
+    "slug": "about",
+    "publish_date": "Mon Dec 04 2023"
+  },
+  {
+    "status": "published",
+    "slug": "app",
+    "publish_date": "Tue Oct 10 2023"
+  },
+  {
+    "status": "published",
+    "slug": "become-partner",
+    "publish_date": "Tue Nov 28 2023"
+  },
+  {
+    "status": "published",
+    "slug": "community",
+    "publish_date": "Thu Feb 08 2024"
+  },
+  {
+    "status": "published",
+    "slug": "contact",
+    "publish_date": "Thu Feb 09 2023"
+  },
+  {
+    "status": "NOT_FOUND",
+    "slug": "content-maturity-explorer"
+  },
+  {
+    "status": "archived",
+    "slug": "cookies-policy",
+    "publish_date": "Thu Feb 24 2022"
+  },
+  {
+    "status": "NOT_FOUND",
+    "slug": "developer-plan"
+  },
+  {
+    "status": "published",
+    "slug": "developers",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "published",
+    "slug": "discord",
+    "publish_date": "Thu Feb 08 2024"
+  },
+  {
+    "status": "draft",
+    "slug": "enterprise-trial",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "published",
+    "slug": "for-content-teams",
+    "publish_date": "Fri Nov 24 2023"
+  },
+  {
+    "status": "published",
+    "slug": "free-trial",
+    "publish_date": "Tue Dec 05 2023"
+  },
+  {
+    "status": "published",
+    "slug": "g2-grid-for-headless-cms",
+    "publish_date": "Thu Feb 08 2024"
+  },
+  {
+    "status": "archived",
+    "slug": "gdpr",
+    "publish_date": "Mon Oct 18 2021"
+  },
+  {
+    "status": "published",
+    "slug": "get-a-quote",
+    "publish_date": "Tue Feb 07 2023"
+  },
+  {
+    "status": "published",
+    "slug": "headless-cms-guide",
+    "publish_date": "Mon Aug 07 2023"
+  },
+  {
+    "status": "published",
+    "slug": "how-it-works",
+    "publish_date": "Wed Nov 29 2023"
+  },
+  {
+    "status": "archived",
+    "slug": "how-to-choose-headless-cms",
+    "publish_date": "Fri Dec 08 2023"
+  },
+  {
+    "status": "published",
+    "slug": "jamstack",
+    "publish_date": "Thu Feb 08 2024"
+  },
+  {
+    "status": "archived",
+    "slug": "marketers",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "published",
+    "slug": "newsletter",
+    "publish_date": "Wed Jul 26 2023"
+  },
+  {
+    "status": "published",
+    "slug": "penetration-testing-policy",
+    "publish_date": "Fri Aug 04 2023"
+  },
+  {
+    "status": "archived",
+    "slug": "privacy",
+    "publish_date": "Wed Nov 10 2021"
+  },
+  {
+    "status": "published",
+    "slug": "request-demo",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "published",
+    "slug": "request-for-proposal",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "published",
+    "slug": "return-on-content",
+    "publish_date": "Wed Oct 25 2023"
+  },
+  {
+    "status": "archived",
+    "slug": "security-policy",
+    "publish_date": "Mon Oct 18 2021"
+  },
+  {
+    "status": "published",
+    "slug": "services",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "published",
+    "slug": "tco-calculator",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "archived",
+    "slug": "terms-of-service",
+    "publish_date": "Fri Feb 04 2022"
+  },
+  {
+    "status": "published",
+    "slug": "trial",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "published",
+    "slug": "trust-and-governance",
+    "publish_date": "Thu Oct 26 2023"
+  },
+  {
+    "status": "published",
+    "slug": "vulnerability-disclosure-policy",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "NOT_FOUND",
+    "slug": "blog"
+  },
+  {
+    "status": "NOT_FOUND",
+    "slug": "press"
+  },
+  {
+    "status": "published",
+    "slug": "careers",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "NOT_FOUND",
+    "slug": "customers"
+  },
+  {
+    "status": "NOT_FOUND",
+    "slug": "events-and-webinars"
+  },
+  {
+    "status": "archived",
+    "slug": "horizons",
+    "publish_date": "Tue Oct 17 2023"
+  },
+  {
+    "status": "NOT_FOUND",
+    "slug": "glossary"
+  },
+  {
+    "status": "NOT_FOUND",
+    "slug": "partner-space"
+  },
+  {
+    "status": "published",
+    "slug": "integrations",
+    "publish_date": "Thu Feb 09 2023"
+  },
+  {
+    "status": "published",
+    "slug": "mvp-program",
+    "publish_date": "Tue Jul 11 2023"
+  },
+  {
+    "status": "published",
+    "slug": "partners",
+    "publish_date": "Tue Nov 28 2023"
+  },
+  {
+    "status": "published",
+    "slug": "pricing",
+    "publish_date": "Wed Feb 07 2024"
+  },
+  {
+    "status": "published",
+    "slug": "compare",
+    "publish_date": "Tue Nov 28 2023"
+  },
+  {
+    "status": "published",
+    "slug": "features",
+    "publish_date": "Fri Nov 24 2023"
+  },
+  {
+    "status": "published",
+    "slug": "industry",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "published",
+    "slug": "solutions",
+    "publish_date": "Fri Jun 16 2023"
+  },
+  {
+    "status": "NOT_FOUND",
+    "slug": "resources"
+  }
+]

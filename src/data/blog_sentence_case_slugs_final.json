@@ -1,0 +1,1087 @@
+[
+  {
+    "slug": "announcing-the-2023-kontent-ai-mvps",
+    "meta_title": "Announcing the 2023 Kontent.ai MVPs 🏆",
+    "post_codename": "_a__2023_mvps_announcement"
+  },
+  {
+    "slug": "pre-rendered-server-rendered-or-hybrid-which-should-i-use",
+    "meta_title": "Pre-rendered, server-rendered, or hybrid?",
+    "post_codename": "_a___kyan__pre_rendered__server_rendered__or_hybri"
+  },
+  {
+    "slug": "stop-bothering-people-with-recaptcha-use-recaptcha",
+    "meta_title": "Stop bothering people with reCaptcha; use reCaptcha",
+    "post_codename": "_a__adding_recaptcha_v3_to_your_next_js_site"
+  },
+  {
+    "slug": "avoid-production-errors-after-unexpected-content-model-changes",
+    "meta_title": "How to avoid production errors caused by content changes",
+    "post_codename": "_a__avoid_production_errors_after_unexpected_conte"
+  },
+  {
+    "slug": "comparison-of-jamstack-hosting-platforms-for-next-js",
+    "meta_title": "What’s the best place to host Next.js site?",
+    "post_codename": "_a__comparison_of_jamstack_hosting_platforms"
+  },
+  {
+    "slug": "avoid-vendor-lock-in-migrating-content-from-contentful-to-kontent",
+    "meta_title": "Avoid vendor lock-in: Migrating content from Contentful to Kontent",
+    "post_codename": "_a__contentful____kontent_migration"
+  },
+  {
+    "slug": "gatsby-vs-next-gridsome-nuxt",
+    "meta_title": "Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?",
+    "post_codename": "_a__gatsby_vs_next"
+  },
+  {
+    "slug": "how-to-generate-rss-feed-in-next-js",
+    "meta_title": "How to generate RSS feed in Next.js",
+    "post_codename": "_a__generating_rss_in_next_js"
+  },
+  {
+    "slug": "how-to-build-urls-and-handle-redirects-in-next-js",
+    "meta_title": "How to build URLs and handle redirects in Next.js",
+    "post_codename": "_a__handling_redirects_in_next_js_v2"
+  },
+  {
+    "slug": "how-to-handle-url-redirects-with-headless-cms",
+    "meta_title": "How to handle URL redirects when using a headless CMS",
+    "post_codename": "_a__how_to_handle_url_redirects_with_headless_cms"
+  },
+  {
+    "slug": "how-to-start-a-b-testing-your-next-js-site",
+    "meta_title": "How to implement AB tests in Next.js",
+    "post_codename": "_a__how_to_implement_ab_tests_in_next_js"
+  },
+  {
+    "slug": "how-kontent-ai-handles-disaster-recovery",
+    "meta_title": "How Kontent.ai handles disaster recovery",
+    "post_codename": "_a__how_we_do_disaster_recovery"
+  },
+  {
+    "slug": "how-we-moved-from-zero-to-a-viable-ai-solution-with-headless-cms",
+    "meta_title": "How we moved from zero to a viable AI solution with Kontent.ai",
+    "post_codename": "_a__how_we_moved_from_zero_to_a_viable_ai_solution"
+  },
+  {
+    "slug": "news-in-javascript-sdks",
+    "meta_title": "The all new JavaScript SDKs—Should you upgrade?",
+    "post_codename": "_a__news_in_javascript_sdks"
+  },
+  {
+    "slug": "how-to-run-scripts-before-every-build-on-next-js",
+    "meta_title": "How to run scripts before every build on Next.js",
+    "post_codename": "_a__next_js_pre_build_scripts"
+  },
+  {
+    "slug": "processing-webhooks-in-next-js",
+    "meta_title": "How to verify and process webhook notifications in Next.js",
+    "post_codename": "_a__processing_webhooks_in_next_js"
+  },
+  {
+    "slug": "react-or-vue-gatsby-or-gridsome",
+    "meta_title": "How to decide between React and Vue? Gatsby and Gridsome?",
+    "post_codename": "_a__react_or_vue__gatsby_or_gridsome_"
+  },
+  {
+    "slug": "build-jamstack-site-with-angular-and-scully",
+    "meta_title": "Build Jamstack site with Angular and Scully",
+    "post_codename": "_a__scully___how_to"
+  },
+  {
+    "slug": "defeat-technical-debt-on-a-modern-website-and-make-it-future-proof",
+    "meta_title": "Defeat technical debt on a modern website and make it future-proof",
+    "post_codename": "_a__solving_tech_debt_from_broken_content_model"
+  },
+  {
+    "slug": "static-site-personalization",
+    "meta_title": "Personalizing static sites using Kontent and Pardot",
+    "post_codename": "_a__static_site_personalization"
+  },
+  {
+    "slug": "kontent-ai-new-technology-mvps-2023",
+    "meta_title": "Kontent.ai welcomes two new Technology MVPs",
+    "post_codename": "_a__tech_mvp_announcement"
+  },
+  {
+    "slug": "how-to-test-cookies-using-end-to-end-tests-and-playwright",
+    "meta_title": "How to test cookies using end-to-end tests and Playwright",
+    "post_codename": "_a__testing_cookies_with_playwright"
+  },
+  {
+    "slug": "how-to-benefit-from-const-assertion-in-your-typescript-code",
+    "meta_title": "How to benefit from const assertion in your TypeScript code?",
+    "post_codename": "_a__what_is__as_const__in_typescript_"
+  },
+  {
+    "slug": "positive-the-perfect-blend-of-marketing-expertise-and-technical-ability",
+    "meta_title": "Meet client-centric and outcome-orientated, Positive",
+    "post_codename": "_blog__positive__the_perfect_blend_of_marketing_ex"
+  },
+  {
+    "slug": "introducing-luminary-a-leader-in-digital-experiences",
+    "meta_title": "Introducing Luminary, a leader in digital experiences",
+    "post_codename": "_draft__blog__introducing_luminary__a_leader_in_di"
+  },
+  {
+    "slug": "content-mapping",
+    "meta_title": "A guide to effective content mapping for enhanced user engagement",
+    "post_codename": "a_guide_to_effective_content_mapping_for_enhanced_"
+  },
+  {
+    "slug": "how-leading-organizations-across-the-globe-exceed-customer-expectations",
+    "meta_title": "How leading organizations across the globe exceed customer expectations",
+    "post_codename": "a_word_from_the_ceo__candid_insights_from_our_comm"
+  },
+  {
+    "slug": "actum-digital-empowering-organizations-with-digital-platforms",
+    "meta_title": "ACTUM Digital: Empowering organizations with digital platforms",
+    "post_codename": "actum_digital__empowering_organizations_with_digit"
+  },
+  {
+    "slug": "addressing-localization-challenges-with-headless-content-management",
+    "meta_title": "Addressing localization challenges with headless content management",
+    "post_codename": "addressing_localization_challenges_with_headless_c"
+  },
+  {
+    "slug": "agile-personalization-strategy-for-success",
+    "meta_title": "Agile personalization: A strategy for success",
+    "post_codename": "agile_personalization__a_strategy_for_success"
+  },
+  {
+    "slug": "ai-based-auto-tagging-of-content-what-you-need-to-know",
+    "meta_title": "AI-based auto-tagging of content: What you need to know",
+    "post_codename": "ai_based_auto_tagging_of_content__what_you_need_to"
+  },
+  {
+    "slug": "kontent-ai-introduces-industry-s-first-cms-with-native-ai-capabilities",
+    "meta_title": "Kontent.ai introduces industry’s first CMS with native AI capabilities",
+    "post_codename": "ai_launch_pr_article"
+  },
+  {
+    "slug": "machine-learning-how-to-ensure-labels-are-smart-not-lucky",
+    "meta_title": "Machine learning: How to ensure labels are smart, not lucky",
+    "post_codename": "automate_content_categorization_with_ml_net"
+  },
+  {
+    "slug": "how-to-automatically-translate-content-using-webhooks",
+    "meta_title": "Automatic translation of content items using webhooks",
+    "post_codename": "automatic_translation_using_webhooks"
+  },
+  {
+    "slug": "best-404-page-examples",
+    "meta_title": "Best 404 page examples from our customers",
+    "post_codename": "best_404_page_examples_from_our_customers"
+  },
+  {
+    "slug": "best-landing-page-examples",
+    "meta_title": "Best landing page design examples from our customers",
+    "post_codename": "best_landing_page_design_examples_of_our_customers"
+  },
+  {
+    "slug": "best-practices-for-writing-modular-content",
+    "meta_title": "Best practices for writing modular content",
+    "post_codename": "best_practices_for_writing_modular_content"
+  },
+  {
+    "slug": "best-product-page-examples",
+    "meta_title": "Best product page design examples in 2024",
+    "post_codename": "best_product_page_design_examples_of_our_customers"
+  },
+  {
+    "slug": "from-chaos-to-clarity-best-practices-for-content-taxonomy",
+    "meta_title": "From chaos to clarity: Best practices for content taxonomy",
+    "post_codename": "blog__content_taxonomy"
+  },
+  {
+    "slug": "decoding-ai-success-tips-for-businesses-to-achieve-maximum-value-and-content-security",
+    "meta_title": "Decoding AI success: Tips for businesses to achieve maximum value and content security",
+    "post_codename": "blog__decoding_ai_success__tips_for_businesses_to_"
+  },
+  {
+    "slug": "governance-risk-and-compliance-at-kontent-ai",
+    "meta_title": "Governance, risk, and compliance at Kontent.ai",
+    "post_codename": "blog__governance__risk__and_compliance_in_kontent_"
+  },
+  {
+    "slug": "how-we-implemented-security-in-a-modern-hybrid-workplace",
+    "meta_title": "How we implemented security in a modern hybrid workplace",
+    "post_codename": "blog__how_we_implemented_security_in_a_modern_hybr"
+  },
+  {
+    "slug": "kontent-ai-expands-its-mvp-program-with-two-new-categories",
+    "meta_title": "Kontent.ai expands its MVP program with two new categories",
+    "post_codename": "blog__kontent_ai_expands_its_mvp_program"
+  },
+  {
+    "slug": "kontent-ai-joins-cybersecurity-tech-accord",
+    "meta_title": "Kontent.ai joins Cybersecurity Tech Accord",
+    "post_codename": "blog__kontent_ai_joins_cybersecurity_tech_accord"
+  },
+  {
+    "slug": "kontent-ai-launches-enhanced-partner-program",
+    "meta_title": "Kontent.ai launches enhanced Partner Program",
+    "post_codename": "blog__kontent_ai_launches_enhanced_partner_program"
+  },
+  {
+    "slug": "looking-back-at-2023-trends-which-predictions-were-spot-on",
+    "meta_title": "Looking back at 2023 trends: Which predictions were spot on?",
+    "post_codename": "blog__looking_back_at_2023_trends__which_predictio"
+  },
+  {
+    "slug": "meet-community-minded-customer-centric-konabos",
+    "meta_title": "Meet community-minded, customer-centric Konabos",
+    "post_codename": "blog__meet_community_minded__customer_centric_kona"
+  },
+  {
+    "slug": "navigating-the-privacy-landscape-how-kontent-ai-upholds-data-protection",
+    "meta_title": "Navigating the privacy landscape: How Kontent.ai upholds data protection",
+    "post_codename": "blog__navigating_the_privacy_landscape"
+  },
+  {
+    "slug": "product-security-assurance-of-kontent-ai-a-trustworthy-foundation-for-content-management",
+    "meta_title": "Product security assurance of Kontent.ai: A trustworthy foundation for content management",
+    "post_codename": "blog__product_security_assurance_of_kontent_ai"
+  },
+  {
+    "slug": "bridging-facts-and-stories-ai-enterprise-content-creation",
+    "meta_title": "Bridging facts and stories: AI content creation",
+    "post_codename": "bridging_facts_and_stories_blog_post"
+  },
+  {
+    "slug": "building-a-cloud-first-headless-cms",
+    "meta_title": "Building a cloud-first headless CMS",
+    "post_codename": "building_a_cloud_first_headless_cms"
+  },
+  {
+    "slug": "headless-cms-site-built-in-one-day",
+    "meta_title": "Building a website with headless CMS in just one day",
+    "post_codename": "building_a_website_with_headless_cms_in_just_one_d"
+  },
+  {
+    "slug": "content-pipeline",
+    "meta_title": "Building an agile content pipeline with a headless CMS",
+    "post_codename": "building_an_agile_content_pipeline_with_a_headless"
+  },
+  {
+    "slug": "building-secure-software-kontent-ais-adoption-of-sbom",
+    "meta_title": "Building secure software: Kontent.ai’s adoption of SBOM",
+    "post_codename": "building_secure_software__kontent_ai_s_adoption_of"
+  },
+  {
+    "slug": "building-your-custom-documentation-portal-when-you-already-have-two",
+    "meta_title": "Building your custom documentation portal (when you already have two)",
+    "post_codename": "building_your_custom_documentation_portal"
+  },
+  {
+    "slug": "clearing-obsolete-cache-entries-with-webhooks",
+    "meta_title": "Clearing obsolete cache entries with webhooks",
+    "post_codename": "clearing_obsolete_cache_entries_with_webhooks"
+  },
+  {
+    "slug": "cms-in-the-cloud-headless-cms",
+    "meta_title": "CMS in the cloud sucks and why it's time for a cloud-first headless CMS",
+    "post_codename": "cloud_cms___part_1"
+  },
+  {
+    "slug": "common-misconceptions-about-generative-ai",
+    "meta_title": "Common misconceptions about generative AI",
+    "post_codename": "common_misconceptions_about_generative_ai"
+  },
+  {
+    "slug": "content-architecture",
+    "meta_title": "Content architecture: Building the digital blueprint",
+    "post_codename": "content_architecture__building_the_digital_bluepri"
+  },
+  {
+    "slug": "content-federation-doesnt-deliver-unified-publishing",
+    "meta_title": "Content federation doesn’t deliver unified publishing",
+    "post_codename": "content_federation_doesn_t_deliver_unified_publish"
+  },
+  {
+    "slug": "content-governance",
+    "meta_title": "Content governance in the digital age",
+    "post_codename": "content_governance_in_the_digital_age__harnessing_"
+  },
+  {
+    "slug": "content-strategy-using-chatgpt-with-a-headless-cms",
+    "meta_title": "Content strategy using ChatGPT with a headless CMS",
+    "post_codename": "content_strategy_using_chatgpt_with_a_headless_cms"
+  },
+  {
+    "slug": "content-strategy-vs-content-marketing",
+    "meta_title": "Content strategy vs content marketing: The key differences",
+    "post_codename": "content_strategy_vs_content_marketing"
+  },
+  {
+    "slug": "content-creation-process",
+    "meta_title": "A deep dive into the content creation process",
+    "post_codename": "crafting_content_in_the_digital_age__a_deep_dive_i"
+  },
+  {
+    "slug": "create-once-publish-everywhere-doing-cope-right",
+    "meta_title": "Create once, publish everywhere: Doing COPE right",
+    "post_codename": "create_once__publish_everywhere__doing_cope_right"
+  },
+  {
+    "slug": "how-to-quickly-build-a-headless-website-template",
+    "meta_title": "How to quickly build a headless website template",
+    "post_codename": "creating_a_web_template_using_kentico_cloud"
+  },
+  {
+    "slug": "defining-processes-and-procedures-to-support-content-operations",
+    "meta_title": "Defining processes and procedures",
+    "post_codename": "defining_processes_and_procedures_to_support_conte"
+  },
+  {
+    "slug": "how-to-disable-webhook-notifications-at-your-command",
+    "meta_title": "Disable webhook notifications at your command",
+    "post_codename": "disable_and_enable_webhooks"
+  },
+  {
+    "slug": "how-to-build-a-strong-content-value-chain",
+    "meta_title": "How to build a strong content value chain",
+    "post_codename": "does_your_cms_build_or_destroy_content_value_"
+  },
+  {
+    "slug": "drive-success-with-an-engaging-customer-education-program",
+    "meta_title": "Drive success with engaging customer education",
+    "post_codename": "drive_success_with_an_engaging_customer_education_"
+  },
+  {
+    "slug": "edit-your-content-directly-from-website",
+    "meta_title": "Edit your content directly from your website",
+    "post_codename": "edit_your_content_directly_from_your_website"
+  },
+  {
+    "slug": "4-step-guide-to-effective-editorial-workflow",
+    "meta_title": "4-step guide to an effective editorial workflow",
+    "post_codename": "editorial_workflow"
+  },
+  {
+    "slug": "effective-content-modeling",
+    "meta_title": "Effective content modeling",
+    "post_codename": "effective_content_modeling"
+  },
+  {
+    "slug": "shift-from-on-premise-platforms-to-headless-composable-saas-solutions",
+    "meta_title": "Shift from on-premise platforms to headless, composable SAAS solutions",
+    "post_codename": "embrace_the_future__shift_from_on_premise_platform"
+  },
+  {
+    "slug": "emerging-best-practices-for-disclosing-ai-generated-content",
+    "meta_title": "Emerging best practices for disclosing AI-generated content",
+    "post_codename": "emerging_best_practices_for_disclosing_ai_generate"
+  },
+  {
+    "slug": "enterprise-content-governance-model-for-decision-making",
+    "meta_title": "Enterprise content governance model",
+    "post_codename": "enterprise_content_governance_model_for_decision_m"
+  },
+  {
+    "slug": "expand-content-reach-and-variety-with-structured-api-delivery",
+    "meta_title": "Expand your content’s reach and variety with structured API delivery",
+    "post_codename": "expand_your_content_s_reach_and_variety_with_struc"
+  },
+  {
+    "slug": "five-benefits-of-reusing-content",
+    "meta_title": "Five benefits of reusing content",
+    "post_codename": "five_benefits_of_reusing_content"
+  },
+  {
+    "slug": "five-keys-to-prepping-content-like-a-top-chef",
+    "meta_title": "Five keys to prepping content like a top chef",
+    "post_codename": "five_keys_to_prepping_content_like_a_top_chef"
+  },
+  {
+    "slug": "flask-python-and-headless",
+    "meta_title": "Headless, Python, and Flask: Massive flexibility in a microframework",
+    "post_codename": "flask_and_headless"
+  },
+  {
+    "slug": "content-management-workflow",
+    "meta_title": "Demystifying the content management workflow",
+    "post_codename": "from_content_ideation_to_publication__demystifying"
+  },
+  {
+    "slug": "graphql-support-in-kontent-for-devs",
+    "meta_title": "What does native GraphQL support in Kontent bring for devs?",
+    "post_codename": "graphql_article_for_devs"
+  },
+  {
+    "slug": "start-2023-off-right-with-kontent-ai-s-yearly-release-wrap-up",
+    "meta_title": "Start 2023 off right with Kontent.ai’s release wrap-up",
+    "post_codename": "have_a_head_start_with_kontent_ai_and_make_your_co"
+  },
+  {
+    "slug": "how-apis-can-support-your-content-strategy",
+    "meta_title": "How APIs can support your content strategy",
+    "post_codename": "how_apis_can_support_your_content_strategy"
+  },
+  {
+    "slug": "how-content-and-design-can-support-each-other",
+    "meta_title": "How content and design can support each other",
+    "post_codename": "how_content_and_design_can_support_each_other"
+  },
+  {
+    "slug": "how-content-and-ux-can-define-user-interaction-together",
+    "meta_title": "How content and UX define user interaction",
+    "post_codename": "how_content_and_ux_can_work_together_to_define_use"
+  },
+  {
+    "slug": "how-content-is-a-game-changer-for-sports-organizations",
+    "meta_title": "How content is a game changer for sports organizations",
+    "post_codename": "how_content_is_a_game_changer_for_sports_organizat"
+  },
+  {
+    "slug": "how-content-professionals-can-influence-organizational-change",
+    "meta_title": "How content professionals can influence organizational change",
+    "post_codename": "how_content_professionals_can_influence_change_in_"
+  },
+  {
+    "slug": "how-does-headless-cms-fit-into-an-aws-setup",
+    "meta_title": "How does headless CMS fit into an AWS setup?",
+    "post_codename": "how_does_kentico_cloud_fit_into_an_aws_setup_"
+  },
+  {
+    "slug": "how-generative-ai-fits-into-content-development-processes",
+    "meta_title": "How generative AI fits into content development processes",
+    "post_codename": "how_generative_ai_fits_into_content_development_pr"
+  },
+  {
+    "slug": "how-many-content-types-do-you-need",
+    "meta_title": "How many content types do you need?",
+    "post_codename": "how_many_content_types_do_you_need_"
+  },
+  {
+    "slug": "how-structured-content-is-different-in-headless-cmss",
+    "meta_title": "How structured content is different in headless CMSs",
+    "post_codename": "how_structured_content_is_different_in_headless_cm"
+  },
+  {
+    "slug": "designing-systems-to-support-content-and-ux-collaboration",
+    "meta_title": "Designing systems to support content and UX collaboration",
+    "post_codename": "how_systems_can_support_content_and_ux_collaborati"
+  },
+  {
+    "slug": "how-to-calculate-the-total-cost-of-ownership-of-cms",
+    "meta_title": "How to calculate the TCO of a content management system",
+    "post_codename": "how_to_calculate_the_tco_of_a_cms"
+  },
+  {
+    "slug": "how-to-choose-your-ai-vendor",
+    "meta_title": "How to choose your AI vendor",
+    "post_codename": "how_to_choose_your_ai_vendor"
+  },
+  {
+    "slug": "how-to-embed-guidance-to-better-govern-your-content",
+    "meta_title": "How to embed guidance to better govern your content",
+    "post_codename": "how_to_embed_guidance_to_better_govern_your_conten"
+  },
+  {
+    "slug": "leveraging-next-js-on-demand-isr",
+    "meta_title": "How to improve cache efficiency and reduce costs with Next.js on-demand ISR",
+    "post_codename": "how_to_improve_cache_efficiency_and_reduce_costs_w"
+  },
+  {
+    "slug": "how-to-include-the-right-details-in-your-content-model",
+    "meta_title": "How to include the right details in your content model",
+    "post_codename": "how_to_include_the_right_details_in_your_content_m"
+  },
+  {
+    "slug": "how-to-trigger-github-action-using-webhook-with-no-code",
+    "meta_title": "How to trigger a GitHub action using a webhook",
+    "post_codename": "how_to_trigger_github_action_using_a_webhook__with"
+  },
+  {
+    "slug": "how-to-write-headline",
+    "meta_title": "How to write a powerful headline",
+    "post_codename": "how_to_write_a_powerful_headline"
+  },
+  {
+    "slug": "hugo-and-headless-cms",
+    "meta_title": "How to make the team happy with Hugo and headless",
+    "post_codename": "hugo_and_headless"
+  },
+  {
+    "slug": "ignite-your-knowledge-new-learn-is-now-live",
+    "meta_title": "Ignite your knowledge: New Learn is now live!",
+    "post_codename": "ignite_your_knowledge__new_learn_is_now_live_"
+  },
+  {
+    "slug": "image-transformations-master-responsive-design-with-kentico-cloud",
+    "meta_title": "Image transformations — Master responsive design with Kentico Cloud",
+    "post_codename": "image_transformations"
+  },
+  {
+    "slug": "improve-the-modularity-of-your-next-user-experience-project",
+    "meta_title": "Improve the modularity of your next UX project",
+    "post_codename": "improve_the_modularity_of_your_next_user_experienc"
+  },
+  {
+    "slug": "improving-regulatory-compliance-in-financial-content-using-headless-cms",
+    "meta_title": "Improving compliance in financial content with a headless CMS",
+    "post_codename": "improving_regulatory_compliance_in_financial_conte"
+  },
+  {
+    "slug": "join-the-brand-new-kentico-cloud-partner-program",
+    "meta_title": "Join the brand new Kentico Cloud partner program",
+    "post_codename": "join_the_brand_new_kentico_cloud_partner_program"
+  },
+  {
+    "slug": "how-to-keep-it-stupid-simple-use-net-core-razor-pages",
+    "meta_title": "How to keep it stupid simple: Use .NET Core Razor Pages",
+    "post_codename": "keep_it_simple_with_razor_pages_and_caas"
+  },
+  {
+    "slug": "kontent-ai-sdlc-in-agile-methodology",
+    "meta_title": "Kontent.ai SDLC in agile methodology",
+    "post_codename": "kentico_cloud_sdlc_in_agile_methodology"
+  },
+  {
+    "slug": "kentico-kontent-achieves-soc-2-type-1-compliance",
+    "meta_title": "Kontent.ai achieves SOC 2 Type 1 compliance",
+    "post_codename": "kentico_kontent_achieves_soc_2_type_1_compliance"
+  },
+  {
+    "slug": "kentico-kontent-completes-soc-2-type-2-examination",
+    "meta_title": "Kontent.ai completes SOC 2 Type 2 examination",
+    "post_codename": "kentico_kontent_completes_soc_2_type_2_examination"
+  },
+  {
+    "slug": "kontent-ai-achieves-iso-27001-and-27017-certifications",
+    "meta_title": "Kontent.ai achieves ISO 27001 and 27017 security certifications",
+    "post_codename": "kontent_ai_achieves_iso_27001_and_27017_security_c"
+  },
+  {
+    "slug": "kontent-ai-appoints-new-senior-executives-and-joins-mach-alliance",
+    "meta_title": "Kontent.ai appoints new senior executives and joins MACH Alliance to support global expansion",
+    "post_codename": "kontent_ai_appoints_new_senior_executives_and_join"
+  },
+  {
+    "slug": "kontent-g2-fall-2022-enterprise-headless-cms-leader",
+    "meta_title": "Kontent.ai named an enterprise headless CMS leader on G2",
+    "post_codename": "kontent_ai_g2_fall_2022_enterprise_headless_cms_le"
+  },
+  {
+    "slug": "3-takeaways-from-kontent-ai-horizons-2022-in-london",
+    "meta_title": "3 takeaways from Kontent.ai Horizons 2022 in London",
+    "post_codename": "kontent_ai_horizons_2022_in_london___wrap_up_blog"
+  },
+  {
+    "slug": "takeaways-from-kontent-ai-horizons-2022-in-new-york",
+    "meta_title": "Takeaways from Kontent.ai Horizons 2022 in NYC",
+    "post_codename": "kontent_ai_horizons_2022_in_nyc___wrap_up_blog"
+  },
+  {
+    "slug": "kontent-ai-horizons-2023-in-sydney-3-game-changing-insights",
+    "meta_title": "Kontent.ai Horizons 2023 in Sydney: 3 game-changing insights",
+    "post_codename": "kontent_ai_horizons_2023_in_sydney__3_game_changin"
+  },
+  {
+    "slug": "kontent-ai-provides-hipaa-compliance-for-customers",
+    "meta_title": "Kontent.ai provides HIPAA compliance for customers",
+    "post_codename": "kontent_ai_is_hipaa_compliant___blog_post_announce"
+  },
+  {
+    "slug": "kontent-ai-joins-the-mach-alliance",
+    "meta_title": "Kontent.ai joins the MACH Alliance",
+    "post_codename": "kontent_ai_joins_the_mach_alliance"
+  },
+  {
+    "slug": "kontent-ai-recognized-in-gartner-market-guide-for-wcm-2022",
+    "meta_title": "Kontent.ai recognized in 2022 Gartner® Market Guide for Web Content Management",
+    "post_codename": "kontent_ai_recognized_in_gartner_s_market_guide_fo"
+  },
+  {
+    "slug": "kontent-hates-wysiwyg",
+    "meta_title": "Kontent.ai hates: WYSIWYG",
+    "post_codename": "kontent_hates__wysiwyg__09_"
+  },
+  {
+    "slug": "kontent-transactable-offer-azure-marketplace",
+    "meta_title": "Kontent.ai is now a transactable offer on Azure Marketplace",
+    "post_codename": "kontent_is_the_first_certified_headless_cms_on_azu"
+  },
+  {
+    "slug": "kontent-loves-ab-tests",
+    "meta_title": "Kontent.ai loves: A/B tests",
+    "post_codename": "kontent_loves__a_b_tests__04_"
+  },
+  {
+    "slug": "kontent-loves-analytics",
+    "meta_title": "Kontent.ai loves: Analytics",
+    "post_codename": "kontent_loves__analytics__05_"
+  },
+  {
+    "slug": "kontent-loves-collaboration",
+    "meta_title": "Kontent.ai loves: Collaboration",
+    "post_codename": "kontent_loves__collaboration"
+  },
+  {
+    "slug": "kontent-loves-landing-pages",
+    "meta_title": "Kontent.ai loves: Landing pages",
+    "post_codename": "kontent_loves__landing_pages__01_"
+  },
+  {
+    "slug": "kontent-loves-marketing-automation",
+    "meta_title": "Kontent.ai loves: Marketing automation",
+    "post_codename": "kontent_loves__marketing_automation__07_"
+  },
+  {
+    "slug": "kontent-loves-personalization",
+    "meta_title": "Kontent.ai loves: Personalization",
+    "post_codename": "kontent_loves__personalization__06_"
+  },
+  {
+    "slug": "kontent-loves-seo",
+    "meta_title": "Kontent.ai loves: SEO",
+    "post_codename": "kontent_loves__seo__03_"
+  },
+  {
+    "slug": "kontent-loves-social-media",
+    "meta_title": "Kontent.ai loves: Ads and social media",
+    "post_codename": "kontent_loves__social_media__08_"
+  },
+  {
+    "slug": "how-to-launch-a-beautiful-website-from-headless-web-templates",
+    "meta_title": "How to launch a beautiful website from headless web templates",
+    "post_codename": "launching_a_website_from_headless_web_templates"
+  },
+  {
+    "slug": "lessons-learned-from-building-a-reliable-educational-portal",
+    "meta_title": "Lessons learned from building a reliable educational portal",
+    "post_codename": "lessons_learned_from_building_a_reliable_education"
+  },
+  {
+    "slug": "leverage-technology-to-enhance-content-operations",
+    "meta_title": "Leverage technology to enhance content operations",
+    "post_codename": "leverage_technology_to_enhance_content_operations_"
+  },
+  {
+    "slug": "make-your-design-system-content-friendly",
+    "meta_title": "Make your design system content-friendly",
+    "post_codename": "make_your_design_system_content_friendly"
+  },
+  {
+    "slug": "make-your-rich-text-portable",
+    "meta_title": "Make your rich text portable",
+    "post_codename": "making_your_rich_text_even_richer"
+  },
+  {
+    "slug": "manage-content-and-assets-across-multiple-teams-and-channels",
+    "meta_title": "Manage content and assets across multiple teams and channels",
+    "post_codename": "manage_content_and_assets_across_multiple_teams_an"
+  },
+  {
+    "slug": "manage-multiple-websites-efficiently-with-kontent-ai",
+    "meta_title": "Manage multiple websites efficiently with Kontent.ai",
+    "post_codename": "manage_multiple_websites_efficiently_in_2023_and_b"
+  },
+  {
+    "slug": "meet-mmt-the-digital-change-makers",
+    "meta_title": "Meet MMT, the digital change makers",
+    "post_codename": "meet_mmt__the_digital_change_makers__partner_of_th"
+  },
+  {
+    "slug": "migrating-content-from-a-monolith-cms-to-a-headless-cms",
+    "meta_title": "Migrating content from a monolith CMS to a headless CMS",
+    "post_codename": "migrating_content_from_a_monolith_cms_to_a_headles"
+  },
+  {
+    "slug": "modular-ux-using-a-headless-cms",
+    "meta_title": "Modular UX using a headless CMS",
+    "post_codename": "modular_ux_using_a_headless_cms"
+  },
+  {
+    "slug": "seamless-multisite-management-with-web-spotlight",
+    "meta_title": "Seamless multisite management with Web Spotlight",
+    "post_codename": "multiple_root_items_blog_post"
+  },
+  {
+    "slug": "top-2023-trends-in-mach-insights-from-mach-alliance-members",
+    "meta_title": "Top 2023 trends in MACH: Insights from MACH Alliance members",
+    "post_codename": "n2023_trends_in_mach"
+  },
+  {
+    "slug": "3-inspiring-omnichannel-examples-you-should-know",
+    "meta_title": "3 inspiring omnichannel examples you should know",
+    "post_codename": "n3_inspiring_omnichannel_examples_you_should_know"
+  },
+  {
+    "slug": "3-steps-to-rapidly-deploy-headless-single-page-app",
+    "meta_title": "3 steps to rapidly deploy a headless single page application",
+    "post_codename": "n3_steps_to_rapidly_deploy_a_headless_spa"
+  },
+  {
+    "slug": "5-compelling-reasons-why-you-need-content-hub",
+    "meta_title": "5 compelling reasons why you need a content hub",
+    "post_codename": "n5_compelling_reasons_why_you_need_a_content_hub"
+  },
+  {
+    "slug": "5-content-contribution-guidelines-keep-writers-motivated",
+    "meta_title": "5 content contribution guidelines to keep your writers motivated",
+    "post_codename": "n5_content_contribution_guidelines_to_keep_writers_"
+  },
+  {
+    "slug": "5-hallmarks-of-a-great-content-strategy",
+    "meta_title": "5 hallmarks of a great content strategy",
+    "post_codename": "n5_hallmarks_of_a_great_content_strategy"
+  },
+  {
+    "slug": "5-effective-home-assistant-marketing-strategies",
+    "meta_title": "5 highly effective home assistant marketing strategies",
+    "post_codename": "n5_highly_effective_home_assistant_marketing_strate"
+  },
+  {
+    "slug": "5-social-media-tips-to-boost-your-business",
+    "meta_title": "5 social media tips to boost your business",
+    "post_codename": "n5_social_media_tips_to_boost_your_business"
+  },
+  {
+    "slug": "5-strategies-to-reach-unparalleled-return-on-content",
+    "meta_title": "5 strategies to reach an unparalleled return on content",
+    "post_codename": "n5_strategies_to_reach_an_unparalleled_return_on_c"
+  },
+  {
+    "slug": "6-reasons-why-you-need-a-content-strategy",
+    "meta_title": "6 reasons why you need a content strategy",
+    "post_codename": "n6_reasons_why_you_need_a_content_strategy"
+  },
+  {
+    "slug": "7-tips-for-explaining-headless-cms-to-your-clients",
+    "meta_title": "7 tips for explaining headless CMS to your clients",
+    "post_codename": "n7_tips_for_explaining_headless_cms_to_your_clients"
+  },
+  {
+    "slug": "next-js-playwright-tests-github-action",
+    "meta_title": "How to use Playwright with Next.js, Vercel, and GitHub",
+    "post_codename": "next_js___playwright_tests___github_action"
+  },
+  {
+    "slug": "enrich-your-nuxt-3-site-with-headless-cms-content",
+    "meta_title": "Enrich your Nuxt 3 site with headless CMS content",
+    "post_codename": "nuxt_3"
+  },
+  {
+    "slug": "demystify-nuxt-target-mode-and-ssr-properties",
+    "meta_title": "Demystify Nuxtʼs target, mode, and SSR properties",
+    "post_codename": "nuxt_js_configuration"
+  },
+  {
+    "slug": "optimize-your-digital-project-timeline-with-headless-cms",
+    "meta_title": "Optimize your web project timeline with headless CMS",
+    "post_codename": "optimize_your_web_project_timeline_with_headle"
+  },
+  {
+    "slug": "orchestration-in-personalization-matching-vs-directing",
+    "meta_title": "Orchestration in personalization: Matching vs. directing",
+    "post_codename": "orchestration_in_personalization__matching_vs__dir"
+  },
+  {
+    "slug": "inspired-or-stolen-how-to-stop-plagiarism-before-it-happens",
+    "meta_title": "Inspired or stolen? How to stop plagiarism before it happens",
+    "post_codename": "plagiarism___content_infringement"
+  },
+  {
+    "slug": "turn-insights-into-action-with-mission-control",
+    "meta_title": "Turn insights into action with Mission Control",
+    "post_codename": "product_premiere_blog___mission_control"
+  },
+  {
+    "slug": "q1-2023-release-wrap-up-more-control-over-content-operations",
+    "meta_title": "Q1 2023 release wrap-up: More control over content operations",
+    "post_codename": "q1_2023_release_wrap_up__having_more_control_over_"
+  },
+  {
+    "slug": "q2-2023-release-wrap-up-create-great-content-faster",
+    "meta_title": "Q2 2023 wrap-up: Create great content, faster",
+    "post_codename": "q2_2023_quarterly_wrap_up"
+  },
+  {
+    "slug": "q3-2022-release-wrap-up",
+    "meta_title": "Q3 2022 Kontent.ai release wrap-up",
+    "post_codename": "q3_2022_release_wrap_up"
+  },
+  {
+    "slug": "q3-2023-release-wrap-up-achieve-an-unparalleled-return-on-content",
+    "meta_title": "Q3 2023 release wrap-up: Achieve an unparalleled return on content",
+    "post_codename": "q3_2023_release_wrap_up__get_an_unparalleled_retur"
+  },
+  {
+    "slug": "how-to-unlock-multilingual-capabilities-of-your-react-website",
+    "meta_title": "How to improve your project with multilingual capabilities",
+    "post_codename": "react_routing_blog_post"
+  },
+  {
+    "slug": "emails-rounded-buttons-with-shadow-outlook",
+    "meta_title": "Implementing emails in 2021: Rounded buttons in Outlook",
+    "post_codename": "redesigning_e_mail_templates_2___buttons_with_shad"
+  },
+  {
+    "slug": "emails-inline-tags-vertical-alignment-outlook",
+    "meta_title": "Implementing emails in 2021: Inline tags & vertical alignment",
+    "post_codename": "redesigning_e_mail_templates_3___rounded_inline_ta"
+  },
+  {
+    "slug": "emails-outlook-containers-rounded-courners",
+    "meta_title": "Adding rounded corners to containers in Outlook",
+    "post_codename": "redesigning_e_mail_templates_4___containers__with_"
+  },
+  {
+    "slug": "emails-spacing-outlook-vertical-alignment-in-tables",
+    "meta_title": "Implementing emails 2021: Spacing and vertical alignment in tables",
+    "post_codename": "redesigning_e_mail_templates_4___spacing_in_outloo"
+  },
+  {
+    "slug": "basics-implementing-testing-generated-emails",
+    "meta_title": "Implementing emails in 2021: Basics & testing",
+    "post_codename": "redesigning_e_mail_templates___the_basics"
+  },
+  {
+    "slug": "scale-your-experience-connecting-content-and-design-modules",
+    "meta_title": "Scale your experience: Connecting content & design modules",
+    "post_codename": "scale_your_experience__connecting_content_and_desi"
+  },
+  {
+    "slug": "searching-headless-content-with-algolia-rails-kontent-next-js",
+    "meta_title": "Searching headless content with Algolia, Rails, Kontent & Next.js",
+    "post_codename": "searching_headless_content_with_algolia__rails__ko"
+  },
+  {
+    "slug": "security-as-a-business-enabler",
+    "meta_title": "Security as a business enabler: Building trust and empowering users",
+    "post_codename": "security_blog_post"
+  },
+  {
+    "slug": "sending-push-notifications-from-kontent",
+    "meta_title": "Sending push notifications from Kontent",
+    "post_codename": "sending_push_notifications_from_kontent"
+  },
+  {
+    "slug": "sourcebit-how-to-make-friends-with-various-data-sources-in-the-jamstack",
+    "meta_title": "How to make friends with various datasources in the Jamstack?",
+    "post_codename": "sourcebit"
+  },
+  {
+    "slug": "structured-content-as-building-blocks-of-the-user-experience",
+    "meta_title": "Structured content as building blocks of the user experience",
+    "post_codename": "structured_content_as_building_blocks_of_the_user_"
+  },
+  {
+    "slug": "structured-content-for-timelines",
+    "meta_title": "Structured content for timelines",
+    "post_codename": "structured_content_for_timelines"
+  },
+  {
+    "slug": "structured-rich-text-rendering-in-mvc",
+    "meta_title": "Structured rich text rendering in MVC",
+    "post_codename": "structured_rich_text_rendering_in_mvc"
+  },
+  {
+    "slug": "supply-chain-security-how-we-do-it-at-kontent-ai",
+    "meta_title": "Supply chain security and how we do it at Kontent.ai",
+    "post_codename": "supply_chain_security_and_how_we_do_it_at_kontent_"
+  },
+  {
+    "slug": "deployment-with-kontent-environments",
+    "meta_title": "Taking the fear out of deployments with environments",
+    "post_codename": "taking_the_fear_out_of_deployments_with_kontent_en"
+  },
+  {
+    "slug": "future-of-content-marketing",
+    "meta_title": "The future of content marketing | 5 trends to expect in 2023",
+    "post_codename": "the_future_of_content_marketing_and_x_trends_to_ex"
+  },
+  {
+    "slug": "structured-content",
+    "meta_title": "The power and potential of structured content",
+    "post_codename": "the_power_and_potential_of_structured_content__seo"
+  },
+  {
+    "slug": "the-rise-of-jamstack",
+    "meta_title": "The rise of JAMstack",
+    "post_codename": "the_rise_of_jamstack"
+  },
+  {
+    "slug": "role-of-governance-in-preventing-content-debt",
+    "meta_title": "Role of governance in preventing content debt",
+    "post_codename": "the_role_of_governance_in_preventing_content_debt"
+  },
+  {
+    "slug": "evergreen-content",
+    "meta_title": "The ultimate guide to evergreen content",
+    "post_codename": "the_ultimate_guide_to_evergreen_content"
+  },
+  {
+    "slug": "7-stages-of-content-lifecycle",
+    "meta_title": "The 7 stages of the content lifecycle",
+    "post_codename": "the_x_stages_of_content_lifecycle"
+  },
+  {
+    "slug": "thinklogic-solving-digital-problems-with-custom-solutions",
+    "meta_title": "Thinklogic: Solving digital problems with custom solutions",
+    "post_codename": "thinklogic__solving_digital_problems_with_custom_s"
+  },
+  {
+    "slug": "content-marketing-trends",
+    "meta_title": "Top 7 content marketing trends in 2022",
+    "post_codename": "top_7_content_marketing_trends_in_2022"
+  },
+  {
+    "slug": "top-headless-cms-trends-you-cant-afford-to-miss-in-2023",
+    "meta_title": "Top headless CMS trends you can’t afford to miss in 2023",
+    "post_codename": "top_headless_cms_trends_you_can_t_afford_to_miss_i"
+  },
+  {
+    "slug": "top-content-marketing-tools",
+    "meta_title": "Top 10 content marketing tools you need",
+    "post_codename": "top_x_content_marketing_tools_you_need"
+  },
+  {
+    "slug": "understanding-the-roi-of-content-production",
+    "meta_title": "Understanding the ROI of content production",
+    "post_codename": "understanding_the_roi_of_content_production"
+  },
+  {
+    "slug": "exporting-content-using-google-sheets",
+    "meta_title": "Exporting content using Google Sheets",
+    "post_codename": "untitled_content_item_4732a5b"
+  },
+  {
+    "slug": "dei-takeaways-from-women-in-mach-event",
+    "meta_title": "Takeaways from the first-ever Women in MACH event",
+    "post_codename": "untitled_content_item_5afd9cb"
+  },
+  {
+    "slug": "bringing-radical-automation-to-content-operations",
+    "meta_title": "Bringing radical automation to content operations",
+    "post_codename": "untitled_content_item_7695566"
+  },
+  {
+    "slug": "kontent-ai-has-raised-40-million-in-growth-capital",
+    "meta_title": "Kontent.ai has raised $40 million in growth capital",
+    "post_codename": "untitled_content_item_77dae58"
+  },
+  {
+    "slug": "how-to-protect-sensitive-content-next-js-static-web-app",
+    "meta_title": "Protect sensitive content in Next.js static web app",
+    "post_codename": "untitled_content_item_c352e56"
+  },
+  {
+    "slug": "unveiling-the-insights-key-takeaways-from-mach2",
+    "meta_title": "Unveiling the insights: Key takeaways from MACH2",
+    "post_codename": "unveiling_the_insights__key_takeaways_from_mach2"
+  },
+  {
+    "slug": "using-content-models-for-custom-variations",
+    "meta_title": "Using content models for custom variations",
+    "post_codename": "using_content_models_for_custom_variations"
+  },
+  {
+    "slug": "using-content-models-to-support-reuse",
+    "meta_title": "Using content models to support reuse",
+    "post_codename": "using_content_models_to_support_reuse"
+  },
+  {
+    "slug": "using-new-kentico-cloud-content-management-api",
+    "meta_title": "Using the new Kentico Cloud content management API",
+    "post_codename": "using_the_new_kentico_cloud_content_management_api"
+  },
+  {
+    "slug": "what-is-headless-cms",
+    "meta_title": "Headless CMS explained in 5 minutes",
+    "post_codename": "what_is_a_cloud_first_headless_cms"
+  },
+  {
+    "slug": "what-is-static-website",
+    "meta_title": "What is a static website and how to create one",
+    "post_codename": "what_is_a_static_website_and_how_to_create_one"
+  },
+  {
+    "slug": "what-is-omnichannel",
+    "meta_title": "What are omnichannel experiences? Benefits, trends, examples",
+    "post_codename": "what_omnichannel_is_and_why_it_s_critical_for_your"
+  },
+  {
+    "slug": "role-of-content-management-in-digital-products",
+    "meta_title": "What’s the role of content management in digital products?",
+    "post_codename": "what_s_the_role_of_content_management_in_digital_p"
+  },
+  {
+    "slug": "where-is-my-wysiwyg-page-builder",
+    "meta_title": "Where is my WYSIWYG page builder?",
+    "post_codename": "where_is_my_wysiwyg_page_builder_"
+  },
+  {
+    "slug": "apis-are-the-future-of-content",
+    "meta_title": "Why APIs are the future of content",
+    "post_codename": "why_apis_are_the_future_of_content"
+  },
+  {
+    "slug": "why-invest-in-generative-ai-for-content",
+    "meta_title": "Why invest in generative AI for content?",
+    "post_codename": "why_invest_in_generative_ai_for_content_"
+  },
+  {
+    "slug": "why-is-securing-ai-important",
+    "meta_title": "Why is securing AI important",
+    "post_codename": "why_is_securing_ai_important"
+  },
+  {
+    "slug": "why-manufacturers-rely-on-kontent-ai",
+    "meta_title": "Why manufacturers rely on Kontent.ai",
+    "post_codename": "why_manufacturers_rely_on_kontent_ai"
+  },
+  {
+    "slug": "why-structured-writing-needs-structured-content",
+    "meta_title": "Why structured writing needs structured content",
+    "post_codename": "why_structured_writing_needs_structured_content"
+  },
+  {
+    "slug": "why-the-dxp-experience-is-broken-and-how-to-build-a-better-one",
+    "meta_title": "Why the DXP experience is broken and how to build a better one",
+    "post_codename": "why_the_dxp_experience_is_broken_and_how_to_build_"
+  },
+  {
+    "slug": "why-you-need-better-data-governance-and-security-from-your-headless-cms",
+    "meta_title": "Why you need better data governance and security from your headless CMS",
+    "post_codename": "why_you_need_better_data_governance_and_security_f"
+  },
+  {
+    "slug": "ditch-dita-and-adopt-headless",
+    "meta_title": "Why you should ditch DITA and adopt headless instead",
+    "post_codename": "why_you_should_ditch_dita_and_adopt_headless_inste"
+  },
+  {
+    "slug": "why-you-should-use-figma-with-headless-cms",
+    "meta_title": "Why you should use Figma with headless CMS",
+    "post_codename": "why_you_should_use_figma_with_a_headless_cms"
+  },
+  {
+    "slug": "kontent-ai-feature-wrap-up",
+    "meta_title": "Explore the benefits of new Kontent.ai features",
+    "post_codename": "wind_down_2023_with_kontent_ai_s_feature_wrap_up"
+  },
+  {
+    "slug": "how-to-structure-blog-post",
+    "meta_title": "7+1 steps to structure a blog post",
+    "post_codename": "x_steps_to_structure_a_blog_post"
+  },
+  {
+    "slug": "website-content-ideas",
+    "meta_title": "9 website content ideas for your business",
+    "post_codename": "x_website_content_ideas_for_your_business"
+  },
+  {
+    "slug": "your-content-efficiency-needs-attention-generative-ai-can-help",
+    "meta_title": "Your content efficiency needs attention – generative AI can help",
+    "post_codename": "your_content_efficiency_needs_attention___generati"
+  },
+  {
+    "slug": "creating-print-and-pdf-content-with-a-headless-cms",
+    "meta_title": "Creating print and PDF content with a headless CMS",
+    "post_codename": "your_kontent_in_pdf"
+  }
+]

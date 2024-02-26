@@ -1,0 +1,143 @@
+[
+  {
+    "name": "An Exclusive Look at The State of Jamstack 2021 Report",
+    "type": "webinar",
+    "slug": "state-of-jamstack-2021-report",
+    "last_modified": "Fri Nov 10 2023"
+  },
+  {
+    "name": "An Exclusive Look at The State of Jamstack 2022 Report",
+    "type": "webinar",
+    "slug": "state-of-jamstack-2022-report",
+    "last_modified": "Fri Nov 10 2023"
+  },
+  {
+    "name": "Content hub",
+    "type": "glossary_term",
+    "slug": "content-hub",
+    "last_modified": "Fri Mar 06 2020"
+  },
+  {
+    "name": "Content operations",
+    "type": "blog_topic",
+    "slug": "content-operations",
+    "last_modified": "Thu Feb 23 2023"
+  },
+  {
+    "name": "Content operations",
+    "type": "glossary_term",
+    "slug": "content-operations",
+    "last_modified": "Fri Mar 06 2020"
+  },
+  {
+    "name": "Content operations",
+    "type": "webinar_event_topic",
+    "slug": "content-operations",
+    "last_modified": "Mon Jun 12 2023"
+  },
+  {
+    "name": "Content Operations - Landing Page (Basic)",
+    "type": "umlp",
+    "slug": "content-operations",
+    "umlp_page_type": "resource",
+    "last_modified": "Fri Jun 16 2023"
+  },
+  {
+    "name": "Integration - commercetools",
+    "type": "integration",
+    "slug": "commercetools",
+    "last_modified": "Wed Nov 01 2023"
+  },
+  {
+    "name": "commercetools (Horizons partner)",
+    "type": "partner",
+    "slug": "commercetools",
+    "last_modified": "Tue Jun 13 2023"
+  },
+  {
+    "name": "Localization",
+    "type": "glossary_term",
+    "slug": "localization",
+    "last_modified": "Fri Mar 06 2020"
+  },
+  {
+    "name": "LP - How to choose Headless CMS for your organization pdf",
+    "type": "umlp",
+    "slug": "how-to-choose-headless-cms",
+    "umlp_page_type": "resource",
+    "last_modified": "Fri Jun 16 2023"
+  },
+  {
+    "name": "Integration - Phrase",
+    "type": "integration",
+    "slug": "phrase",
+    "last_modified": "Tue Nov 01 2022"
+  },
+  {
+    "name": "Phrase",
+    "type": "partner",
+    "slug": "phrase",
+    "last_modified": "Tue Jun 13 2023"
+  },
+  {
+    "name": "State of Jamstack 2021 Report",
+    "type": "umlp",
+    "slug": "state-of-jamstack-2021-report",
+    "umlp_page_type": "resource",
+    "last_modified": "Fri Jun 16 2023"
+  },
+  {
+    "name": "State of Jamstack 2022 Report",
+    "type": "umlp",
+    "slug": "state-of-jamstack-2022-report",
+    "umlp_page_type": "resource",
+    "last_modified": "Fri Jun 16 2023"
+  },
+  {
+    "name": "The Role of AI in Streamlining Content Creation (AI Whitepaper)",
+    "type": "umlp",
+    "slug": "the-role-of-ai-in-streamlining-content-creation",
+    "umlp_page_type": "resource",
+    "last_modified": "Mon Jan 08 2024"
+  },
+  {
+    "name": "The Role of AI in Streamlining Content Creation (PPC LP)",
+    "type": "umlp",
+    "slug": "the-role-of-ai-in-streamlining-content-creation",
+    "umlp_page_type": "special",
+    "last_modified": "Thu Nov 30 2023"
+  },
+  {
+    "name": "Integration - Uniform",
+    "type": "integration",
+    "slug": "uniform",
+    "last_modified": "Wed Nov 01 2023"
+  },
+  {
+    "name": "Uniform",
+    "type": "partner",
+    "slug": "uniform",
+    "last_modified": "Tue Jun 13 2023"
+  },
+  {
+    "name": "Use case - Content hub",
+    "type": "umlp",
+    "slug": "content-hub",
+    "umlp_page_type": "use_case",
+    "last_modified": "Tue Feb 28 2023"
+  },
+  {
+    "name": "Use case - Content operations",
+    "type": "umlp",
+    "slug": "content-operations",
+    "umlp_page_type": "use_case",
+    "last_modified": "Wed Jan 24 2024"
+  },
+  {
+    "name": "Use case - Localization",
+    "type": "umlp",
+    "slug": "localization",
+    "umlp_page_type": "use_case",
+    "last_modified": "Tue Feb 28 2023"
+  }
+]

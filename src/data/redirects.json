@@ -1,0 +1,1142 @@
+[
+  {
+    "source": "/blog/connecting-chatbots-and-home-assistants-with-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-to-scale-content-operations-with-collections",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/powering-alexa-with-kontent",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/what-is-an-enterprise-translation-management-system-and-why-do-you-need-one",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/educational-institutions-rely-on-kontent-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/insurance-companies-rely-on-kontent-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-mvps-for-2021",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-mvps-for-2022",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/best-developer-reads-of-2020",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/content-migration-to-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/create-secure-static-websites-with-gatsby-and-kentico-cloud",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/introducing-content-suggestions-and-extensions",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/it-is-time-for-kentico-site-of-the-year-2018",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-named-a-representative-vendor-for-content-as-a-service-by-gartner",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/a-fresh-coat-of-paint",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/help-us-help-you-a-guide-to-getting-quick-and-effective-support",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/adapting-intelligent-content",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/aligning-headless-content-with-ux-in-design-projects",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/aligning-work-practices-to-support-content-collaboration",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/customer-success-services-will-help-you-succeed",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/get-ready-for-a-new-virtual-event-kontent-horizons",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/apis-for-digital-experience-2017",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/are-you-ready-to-govern-your-content",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/augmented-reality-apps-powered-by-kentico-cloud",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/automate-migrations-with-the-command-line-interface-cli",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/automating-your-kentico-cloud-content-with-azure-logic-apps",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/banjo-empowering-marketers-with-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/better-content-operations-for-enterprises-and-developers",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/build-modern-websites-faster-with-web-spotlight",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/building-a-careers-website-interview-with-milan-lund",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/building-a-microservices-powered-application-around-kontent-ai",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/building-an-MVC-site-with-Kentico-Cloud-part1",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/building-an-MVC-site-with-Kentico-Cloud-part2",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/building-an-MVC-site-with-Kentico-Cloud-part3",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/building-an-spa-without-a-framework-using-kentico-cloud",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/building-java-webservices-with-kentico-cloud-java-delivery-sdk",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/digital-agencies-need-to-adopt-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/content-migration-with-api-that-fits-like-glove",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/connecting-your-content-ecosystem-by-using-caas",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/content-and-ux-collaboration-when-planning-experiences",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/content-as-a-service-for-documentation-the-best-of-custom-solutions",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/content-management-just-got-easier",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/content-models-the-foundation-for-agile-content",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/content-recommendations-in-practice-how-our-customers-do-it",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/continuous-improvement-the-headless-advantage-for-marketing",
+    "destination": "/blog/?topic=for-business/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/control-your-content-access-with-improved-custom-roles",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/create-content-for-multiple-channels-with-headless-cms-interview-with-jeroen-furst",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/creating-a-kentico-cloud-powered-xamarin-app-part-1",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/creating-a-kentico-cloud-powered-xamarin-app-part-2",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/creating-a-kentico-cloud-ruby-on-rails-application",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/creating_a_reactjs_site_with_kentico_cloud",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/creating-the-kentico-cloud-showcase-site",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/decision-frameworks-to-help-you-select-the-right-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/distinction-s-headless-cms-site-redesign-hits-home",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/editorial-optimization-using-content-models",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/editorial-team-benefits-of-caas-s-technology-agnostic-approach",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/effective-content-modeling-part-2",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/enjoy-more-intuitive-experience-with-our-app-menu-redesign",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/enjoy-trackable-and-restorable-content-revision",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/evolving-new-content-order",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/first-website-on-kentico-cloud-headless-cms",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/freedom-to-customize-content-by-using-the-caas-approach",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/gain-edge-on-content-creation-avoiding-manual-migration",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-software-named-an-october-2019-gartner-peer-insights-customers-choice-for-wcm-for-a-second-time",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/getting-team-buy-in-to-switch-to-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/getting-started-with-the-kentico-cloud-sample-javascript-site",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/getting-to-know-the-kentico-cloud-net-sdk-delivery-api-filters",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/harnessing-expectations-in-content-strategy",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/hawksearch-s-integration-with-kentico-kontent-will-refine-your-search-experience",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/headless-cms-omnichannel-scenarios",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/5-headless-cms-trends-to-watch-in-2022",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/houston-we-have-e-learning",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-an-api-cms-can-help-teams-deliver-projects-faster",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-caas-enables-collaboration-through-structured-content",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-caas-supports-a-content-first-approach-to-digital-publishing",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-caas-supports-remote-work-better-than-any-other-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-caas-unlocks-your-websites-content",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-content-models-bring-focus-to-details",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-is-caas-different-from-conventional-web-content-management",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-kentico-draft-benefits-developers",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-kentico-is-coping-with-covid-19",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-modular-content-can-unleash-creativity",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-policies-support-content-governance",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-to-choose-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-to-gain-a-competitive-edge-over-other-insurance-companies",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-to-improve-management-of-multi-brand-content",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-various-approaches-to-content-fit-together",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/improved-commenting-experience-in-kontent",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/improving-digital-governance-when-using-caas",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/interview-with-deane-barker-on-headless-cms-and-the-future-of-content-management",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/introducing-the-kentico-cloud-delivery-java-sdk",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/introducing-kentico-cloud-ios-sdk",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/introducing-the-kentico-cloud-typescript-sdk",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/an-introduction-to-content-personalization",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/jamstackconf-2020-invitation",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-a-strong-performer-by-forrester-for-web-content-management",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-cloud-best-practices-by-get-started",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-cloud-in-the-azure-marketplace",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-cloud-named-a-leader-in-g2-grid-for-headless-cms",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-cloud-tools-for-developers",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-leader-headless-cms-summer-2020",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-kontent-g2-leader-headless-cms-spring-2021",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-g2-leader-headless-cms-winter-2021",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-site-of-the-year-2017-winners-announced",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-streamlines-content-production-and-collaboration-across-teams",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-user-group-website-redesigned",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kick-off-the-year-better-faster-and-at-scale",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-earns-top-spot-g2-2022-best-software-awards",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-featured-in-forrester-nowtech-agile-cms-report-2022",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-g2-fall-2021-enterprise-headless-cms-leader",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/5-valuable-insights-from-kontent-horizons-2021",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-introduces-safer-content-publishing-and-deployment-options",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/3-mistakes-to-avoid-when-you-need-to-deliver-feature-on-time",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/automation-made-easy-with-the-kontent-zapier-integration",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kramp-and-kentico-cloud-ready-for-the-future",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/launching-kentico-cloud-community",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/lessons-learned-from-building-a-blog-on-kentico-kontent",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/level-up-your-content-maturity-in-2021",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/leveraging-structure-to-rank-content-items",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/how-to-say-no-to-broken-links",
+    "destination": "/blog/?topic=for-business/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/a-look-back-on-kontent-horizons-2020",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/making-content-governance-stick",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/making-your-business-ready-as-a-service",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/managing-navigation-menus-in-kentico-cloud",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/managing-updates-by-using-content-models",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/marketing-needs-to-become-api-first",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/migrate-content-with-rest-api",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/modular-content-for-comparison",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/monetizing-content-with-subscription-commerce",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/announcing-the-2020-kentico-mvps",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/building-a-kentico-news-android-app-with-the-kentico-cloud-delivery-javarx-sdk",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/hosting-the-kentico-cloud-net-boilerplate-on-a-raspberry-pi-with-docker",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/3-new-kentico-cloud-features-developers-love",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/3-reasons-why-developers-should-use-an-api-cms",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/5-questions-about-kentico-ems-kentico-cloud",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/five-ways-to-develop-your-company-s-content-creation-culture",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/8-content-modeling-pitfalls-to-avoid",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-cloud-developer-certification-is-here",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/manage-assets-with-taxonomies",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/leverage-smart-content-recommendations-to-build-relevancy-with-your-customers",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/beginner-building-gatsbyjs-kontent-site",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/make-your-asset-management-picture-perfect",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-cloud-successfully-crossed-gdpr-waters",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-ai-not-affected-by-log4j-log4shell-vulnerabilities",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/announcing-graphql-api-support",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/expand-nested-linked-items",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/enjoy-kentico-cloud-s-single-sign-on-and-scheduled-publishing",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kontent-headless-cms-yearly-wrap-up",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/fine-tune-workflows-in-kontent",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/headless-cms-infographic",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/kentico-software-has-created-two-product-divisions-and-announces-new-managing-director-of-kontent",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/developing-our-custom-documentation-portal-how-we-started",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/import-additional-data-to-already-existing-content-items",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/keep-remote-content-editors-up-to-date-with-webhooks-and-slack",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/beware-of-cloud-washing-what-makes-a-true-cloud-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/beware-of-me-too-solutions-what-makes-a-true-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/which-headless-cms-features-do-developers-want-for-free",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/replatforming-existing-site",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/upgrading-gatsby-plugin-transitioning-to-vnext",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/streamline-development-with-automatic-publishing-and-unpublishing",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/overcoming-tool-fatigue-with-caas",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/ready-for-anything-the-flexibility-of-caas",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/technical-webinar-2016-12-13",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/visual-comparison-revisions",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/never-lose-your-formatting-again-with-improved-copy-and-pasting",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/webinar-recording-how-to-explain-headless-cms-to-your-agency-clients",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/world-class-content-operations-with-collections",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/two-new-services-to-help-you-kick-start-your-projects",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/show-us-your-project-and-win-best-kentico-kontent-implementation-2019",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/webinar-wrap-up-guide-to-content-management",
+    "destination": "/blog/?topic=for-business/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/moving-to-content-as-a-service-with-kentico-kontent",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/year-in-review-kontent-2020",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/stepping-out-of-the-crowd-with-personalization",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/planning-omnichannel-experiences-using-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/prepare-your-content-for-the-future",
+    "destination": "/blog/?topic=for-business/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/spring-product-update-stronger-collaboration-and-api",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/product-update-asset-folders-australia-data-center-and-more",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/product-update-5-2019",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/product-update-7-2019",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/q1-2022-kontent-release-wrap-up",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/q2-2022-kontent-release-wrap-up",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/q3-kontent-release-wrap-up",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/recap-aligning-content-and-design-modularity",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/say-hello-to-kentico-cloud-integrations",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/say-hello-to-the-new-kentico-cloud-sdks",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/seattle-cms-experts-meeting-supports-the-caas-trend",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/private-content-meet-our-secure-access-for-delivery-api",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/selling-products-with-kentico-cloud-stripe-integration",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/setting-goals-for-your-content-model",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/should-i-use-headless-or-traditional-cms",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/speed-up-your-digital-teams-with-project-templates",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/spring-integration-update",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/state-of-headless-cms-market-2018",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/strategic-content-reuse-through-cross-team-collaboration",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/structuring-content-into-sequential-parts",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/taxonomy-in-delivery-api-webhooks-and-more-new-features-in-kentico-cloud",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/technical-webinar-recording-developing-net-mvc-websites-with-kentico-cloud",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/the-best-christmas-gift-you-ll-ever-get-is-caas",
+    "destination": "/blog/?topic=for-business/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/the-future-of-the-web-is-conversational-get-started-on-omnichannel-content",
+    "destination": "/blog/?topic=for-business/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/the-impact-of-covid-19-on-digital-agencies-challenges-and-opportunities",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/the-importance-of-the-content-as-a-service-mindset",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/the-role-of-content-administration-in-governance",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/secret-to-acting-like-a-media-company",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/the-top-10-content-management-trends-for-2020",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/what-live-twitch-streams-have-we-planned-for-you",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/user-management-with-subscription-api",
+    "destination": "/blog/?topic=product-updates/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/use-web-spotlight-with-your-existing-kontent-projects",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/using-content-models-to-support-customer-journeys",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/using-strategic-positioning-to-increase-value-of-your-content",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/using-structured-content-in-lists",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/using-your-content-model-to-ensure-content-consistency",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/vue-js-cheat-sheet-rendering-data-into-html",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/what-headless-cms-means-to-digital-agencies-and-their-clients-an-interview-with-andy-thompson",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/what-is-headless-cms-video",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/what-lies-in-the-future-of-content-management-systems",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/what-omnichannel-means-to-developers",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/when-is-content-as-a-service-the-right-choice-for-your-business",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/where-is-my-wysiwyg-page-builder-part-2",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/who-benefits-most-from-caas",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/why-content-is-vital-to-business-resilience",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/why-it-s-essential-to-have-a-content-governance-plan",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/why-omnichannel-is-critical-for-your-success-presentation",
+    "destination": "/blog/?topic=for-business/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/why-reusing-content-is-better-than-repurposing-content",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/why-your-product-design-needs-a-content-model",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/will-marketers-lose-their-heads-over-headless-cms",
+    "destination": "/blog/?topic=content-operations/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/working-with-localization-in-kentico-cloud",
+    "destination": "/blog/?topic=for-developers/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/write-engaging-editorial-articles-with-components",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/year-in-review-kontent-highlights-from-2019",
+    "destination": "/blog/?topic=company-news/",
+    "permanent": false
+  }
+]

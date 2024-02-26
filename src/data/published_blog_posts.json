@@ -1,0 +1,1304 @@
+[
+  {
+    "id": 1,
+    "title": "Announcing the 2023 Kontent.ai MVPs 🏆",
+    "url": "https://kontent.ai/blog/announcing-the-2023-kontent-ai-mvps",
+    "meta_title": "Announcing the 2023 Kontent.ai MVPs 🏆"
+  },
+  {
+    "id": 2,
+    "title": "Pre-rendered, server-rendered, or hybrid: Which should I use?",
+    "url": "https://kontent.ai/blog/pre-rendered-server-rendered-or-hybrid-which-should-i-use",
+    "meta_title": "Pre-Rendered, Server-Rendered, or Hybrid?"
+  },
+  {
+    "id": 3,
+    "title": "Stop bothering people with reCaptcha; use reCaptcha",
+    "url": "https://kontent.ai/blog/stop-bothering-people-with-recaptcha-use-recaptcha",
+    "meta_title": "Stop bothering people with reCaptcha; use reCaptcha"
+  },
+  {
+    "id": 4,
+    "title": "How to avoid production errors caused by content changes on Jamstack sites",
+    "url": "https://kontent.ai/blog/avoid-production-errors-after-unexpected-content-model-changes",
+    "meta_title": "How to Avoid Production Errors Caused by Content Changes"
+  },
+  {
+    "id": 5,
+    "title": "What’s the best place to host Next.js site?",
+    "url": "https://kontent.ai/blog/comparison-of-jamstack-hosting-platforms-for-next-js",
+    "meta_title": "What’s The Best Place to Host Next.js Site?"
+  },
+  {
+    "id": 6,
+    "title": "Avoid vendor lock-in: Migrating content from Contentful to Kontent",
+    "url": "https://kontent.ai/blog/avoid-vendor-lock-in-migrating-content-from-contentful-to-kontent",
+    "meta_title": "Avoid Vendor Lock-in: Migrating Content from Contentful to Kontent"
+  },
+  {
+    "id": 7,
+    "title": "Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?",
+    "url": "https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt",
+    "meta_title": "Why Is Next.js My Ultimate Choice over Gatsby, Gridsome, and Nuxt?"
+  },
+  {
+    "id": 8,
+    "title": "How to generate RSS feed in Next.js",
+    "url": "https://kontent.ai/blog/how-to-generate-rss-feed-in-next-js",
+    "meta_title": "How to Generate RSS Feed in Next.js"
+  },
+  {
+    "id": 9,
+    "title": "How to build URLs and handle redirects in Next.js",
+    "url": "https://kontent.ai/blog/how-to-build-urls-and-handle-redirects-in-next-js",
+    "meta_title": "How to build URLs and handle redirects in Next.js"
+  },
+  {
+    "id": 10,
+    "title": "How to handle URL redirects when using a headless CMS",
+    "url": "https://kontent.ai/blog/how-to-handle-url-redirects-with-headless-cms",
+    "meta_title": "How to Handle URL Redirects When Using Headless CMS"
+  },
+  {
+    "id": 11,
+    "title": "How to start A/B testing your Next.js site",
+    "url": "https://kontent.ai/blog/how-to-start-a-b-testing-your-next-js-site",
+    "meta_title": "How to implement AB tests in Next.js"
+  },
+  {
+    "id": 12,
+    "title": "How Kontent.ai handles disaster recovery",
+    "url": "https://kontent.ai/blog/how-kontent-ai-handles-disaster-recovery",
+    "meta_title": "How Kontent.ai handles disaster recovery"
+  },
+  {
+    "id": 13,
+    "title": "How we moved from zero to a viable AI solution with Headless CMS",
+    "url": "https://kontent.ai/blog/how-we-moved-from-zero-to-a-viable-ai-solution-with-headless-cms",
+    "meta_title": "How we moved from zero to a viable AI solution with Kontent.ai"
+  },
+  {
+    "id": 14,
+    "title": "The all new JavaScript SDKs—should you upgrade?",
+    "url": "https://kontent.ai/blog/news-in-javascript-sdks",
+    "meta_title": "The All New JavaScript SDKs—Should you Upgrade?"
+  },
+  {
+    "id": 15,
+    "title": "How to run scripts before every build on Next.js",
+    "url": "https://kontent.ai/blog/how-to-run-scripts-before-every-build-on-next-js",
+    "meta_title": "How to run scripts before every build on Next.js"
+  },
+  {
+    "id": 16,
+    "title": "How to verify and process webhook notifications in Next.js",
+    "url": "https://kontent.ai/blog/processing-webhooks-in-next-js",
+    "meta_title": "How to Verify and Process Webhook Notifications in Next.js"
+  },
+  {
+    "id": 17,
+    "title": "How to decide between React and Vue? Gatsby and Gridsome?",
+    "url": "https://kontent.ai/blog/react-or-vue-gatsby-or-gridsome",
+    "meta_title": "How to Decide Between React and Vue? Gatsby and Gridsome?"
+  },
+  {
+    "id": 18,
+    "title": "How to build Jamstack site with Angular and Scully",
+    "url": "https://kontent.ai/blog/build-jamstack-site-with-angular-and-scully",
+    "meta_title": "Build Jamstack site with Angular and Scully"
+  },
+  {
+    "id": 19,
+    "title": "Defeat technical debt on a modern website and make it future-proof",
+    "url": "https://kontent.ai/blog/defeat-technical-debt-on-a-modern-website-and-make-it-future-proof",
+    "meta_title": "Defeat technical debt on a modern website and make it future-proof"
+  },
+  {
+    "id": 20,
+    "title": "Personalizing static sites using Kontent and Pardot",
+    "url": "https://kontent.ai/blog/static-site-personalization",
+    "meta_title": "Personalizing Static Sites Using Kontent and Pardot"
+  },
+  {
+    "id": 21,
+    "title": "Kontent.ai welcomes two new Technology MVPs",
+    "url": "https://kontent.ai/blog/kontent-ai-new-technology-mvps-2023",
+    "meta_title": "Kontent.ai welcomes two new Technology MVPs"
+  },
+  {
+    "id": 22,
+    "title": "How to test cookies using end-to-end tests and Playwright",
+    "url": "https://kontent.ai/blog/how-to-test-cookies-using-end-to-end-tests-and-playwright",
+    "meta_title": "How to test cookies using end-to-end tests and Playwright"
+  },
+  {
+    "id": 23,
+    "title": "How to benefit from const assertion in your TypeScript code?",
+    "url": "https://kontent.ai/blog/how-to-benefit-from-const-assertion-in-your-typescript-code",
+    "meta_title": "How to benefit from const assertion in your TypeScript code?"
+  },
+  {
+    "id": 24,
+    "title": "Positive: The perfect blend of marketing expertise and technical ability",
+    "url": "https://kontent.ai/blog/positive-the-perfect-blend-of-marketing-expertise-and-technical-ability",
+    "meta_title": "Meet client-centric and outcome-orientated, Positive"
+  },
+  {
+    "id": 25,
+    "title": "Introducing Luminary, a leader in digital experiences",
+    "url": "https://kontent.ai/blog/introducing-luminary-a-leader-in-digital-experiences",
+    "meta_title": "Introducing Luminary, a leader in digital experiences "
+  },
+  {
+    "id": 26,
+    "title": "A guide to effective content mapping for enhanced user engagement",
+    "url": "https://kontent.ai/blog/content-mapping",
+    "meta_title": "A Guide to Effective Content Mapping for Enhanced User Engagement"
+  },
+  {
+    "id": 27,
+    "title": "How leading organizations across the globe exceed customer expectations",
+    "url": "https://kontent.ai/blog/how-leading-organizations-across-the-globe-exceed-customer-expectations",
+    "meta_title": "How leading organizations across the globe exceed customer expectations"
+  },
+  {
+    "id": 28,
+    "title": "ACTUM Digital: Empowering organizations with digital platforms",
+    "url": "https://kontent.ai/blog/actum-digital-empowering-organizations-with-digital-platforms",
+    "meta_title": "ACTUM Digital: Empowering organizations with digital platforms"
+  },
+  {
+    "id": 29,
+    "title": "Addressing localization challenges with headless content management",
+    "url": "https://kontent.ai/blog/addressing-localization-challenges-with-headless-content-management",
+    "meta_title": "Addressing Localization Challenges with Headless Content Management"
+  },
+  {
+    "id": 30,
+    "title": "Agile personalization: A strategy for success",
+    "url": "https://kontent.ai/blog/agile-personalization-strategy-for-success",
+    "meta_title": "Agile Personalization: A Strategy for Success"
+  },
+  {
+    "id": 31,
+    "title": "AI-based auto-tagging of content: what you need to know ",
+    "url": "https://kontent.ai/blog/ai-based-auto-tagging-of-content-what-you-need-to-know",
+    "meta_title": "AI-based auto-tagging of content: what you need to know"
+  },
+  {
+    "id": 32,
+    "title": "Kontent.ai introduces industry’s first CMS with native AI capabilities ",
+    "url": "https://kontent.ai/blog/kontent-ai-introduces-industry-s-first-cms-with-native-ai-capabilities",
+    "meta_title": "Kontent.ai Introduces Industry’s First CMS with Native AI Capabilities "
+  },
+  {
+    "id": 33,
+    "title": "Machine learning: How to ensure labels are smart, not lucky",
+    "url": "https://kontent.ai/blog/machine-learning-how-to-ensure-labels-are-smart-not-lucky",
+    "meta_title": "Machine Learning: How to Ensure Labels are Smart, Not Lucky"
+  },
+  {
+    "id": 34,
+    "title": "How to Automatically Translate Content Using Webhooks",
+    "url": "https://kontent.ai/blog/how-to-automatically-translate-content-using-webhooks",
+    "meta_title": "Automatic Translation of Content Items Using Webhooks"
+  },
+  {
+    "id": 35,
+    "title": "Best 404 page examples from our customers",
+    "url": "https://kontent.ai/blog/best-404-page-examples",
+    "meta_title": "Best 404 Page Examples from Our Customers"
+  },
+  {
+    "id": 36,
+    "title": "Best landing page design examples from our customers",
+    "url": "https://kontent.ai/blog/best-landing-page-examples",
+    "meta_title": "Best Landing Page Design Examples from Our Customers"
+  },
+  {
+    "id": 37,
+    "title": "Best practices for writing modular content",
+    "url": "https://kontent.ai/blog/best-practices-for-writing-modular-content",
+    "meta_title": "Best practices for writing modular content"
+  },
+  {
+    "id": 38,
+    "title": "Best product page design examples in 2024",
+    "url": "https://kontent.ai/blog/best-product-page-examples",
+    "meta_title": "Best Product Page Design Examples in 2024"
+  },
+  {
+    "id": 39,
+    "title": "From chaos to clarity: best practices for content taxonomy",
+    "url": "https://kontent.ai/blog/from-chaos-to-clarity-best-practices-for-content-taxonomy",
+    "meta_title": "From chaos to clarity: best practices for content taxonomy"
+  },
+  {
+    "id": 40,
+    "title": "Decoding AI Success: Tips for Businesses to Achieve Maximum Value and Content Security",
+    "url": "https://kontent.ai/blog/decoding-ai-success-tips-for-businesses-to-achieve-maximum-value-and-content-security",
+    "meta_title": "Decoding AI Success: Tips for Businesses to Achieve Maximum Value and Content Security"
+  },
+  {
+    "id": 41,
+    "title": "Governance, risk, and compliance at Kontent.ai",
+    "url": "https://kontent.ai/blog/governance-risk-and-compliance-at-kontent-ai",
+    "meta_title": "Governance, risk, and compliance at Kontent.ai"
+  },
+  {
+    "id": 42,
+    "title": "How we implemented security in a modern hybrid workplace  ",
+    "url": "https://kontent.ai/blog/how-we-implemented-security-in-a-modern-hybrid-workplace",
+    "meta_title": "How we implemented security in a modern hybrid workplace  "
+  },
+  {
+    "id": 43,
+    "title": "Kontent.ai expands its MVP program with two new categories",
+    "url": "https://kontent.ai/blog/kontent-ai-expands-its-mvp-program-with-two-new-categories",
+    "meta_title": "Kontent.ai expands its MVP program with two new categories"
+  },
+  {
+    "id": 44,
+    "title": "Kontent.ai joins Cybersecurity Tech Accord",
+    "url": "https://kontent.ai/blog/kontent-ai-joins-cybersecurity-tech-accord",
+    "meta_title": "Kontent.ai joins Cybersecurity Tech Accord"
+  },
+  {
+    "id": 45,
+    "title": "Kontent.ai launches enhanced Partner Program",
+    "url": "https://kontent.ai/blog/kontent-ai-launches-enhanced-partner-program",
+    "meta_title": "Kontent.ai launches enhanced Partner Program"
+  },
+  {
+    "id": 46,
+    "title": "Looking back at 2023 trends: Which predictions were spot on?",
+    "url": "https://kontent.ai/blog/looking-back-at-2023-trends-which-predictions-were-spot-on",
+    "meta_title": "Looking back at 2023 trends: Which predictions were spot on?"
+  },
+  {
+    "id": 47,
+    "title": "Meet community-minded, customer-centric Konabos",
+    "url": "https://kontent.ai/blog/meet-community-minded-customer-centric-konabos",
+    "meta_title": "Meet community-minded, customer-centric Konabos"
+  },
+  {
+    "id": 48,
+    "title": "Navigating the privacy landscape: How Kontent.ai upholds data protection",
+    "url": "https://kontent.ai/blog/navigating-the-privacy-landscape-how-kontent-ai-upholds-data-protection",
+    "meta_title": "Navigating the privacy landscape: How Kontent.ai upholds data protection"
+  },
+  {
+    "id": 49,
+    "title": "Product security assurance of Kontent.ai: A trustworthy foundation for content management",
+    "url": "https://kontent.ai/blog/product-security-assurance-of-kontent-ai-a-trustworthy-foundation-for-content-management",
+    "meta_title": "Product security assurance of Kontent.ai: A trustworthy foundation for content management"
+  },
+  {
+    "id": 50,
+    "title": "Bridging facts and stories: AI enterprise content creation",
+    "url": "https://kontent.ai/blog/bridging-facts-and-stories-ai-enterprise-content-creation",
+    "meta_title": "Bridging facts and stories: AI content creation"
+  },
+  {
+    "id": 51,
+    "title": "Building a Cloud-first Headless CMS",
+    "url": "https://kontent.ai/blog/building-a-cloud-first-headless-cms",
+    "meta_title": "Building a Cloud-first Headless CMS"
+  },
+  {
+    "id": 52,
+    "title": "Building a Website with Headless CMS in Just One Day",
+    "url": "https://kontent.ai/blog/headless-cms-site-built-in-one-day",
+    "meta_title": "Building a Website with Headless CMS in Just One Day"
+  },
+  {
+    "id": 53,
+    "title": "Building an agile content pipeline with a headless CMS",
+    "url": "https://kontent.ai/blog/content-pipeline",
+    "meta_title": "Building an Agile Content Pipeline with a Headless CMS"
+  },
+  {
+    "id": 54,
+    "title": "Building secure software: Kontent.ai’s adoption of SBOM",
+    "url": "https://kontent.ai/blog/building-secure-software-kontent-ais-adoption-of-sbom",
+    "meta_title": "Building Secure Software: Kontent.ai’s Adoption of SBOM"
+  },
+  {
+    "id": 55,
+    "title": "Building Your Custom Documentation Portal (When You Already Have Two)",
+    "url": "https://kontent.ai/blog/building-your-custom-documentation-portal-when-you-already-have-two",
+    "meta_title": "Building Your Custom Documentation Portal (When You Already Have Two)"
+  },
+  {
+    "id": 56,
+    "title": "Clearing Obsolete Cache Entries with Webhooks",
+    "url": "https://kontent.ai/blog/clearing-obsolete-cache-entries-with-webhooks",
+    "meta_title": "Clearing Obsolete Cache Entries with Webhooks"
+  },
+  {
+    "id": 57,
+    "title": "CMS in the cloud sucks and why it’s time for a cloud-first headless CMS",
+    "url": "https://kontent.ai/blog/cms-in-the-cloud-headless-cms",
+    "meta_title": "CMS in the cloud sucks and why it's time for a cloud-first headless CMS"
+  },
+  {
+    "id": 58,
+    "title": "Common misconceptions about Generative AI",
+    "url": "https://kontent.ai/blog/common-misconceptions-about-generative-ai",
+    "meta_title": "Common misconceptions about Generative AI"
+  },
+  {
+    "id": 59,
+    "title": "Content architecture: Building the digital blueprint",
+    "url": "https://kontent.ai/blog/content-architecture",
+    "meta_title": "Content Architecture: Building the Digital Blueprint"
+  },
+  {
+    "id": 60,
+    "title": "Content federation doesn’t deliver unified publishing",
+    "url": "https://kontent.ai/blog/content-federation-doesnt-deliver-unified-publishing",
+    "meta_title": "Content federation doesn’t deliver unified publishing"
+  },
+  {
+    "id": 61,
+    "title": "Content governance in the digital age: Harnessing the power of Kontent.ai’s Headless CMS",
+    "url": "https://kontent.ai/blog/content-governance",
+    "meta_title": "Content Governance in the Digital Age"
+  },
+  {
+    "id": 62,
+    "title": "Content strategy using ChatGPT with a headless CMS",
+    "url": "https://kontent.ai/blog/content-strategy-using-chatgpt-with-a-headless-cms",
+    "meta_title": "Content strategy using ChatGPT with a headless CMS"
+  },
+  {
+    "id": 63,
+    "title": "Content Strategy vs Content Marketing: The Key Differences",
+    "url": "https://kontent.ai/blog/content-strategy-vs-content-marketing",
+    "meta_title": "Content Strategy vs Content Marketing: The Key Differences"
+  },
+  {
+    "id": 64,
+    "title": "Crafting content in the digital age: A deep dive into the content creation process",
+    "url": "https://kontent.ai/blog/content-creation-process",
+    "meta_title": "A Deep Dive into the Content Creation Process"
+  },
+  {
+    "id": 65,
+    "title": "Create Once, Publish Everywhere: doing COPE right",
+    "url": "https://kontent.ai/blog/create-once-publish-everywhere-doing-cope-right",
+    "meta_title": "Create Once, Publish Everywhere: Doing COPE Right"
+  },
+  {
+    "id": 66,
+    "title": "How to Quickly Build a Headless Website Template",
+    "url": "https://kontent.ai/blog/how-to-quickly-build-a-headless-website-template",
+    "meta_title": "How to Quickly Build a Headless Website Template"
+  },
+  {
+    "id": 67,
+    "title": "Defining processes and procedures to support content operations",
+    "url": "https://kontent.ai/blog/defining-processes-and-procedures-to-support-content-operations",
+    "meta_title": "Defining Processes and Procedures"
+  },
+  {
+    "id": 68,
+    "title": "How to disable webhook notifications at your command",
+    "url": "https://kontent.ai/blog/how-to-disable-webhook-notifications-at-your-command",
+    "meta_title": "Disable Webhook Notifications at Your Command"
+  },
+  {
+    "id": 69,
+    "title": "How to build a strong content value chain",
+    "url": "https://kontent.ai/blog/how-to-build-a-strong-content-value-chain",
+    "meta_title": "How to build a strong content value chain"
+  },
+  {
+    "id": 70,
+    "title": "Drive success with an engaging customer education program ",
+    "url": "https://kontent.ai/blog/drive-success-with-an-engaging-customer-education-program",
+    "meta_title": "Drive Success With Engaging Customer Education"
+  },
+  {
+    "id": 71,
+    "title": "Edit Your Content Directly from Your Website",
+    "url": "https://kontent.ai/blog/edit-your-content-directly-from-website",
+    "meta_title": "Edit Your Content Directly from Your Website"
+  },
+  {
+    "id": 72,
+    "title": "4-step guide to an effective editorial workflow",
+    "url": "https://kontent.ai/blog/4-step-guide-to-effective-editorial-workflow",
+    "meta_title": "4-step guide to an effective editorial workflow"
+  },
+  {
+    "id": 73,
+    "title": "Effective content modeling",
+    "url": "https://kontent.ai/blog/effective-content-modeling",
+    "meta_title": "Effective Content Modeling"
+  },
+  {
+    "id": 74,
+    "title": "Embrace the future: Shift from on-premise platforms to headless, composable SAAS solutions – why should CTOs care?",
+    "url": "https://kontent.ai/blog/shift-from-on-premise-platforms-to-headless-composable-saas-solutions",
+    "meta_title": "Shift from on-premise platforms to headless, composable SAAS solutions"
+  },
+  {
+    "id": 75,
+    "title": "Emerging best practices for disclosing AI-generated content",
+    "url": "https://kontent.ai/blog/emerging-best-practices-for-disclosing-ai-generated-content",
+    "meta_title": "Emerging best practices for disclosing AI-generated content"
+  },
+  {
+    "id": 76,
+    "title": "Enterprise content governance model for decision making",
+    "url": "https://kontent.ai/blog/enterprise-content-governance-model-for-decision-making",
+    "meta_title": "Enterprise Content Governance Model"
+  },
+  {
+    "id": 77,
+    "title": "Expand content reach and variety with structured API delivery",
+    "url": "https://kontent.ai/blog/expand-content-reach-and-variety-with-structured-api-delivery",
+    "meta_title": "Expand your content’s reach and variety with structured API delivery"
+  },
+  {
+    "id": 78,
+    "title": "Five benefits of reusing content ",
+    "url": "https://kontent.ai/blog/five-benefits-of-reusing-content",
+    "meta_title": "Five benefits of reusing content"
+  },
+  {
+    "id": 79,
+    "title": "Five keys to prepping content like a top chef",
+    "url": "https://kontent.ai/blog/five-keys-to-prepping-content-like-a-top-chef",
+    "meta_title": "Five Keys to Prepping Content Like a Top Chef"
+  },
+  {
+    "id": 80,
+    "title": "Headless, Python, and Flask: How to enjoy massive flexibility in a microframework",
+    "url": "https://kontent.ai/blog/flask-python-and-headless",
+    "meta_title": "Headless, Python, and Flask: Massive Flexibility in a Microframework"
+  },
+  {
+    "id": 81,
+    "title": "From content ideation to publication: Demystifying the content management workflow",
+    "url": "https://kontent.ai/blog/content-management-workflow",
+    "meta_title": "Demystifying the Content Management Workflow"
+  },
+  {
+    "id": 82,
+    "title": "What does native GraphQL support in Kontent bring for devs?",
+    "url": "https://kontent.ai/blog/graphql-support-in-kontent-for-devs",
+    "meta_title": "What Does Native GraphQL Support in Kontent Bring for Devs?"
+  },
+  {
+    "id": 83,
+    "title": "Start 2023 off right with Kontent.ai’s yearly release wrap-up",
+    "url": "https://kontent.ai/blog/start-2023-off-right-with-kontent-ai-s-yearly-release-wrap-up",
+    "meta_title": "Start 2023 off right with Kontent.ai’s release wrap-up"
+  },
+  {
+    "id": 84,
+    "title": "How APIs Can Support Your Content Strategy",
+    "url": "https://kontent.ai/blog/how-apis-can-support-your-content-strategy",
+    "meta_title": "How APIs Can Support Your Content Strategy"
+  },
+  {
+    "id": 85,
+    "title": "How content and design can support each other",
+    "url": "https://kontent.ai/blog/how-content-and-design-can-support-each-other",
+    "meta_title": "How Content and Design Can Support Each Other"
+  },
+  {
+    "id": 86,
+    "title": "How content and UX can define user interaction together",
+    "url": "https://kontent.ai/blog/how-content-and-ux-can-define-user-interaction-together",
+    "meta_title": "How Content and UX Define User Interaction"
+  },
+  {
+    "id": 87,
+    "title": "How content is a game changer for sports organizations",
+    "url": "https://kontent.ai/blog/how-content-is-a-game-changer-for-sports-organizations",
+    "meta_title": "How content is a game changer for sports organizations"
+  },
+  {
+    "id": 88,
+    "title": "How content professionals can influence organizational change",
+    "url": "https://kontent.ai/blog/how-content-professionals-can-influence-organizational-change",
+    "meta_title": "How content professionals can influence organizational change"
+  },
+  {
+    "id": 89,
+    "title": "How Does Headless CMS Fit into an AWS Setup?",
+    "url": "https://kontent.ai/blog/how-does-headless-cms-fit-into-an-aws-setup",
+    "meta_title": "How Does Headless CMS Fit into an AWS Setup?"
+  },
+  {
+    "id": 90,
+    "title": "How generative AI fits into content development processes",
+    "url": "https://kontent.ai/blog/how-generative-ai-fits-into-content-development-processes",
+    "meta_title": "How generative AI fits into content development processes"
+  },
+  {
+    "id": 91,
+    "title": "How many content types do you need?",
+    "url": "https://kontent.ai/blog/how-many-content-types-do-you-need",
+    "meta_title": "How many content types do you need?"
+  },
+  {
+    "id": 92,
+    "title": "How structured content is different in headless CMSs",
+    "url": "https://kontent.ai/blog/how-structured-content-is-different-in-headless-cmss",
+    "meta_title": "How Structured Content is Different in Headless CMSs"
+  },
+  {
+    "id": 93,
+    "title": "Designing systems to support content and UX collaboration",
+    "url": "https://kontent.ai/blog/designing-systems-to-support-content-and-ux-collaboration",
+    "meta_title": "Designing Systems to Support Content and UX Collaboration"
+  },
+  {
+    "id": 94,
+    "title": "How to calculate the total cost of ownership of a CMS",
+    "url": "https://kontent.ai/blog/how-to-calculate-the-total-cost-of-ownership-of-cms",
+    "meta_title": "How to Calculate the TCO of a Content Management System"
+  },
+  {
+    "id": 95,
+    "title": "How to choose your AI vendor",
+    "url": "https://kontent.ai/blog/how-to-choose-your-ai-vendor",
+    "meta_title": "How to choose your AI vendor"
+  },
+  {
+    "id": 96,
+    "title": "How to embed guidance to better govern your content",
+    "url": "https://kontent.ai/blog/how-to-embed-guidance-to-better-govern-your-content",
+    "meta_title": "How to Embed Guidance to Better Govern Your Content"
+  },
+  {
+    "id": 97,
+    "title": "How to improve cache efficiency and reduce costs with Next.js on-demand ISR",
+    "url": "https://kontent.ai/blog/leveraging-next-js-on-demand-isr",
+    "meta_title": "How to Improve Cache Efficiency and Reduce Costs with Next.js On-Demand ISR"
+  },
+  {
+    "id": 98,
+    "title": "How to include the right details in your content model",
+    "url": "https://kontent.ai/blog/how-to-include-the-right-details-in-your-content-model",
+    "meta_title": "How to Include the Right Details in Your Content Model"
+  },
+  {
+    "id": 99,
+    "title": "How to trigger a GitHub Action using a webhook (with no code)",
+    "url": "https://kontent.ai/blog/how-to-trigger-github-action-using-webhook-with-no-code",
+    "meta_title": "How to Trigger a GitHub Action Using a Webhook"
+  },
+  {
+    "id": 100,
+    "title": "How to write a powerful headline",
+    "url": "https://kontent.ai/blog/how-to-write-headline",
+    "meta_title": "How To Write a Powerful Headline"
+  },
+  {
+    "id": 101,
+    "title": "How to make the team happy with Hugo and Headless",
+    "url": "https://kontent.ai/blog/hugo-and-headless-cms",
+    "meta_title": "How to Make the Team Happy with Hugo and Headless"
+  },
+  {
+    "id": 102,
+    "title": "Ignite your knowledge: New Learn is now live!",
+    "url": "https://kontent.ai/blog/ignite-your-knowledge-new-learn-is-now-live",
+    "meta_title": "Ignite your knowledge: New Learn is now live!"
+  },
+  {
+    "id": 103,
+    "title": "Image Transformations — Master Responsive Design with Kentico Cloud",
+    "url": "https://kontent.ai/blog/image-transformations-master-responsive-design-with-kentico-cloud",
+    "meta_title": "Image Transformations — Master Responsive Design with Kentico Cloud"
+  },
+  {
+    "id": 104,
+    "title": "Improve the modularity of your next user experience project",
+    "url": "https://kontent.ai/blog/improve-the-modularity-of-your-next-user-experience-project",
+    "meta_title": "Improve the Modularity of Your Next UX Project"
+  },
+  {
+    "id": 105,
+    "title": "Improving compliance in financial content with a headless CMS",
+    "url": "https://kontent.ai/blog/improving-regulatory-compliance-in-financial-content-using-headless-cms",
+    "meta_title": "Improving Compliance in Financial Content with a Headless CMS"
+  },
+  {
+    "id": 106,
+    "title": "Join the Brand New Kentico Cloud Partner Program",
+    "url": "https://kontent.ai/blog/join-the-brand-new-kentico-cloud-partner-program",
+    "meta_title": "Join the Brand New Kentico Cloud Partner Program"
+  },
+  {
+    "id": 107,
+    "title": "How to Keep It Stupid Simple: Use .NET Core Razor Pages",
+    "url": "https://kontent.ai/blog/how-to-keep-it-stupid-simple-use-net-core-razor-pages",
+    "meta_title": "How to Keep It Stupid Simple: Use .NET Core Razor Pages"
+  },
+  {
+    "id": 108,
+    "title": "Kontent.ai SDLC in Agile Methodology",
+    "url": "https://kontent.ai/blog/kontent-ai-sdlc-in-agile-methodology",
+    "meta_title": "Kontent.ai SDLC in Agile Methodology"
+  },
+  {
+    "id": 109,
+    "title": "Kontent.ai Achieves SOC 2 Type 1 Compliance ",
+    "url": "https://kontent.ai/blog/kentico-kontent-achieves-soc-2-type-1-compliance",
+    "meta_title": "Kontent.ai Achieves SOC 2 Type 1 Compliance"
+  },
+  {
+    "id": 110,
+    "title": "Kontent.ai Completes SOC 2 Type 2 Examination",
+    "url": "https://kontent.ai/blog/kentico-kontent-completes-soc-2-type-2-examination",
+    "meta_title": "Kontent.ai Completes SOC 2 Type 2 Examination"
+  },
+  {
+    "id": 111,
+    "title": "Kontent.ai achieves ISO 27001 and 27017 security certifications",
+    "url": "https://kontent.ai/blog/kontent-ai-achieves-iso-27001-and-27017-certifications",
+    "meta_title": "Kontent.ai achieves ISO 27001 and 27017 security certifications"
+  },
+  {
+    "id": 112,
+    "title": "Kontent.ai appoints new senior executives and joins MACH Alliance to support global expansion ",
+    "url": "https://kontent.ai/blog/kontent-ai-appoints-new-senior-executives-and-joins-mach-alliance",
+    "meta_title": "Kontent.ai appoints new senior executives and joins MACH Alliance to support global expansion "
+  },
+  {
+    "id": 113,
+    "title": "Kontent.ai named a Leader in the Enterprise G2 Grid for Headless CMS",
+    "url": "https://kontent.ai/blog/kontent-g2-fall-2022-enterprise-headless-cms-leader",
+    "meta_title": "Kontent.ai named an Enterprise Headless CMS Leader on G2"
+  },
+  {
+    "id": 114,
+    "title": "3 takeaways from Kontent.ai Horizons 2022 in London",
+    "url": "https://kontent.ai/blog/3-takeaways-from-kontent-ai-horizons-2022-in-london",
+    "meta_title": "3 takeaways from Kontent.ai Horizons 2022 in London"
+  },
+  {
+    "id": 115,
+    "title": "Takeaways from Kontent.ai Horizons 2022 in New York",
+    "url": "https://kontent.ai/blog/takeaways-from-kontent-ai-horizons-2022-in-new-york",
+    "meta_title": "Takeaways from Kontent.ai Horizons 2022 in NYC"
+  },
+  {
+    "id": 116,
+    "title": "Kontent.ai Horizons 2023 in Sydney: 3 game-changing insights",
+    "url": "https://kontent.ai/blog/kontent-ai-horizons-2023-in-sydney-3-game-changing-insights",
+    "meta_title": "Kontent.ai Horizons 2023 in Sydney: 3 game-changing insights"
+  },
+  {
+    "id": 117,
+    "title": "Kontent.ai provides HIPAA compliance for customers",
+    "url": "https://kontent.ai/blog/kontent-ai-provides-hipaa-compliance-for-customers",
+    "meta_title": "Kontent.ai provides HIPAA compliance for customers"
+  },
+  {
+    "id": 118,
+    "title": "Kontent.ai joins the MACH Alliance",
+    "url": "https://kontent.ai/blog/kontent-ai-joins-the-mach-alliance",
+    "meta_title": "Kontent.ai joins the MACH Alliance"
+  },
+  {
+    "id": 119,
+    "title": "Kontent.ai recognized in 2022 Gartner® Market Guide for Web Content Management",
+    "url": "https://kontent.ai/blog/kontent-ai-recognized-in-gartner-market-guide-for-wcm-2022",
+    "meta_title": "Kontent.ai recognized in 2022 Gartner® Market Guide for Web Content Management"
+  },
+  {
+    "id": 120,
+    "title": "Kontent.ai hates: WYSIWYG",
+    "url": "https://kontent.ai/blog/kontent-hates-wysiwyg",
+    "meta_title": "Kontent.ai Hates: WYSIWYG"
+  },
+  {
+    "id": 121,
+    "title": "Kontent.ai is the first certified headless CMS on Azure Marketplace",
+    "url": "https://kontent.ai/blog/kontent-transactable-offer-azure-marketplace",
+    "meta_title": "Kontent.ai is now a Transactable Offer on Azure Marketplace"
+  },
+  {
+    "id": 122,
+    "title": "Kontent.ai loves: A/B tests ",
+    "url": "https://kontent.ai/blog/kontent-loves-ab-tests",
+    "meta_title": "Kontent.ai Loves: A/B Tests"
+  },
+  {
+    "id": 123,
+    "title": "Kontent.ai loves: Analytics",
+    "url": "https://kontent.ai/blog/kontent-loves-analytics",
+    "meta_title": "Kontent.ai Loves: Analytics"
+  },
+  {
+    "id": 124,
+    "title": "Kontent.ai loves: Collaboration",
+    "url": "https://kontent.ai/blog/kontent-loves-collaboration",
+    "meta_title": "Kontent.ai Loves: Collaboration"
+  },
+  {
+    "id": 125,
+    "title": "Kontent.ai loves: Landing pages",
+    "url": "https://kontent.ai/blog/kontent-loves-landing-pages",
+    "meta_title": "Kontent.ai Loves: Landing Pages"
+  },
+  {
+    "id": 126,
+    "title": "Kontent.ai loves: Marketing automation",
+    "url": "https://kontent.ai/blog/kontent-loves-marketing-automation",
+    "meta_title": "Kontent.ai Loves: Marketing Automation"
+  },
+  {
+    "id": 127,
+    "title": "Kontent.ai loves: Personalization",
+    "url": "https://kontent.ai/blog/kontent-loves-personalization",
+    "meta_title": "Kontent.ai Loves: Personalization"
+  },
+  {
+    "id": 128,
+    "title": "Kontent.ai loves: SEO",
+    "url": "https://kontent.ai/blog/kontent-loves-seo",
+    "meta_title": "Kontent.ai Loves: SEO"
+  },
+  {
+    "id": 129,
+    "title": "Kontent.ai loves: Ads and social media",
+    "url": "https://kontent.ai/blog/kontent-loves-social-media",
+    "meta_title": "Kontent.ai Loves: Ads and Social Media"
+  },
+  {
+    "id": 130,
+    "title": "How to Launch a Beautiful Website from Headless Web Templates",
+    "url": "https://kontent.ai/blog/how-to-launch-a-beautiful-website-from-headless-web-templates",
+    "meta_title": "How to Launch a Beautiful Website from Headless Web Templates"
+  },
+  {
+    "id": 131,
+    "title": "Lessons learned from building a reliable educational portal",
+    "url": "https://kontent.ai/blog/lessons-learned-from-building-a-reliable-educational-portal",
+    "meta_title": "Lessons learned from building a reliable educational portal"
+  },
+  {
+    "id": 132,
+    "title": "Leverage technology to enhance content operations",
+    "url": "https://kontent.ai/blog/leverage-technology-to-enhance-content-operations",
+    "meta_title": "Leverage Technology to Enhance Content Operations"
+  },
+  {
+    "id": 133,
+    "title": "Make your design system content-friendly",
+    "url": "https://kontent.ai/blog/make-your-design-system-content-friendly",
+    "meta_title": "Make Your Design System Content-Friendly"
+  },
+  {
+    "id": 134,
+    "title": "Make your rich text portable",
+    "url": "https://kontent.ai/blog/make-your-rich-text-portable",
+    "meta_title": "Make your rich text portable"
+  },
+  {
+    "id": 135,
+    "title": "Manage content and assets across multiple teams and channels",
+    "url": "https://kontent.ai/blog/manage-content-and-assets-across-multiple-teams-and-channels",
+    "meta_title": "Manage content and assets across multiple teams and channels"
+  },
+  {
+    "id": 136,
+    "title": "Manage multiple websites efficiently",
+    "url": "https://kontent.ai/blog/manage-multiple-websites-efficiently-with-kontent-ai",
+    "meta_title": "Manage Multiple Websites Efficiently with Kontent.ai"
+  },
+  {
+    "id": 137,
+    "title": "Meet MMT, the digital change makers",
+    "url": "https://kontent.ai/blog/meet-mmt-the-digital-change-makers",
+    "meta_title": "Meet MMT, the digital change makers"
+  },
+  {
+    "id": 138,
+    "title": "Migrating content from a monolith CMS to a headless CMS",
+    "url": "https://kontent.ai/blog/migrating-content-from-a-monolith-cms-to-a-headless-cms",
+    "meta_title": "Migrating content from a monolith CMS to a headless CMS"
+  },
+  {
+    "id": 139,
+    "title": "Modular UX using a headless CMS",
+    "url": "https://kontent.ai/blog/modular-ux-using-a-headless-cms",
+    "meta_title": "Modular UX Using a Headless CMS"
+  },
+  {
+    "id": 140,
+    "title": "Seamless multisite management with Web Spotlight",
+    "url": "https://kontent.ai/blog/seamless-multisite-management-with-web-spotlight",
+    "meta_title": "Seamless multisite management with Web Spotlight"
+  },
+  {
+    "id": 141,
+    "title": "Top 2023 trends in MACH: Insights from MACH Alliance members",
+    "url": "https://kontent.ai/blog/top-2023-trends-in-mach-insights-from-mach-alliance-members",
+    "meta_title": "Top 2023 trends in MACH: Insights from MACH Alliance members"
+  },
+  {
+    "id": 142,
+    "title": "3 Inspiring Omnichannel Examples You Should Know",
+    "url": "https://kontent.ai/blog/3-inspiring-omnichannel-examples-you-should-know",
+    "meta_title": "3 Inspiring Omnichannel Examples You Should Know"
+  },
+  {
+    "id": 143,
+    "title": "3 Steps to Rapidly Deploy a Headless Single Page Application",
+    "url": "https://kontent.ai/blog/3-steps-to-rapidly-deploy-headless-single-page-app",
+    "meta_title": "3 steps to rapidly deploy a headless single page application"
+  },
+  {
+    "id": 144,
+    "title": "5 compelling reasons why you need a content hub",
+    "url": "https://kontent.ai/blog/5-compelling-reasons-why-you-need-content-hub",
+    "meta_title": "5 Compelling Reasons Why You Need a Content Hub"
+  },
+  {
+    "id": 145,
+    "title": "5 Content Contribution Guidelines to Keep Your Writers Motivated",
+    "url": "https://kontent.ai/blog/5-content-contribution-guidelines-keep-writers-motivated",
+    "meta_title": "5 Content Contribution Guidelines to Keep Your Writers Motivated"
+  },
+  {
+    "id": 146,
+    "title": "5 Hallmarks of a Great Content Strategy",
+    "url": "https://kontent.ai/blog/5-hallmarks-of-a-great-content-strategy",
+    "meta_title": "5 Hallmarks of a Great Content Strategy"
+  },
+  {
+    "id": 147,
+    "title": "5 Highly Effective Home Assistant Marketing Strategies",
+    "url": "https://kontent.ai/blog/5-effective-home-assistant-marketing-strategies",
+    "meta_title": "5 Highly Effective Home Assistant Marketing Strategies"
+  },
+  {
+    "id": 148,
+    "title": "5 social media tips to boost your business",
+    "url": "https://kontent.ai/blog/5-social-media-tips-to-boost-your-business",
+    "meta_title": "5 social media tips to boost your business"
+  },
+  {
+    "id": 149,
+    "title": "5 strategies to reach an unparalleled return on your content",
+    "url": "https://kontent.ai/blog/5-strategies-to-reach-unparalleled-return-on-content",
+    "meta_title": "5 Strategies to Reach an Unparalleled Return on Content"
+  },
+  {
+    "id": 150,
+    "title": "6 Reasons Why You Need a Content Strategy",
+    "url": "https://kontent.ai/blog/6-reasons-why-you-need-a-content-strategy",
+    "meta_title": "6 Reasons Why You Need A Content Strategy"
+  },
+  {
+    "id": 151,
+    "title": "7 Tips for Explaining Headless CMS to Your Clients",
+    "url": "https://kontent.ai/blog/7-tips-for-explaining-headless-cms-to-your-clients",
+    "meta_title": "7 Tips for Explaining Headless CMS to Your Clients"
+  },
+  {
+    "id": 152,
+    "title": "How to use Playwright with Next.js, Vercel, and GitHub",
+    "url": "https://kontent.ai/blog/next-js-playwright-tests-github-action",
+    "meta_title": "How to Use Playwright with Next.js, Vercel, and GitHub"
+  },
+  {
+    "id": 153,
+    "title": "Enrich your new Nuxt 3 site with headless CMS content",
+    "url": "https://kontent.ai/blog/enrich-your-nuxt-3-site-with-headless-cms-content",
+    "meta_title": "Enrich Your Nuxt 3 Site with Headless CMS Content"
+  },
+  {
+    "id": 154,
+    "title": "Demystify Nuxtʼs target, mode, and ssr properties",
+    "url": "https://kontent.ai/blog/demystify-nuxt-target-mode-and-ssr-properties",
+    "meta_title": "Demystify Nuxtʼs Target, Mode, and Ssr Properties"
+  },
+  {
+    "id": 155,
+    "title": "Optimize Your Web Project Timeline with Headless CMS",
+    "url": "https://kontent.ai/blog/optimize-your-digital-project-timeline-with-headless-cms",
+    "meta_title": "Optimize Your Web Project Timeline with Headless CMS"
+  },
+  {
+    "id": 156,
+    "title": "Orchestration in personalization: matching vs. directing",
+    "url": "https://kontent.ai/blog/orchestration-in-personalization-matching-vs-directing",
+    "meta_title": "Orchestration in personalization: matching vs. directing"
+  },
+  {
+    "id": 157,
+    "title": "Inspired or stolen? How to stop plagiarism before it happens",
+    "url": "https://kontent.ai/blog/inspired-or-stolen-how-to-stop-plagiarism-before-it-happens",
+    "meta_title": "Inspired or stolen? How to stop plagiarism before it happens"
+  },
+  {
+    "id": 158,
+    "title": "Turn insights into action with Mission Control",
+    "url": "https://kontent.ai/blog/turn-insights-into-action-with-mission-control",
+    "meta_title": "Turn Insights into Action with Mission Control"
+  },
+  {
+    "id": 159,
+    "title": "Q1 2023 release wrap-up: More control over content operations",
+    "url": "https://kontent.ai/blog/q1-2023-release-wrap-up-more-control-over-content-operations",
+    "meta_title": "Q1 2023 release wrap-up: More control over content operations"
+  },
+  {
+    "id": 160,
+    "title": "Q2 2023 release wrap-up: Create great content, faster",
+    "url": "https://kontent.ai/blog/q2-2023-release-wrap-up-create-great-content-faster",
+    "meta_title": "Q2 2023 wrap-up: Create great content, faster"
+  },
+  {
+    "id": 161,
+    "title": "Q3 2022 release wrap-up: Tackling complex content operations",
+    "url": "https://kontent.ai/blog/q3-2022-release-wrap-up",
+    "meta_title": "Q3 2022 Kontent.ai release wrap-up"
+  },
+  {
+    "id": 162,
+    "title": "Q3 2023 release wrap-up: Achieve an unparalleled return on content",
+    "url": "https://kontent.ai/blog/q3-2023-release-wrap-up-achieve-an-unparalleled-return-on-content",
+    "meta_title": "Q3 2023 release wrap-up: Achieve an unparalleled return on content"
+  },
+  {
+    "id": 163,
+    "title": "How to unlock multilingual capabilities of your React website",
+    "url": "https://kontent.ai/blog/how-to-unlock-multilingual-capabilities-of-your-react-website",
+    "meta_title": "How to Improve Your Project With Multilingual Capabilities"
+  },
+  {
+    "id": 164,
+    "title": "Implementing emails in 2021: Rounded buttons with shadow that work in Outlook",
+    "url": "https://kontent.ai/blog/emails-rounded-buttons-with-shadow-outlook",
+    "meta_title": "Implementing Emails in 2021: Rounded Buttons in Outlook"
+  },
+  {
+    "id": 165,
+    "title": "Implementing emails in 2021: How to create inline tags with vertical alignment that work in Outlook",
+    "url": "https://kontent.ai/blog/emails-inline-tags-vertical-alignment-outlook",
+    "meta_title": "Implementing Emails in 2021: Inline Tags & Vertical Alignment"
+  },
+  {
+    "id": 166,
+    "title": "Implementing emails in 2021: How to add rounded corners to containers in Outlook",
+    "url": "https://kontent.ai/blog/emails-outlook-containers-rounded-courners",
+    "meta_title": "Adding Rounded Corners to Containers in Outlook"
+  },
+  {
+    "id": 167,
+    "title": "Implementing emails in 2021: Outlook specifics for spacing and vertical alignment in tables",
+    "url": "https://kontent.ai/blog/emails-spacing-outlook-vertical-alignment-in-tables",
+    "meta_title": "Implementing emails 2021: Spacing and vertical alignment in tables"
+  },
+  {
+    "id": 168,
+    "title": "Implementing emails in 2021: Basics & how to test generated emails",
+    "url": "https://kontent.ai/blog/basics-implementing-testing-generated-emails",
+    "meta_title": "Implementing Emails in 2021: Basics & Testing"
+  },
+  {
+    "id": 169,
+    "title": "Scale your experience: Connecting content and design modules",
+    "url": "https://kontent.ai/blog/scale-your-experience-connecting-content-and-design-modules",
+    "meta_title": "Scale Your Experience: Connecting Content & Design Modules"
+  },
+  {
+    "id": 170,
+    "title": "Searching headless content with Algolia, Rails, Kontent & Next.js",
+    "url": "https://kontent.ai/blog/searching-headless-content-with-algolia-rails-kontent-next-js",
+    "meta_title": "Searching Headless Content with Algolia, Rails, Kontent & Next.js"
+  },
+  {
+    "id": 171,
+    "title": "Security as a business enabler: Building trust and empowering users",
+    "url": "https://kontent.ai/blog/security-as-a-business-enabler",
+    "meta_title": "Security as a business enabler: Building trust and empowering users"
+  },
+  {
+    "id": 172,
+    "title": "Sending Push Notifications from Kontent",
+    "url": "https://kontent.ai/blog/sending-push-notifications-from-kontent",
+    "meta_title": "Sending Push Notifications from Kontent"
+  },
+  {
+    "id": 173,
+    "title": "Sourcebit: How to make friends with various data sources in the Jamstack?",
+    "url": "https://kontent.ai/blog/sourcebit-how-to-make-friends-with-various-data-sources-in-the-jamstack",
+    "meta_title": "How to make friends with various datasources in the Jamstack?"
+  },
+  {
+    "id": 174,
+    "title": "Structured content as building blocks of the user experience",
+    "url": "https://kontent.ai/blog/structured-content-as-building-blocks-of-the-user-experience",
+    "meta_title": "Structured Content as Building Blocks of the User Experience"
+  },
+  {
+    "id": 175,
+    "title": "Structured content for timelines",
+    "url": "https://kontent.ai/blog/structured-content-for-timelines",
+    "meta_title": "Structured Content for Timelines"
+  },
+  {
+    "id": 176,
+    "title": "Structured rich text rendering in MVC",
+    "url": "https://kontent.ai/blog/structured-rich-text-rendering-in-mvc",
+    "meta_title": "Structured Rich Text Rendering in MVC"
+  },
+  {
+    "id": 177,
+    "title": "Supply chain security: How we do it at Kontent.ai",
+    "url": "https://kontent.ai/blog/supply-chain-security-how-we-do-it-at-kontent-ai",
+    "meta_title": "Supply Chain Security and how we do it at Kontent.ai"
+  },
+  {
+    "id": 178,
+    "title": "Taking the fear out of deployments with Kontent.ai environments",
+    "url": "https://kontent.ai/blog/deployment-with-kontent-environments",
+    "meta_title": "Taking the Fear Out of Deployments with Environments"
+  },
+  {
+    "id": 179,
+    "title": "The future of content marketing and 5 trends to expect in 2023",
+    "url": "https://kontent.ai/blog/future-of-content-marketing",
+    "meta_title": "The Future of Content Marketing | 5 Trends to Expect in 2023"
+  },
+  {
+    "id": 180,
+    "title": "The power and potential of structured content",
+    "url": "https://kontent.ai/blog/structured-content",
+    "meta_title": "The Power and Potential of Structured Content"
+  },
+  {
+    "id": 181,
+    "title": "The Rise of JAMstack",
+    "url": "https://kontent.ai/blog/the-rise-of-jamstack",
+    "meta_title": "The Rise of JAMstack"
+  },
+  {
+    "id": 182,
+    "title": "The role of governance in preventing content debt",
+    "url": "https://kontent.ai/blog/role-of-governance-in-preventing-content-debt",
+    "meta_title": "Role of Governance in Preventing Content Debt"
+  },
+  {
+    "id": 183,
+    "title": "The ultimate guide to evergreen content",
+    "url": "https://kontent.ai/blog/evergreen-content",
+    "meta_title": "The Ultimate Guide To Evergreen Content"
+  },
+  {
+    "id": 184,
+    "title": "The 7 stages of the content lifecycle",
+    "url": "https://kontent.ai/blog/7-stages-of-content-lifecycle",
+    "meta_title": "The 7 Stages of the Content Lifecycle"
+  },
+  {
+    "id": 185,
+    "title": "Thinklogic: Solving digital problems with custom solutions",
+    "url": "https://kontent.ai/blog/thinklogic-solving-digital-problems-with-custom-solutions",
+    "meta_title": "Thinklogic: Solving digital problems with custom solutions"
+  },
+  {
+    "id": 186,
+    "title": "Top 7 content marketing trends in 2022",
+    "url": "https://kontent.ai/blog/content-marketing-trends",
+    "meta_title": "Top 7 Content Marketing Trends in 2022"
+  },
+  {
+    "id": 187,
+    "title": "Top Headless CMS trends you can’t afford to miss in 2023 ",
+    "url": "https://kontent.ai/blog/top-headless-cms-trends-you-cant-afford-to-miss-in-2023",
+    "meta_title": "Top Headless CMS Trends You Can’t Afford to Miss in 2023"
+  },
+  {
+    "id": 188,
+    "title": "Top 10 content marketing tools you need",
+    "url": "https://kontent.ai/blog/top-content-marketing-tools",
+    "meta_title": "Top 10 Content Marketing Tools You Need"
+  },
+  {
+    "id": 189,
+    "title": "Understanding the ROI of content production",
+    "url": "https://kontent.ai/blog/understanding-the-roi-of-content-production",
+    "meta_title": "Understanding the ROI of Content Production"
+  },
+  {
+    "id": 190,
+    "title": "Exporting content using Google Sheets",
+    "url": "https://kontent.ai/blog/exporting-content-using-google-sheets",
+    "meta_title": "Exporting Content Using Google Sheets"
+  },
+  {
+    "id": 191,
+    "title": "Making DEI actionable, and other takeaways from Women in MACH",
+    "url": "https://kontent.ai/blog/dei-takeaways-from-women-in-mach-event",
+    "meta_title": "Takeaways from the First-Ever Women in MACH Event"
+  },
+  {
+    "id": 192,
+    "title": "Bringing radical automation to content operations",
+    "url": "https://kontent.ai/blog/bringing-radical-automation-to-content-operations",
+    "meta_title": "Bringing radical automation to content operations"
+  },
+  {
+    "id": 193,
+    "title": "Kontent.ai has raised $40 million in growth capital",
+    "url": "https://kontent.ai/blog/kontent-ai-has-raised-40-million-in-growth-capital",
+    "meta_title": "Kontent.ai has raised $40 million in growth capital "
+  },
+  {
+    "id": 194,
+    "title": "How to protect sensitive content in my static web app?",
+    "url": "https://kontent.ai/blog/how-to-protect-sensitive-content-next-js-static-web-app",
+    "meta_title": "Protect Sensitive Content in Next.js Static Web App"
+  },
+  {
+    "id": 195,
+    "title": "Unveiling the Insights: Key Takeaways from MACH2",
+    "url": "https://kontent.ai/blog/unveiling-the-insights-key-takeaways-from-mach2",
+    "meta_title": "Unveiling the Insights: Key Takeaways from MACH2"
+  },
+  {
+    "id": 196,
+    "title": "Using Content Models for Custom Variations",
+    "url": "https://kontent.ai/blog/using-content-models-for-custom-variations",
+    "meta_title": "Using Content Models for Custom Variations"
+  },
+  {
+    "id": 197,
+    "title": "Using Content Models to Support Reuse",
+    "url": "https://kontent.ai/blog/using-content-models-to-support-reuse",
+    "meta_title": "Using Content Models to Support Reuse"
+  },
+  {
+    "id": 198,
+    "title": "Using the New Kentico Cloud Content Management API",
+    "url": "https://kontent.ai/blog/using-new-kentico-cloud-content-management-api",
+    "meta_title": "Using the New Kentico Cloud Content Management API"
+  },
+  {
+    "id": 199,
+    "title": "What is a cloud-first headless CMS?",
+    "url": "https://kontent.ai/blog/what-is-headless-cms",
+    "meta_title": "Headless CMS Explained in 5 Minutes"
+  },
+  {
+    "id": 200,
+    "title": "What is a static website and how to create one",
+    "url": "https://kontent.ai/blog/what-is-static-website",
+    "meta_title": "What Is a Static Website And How To Create One"
+  },
+  {
+    "id": 201,
+    "title": "What are omnichannel experiences? Benefits, trends, and examples",
+    "url": "https://kontent.ai/blog/what-is-omnichannel",
+    "meta_title": "What Are Omnichannel Experiences? Benefits, Trends, Examples"
+  },
+  {
+    "id": 202,
+    "title": "What’s the role of content management in digital products?",
+    "url": "https://kontent.ai/blog/role-of-content-management-in-digital-products",
+    "meta_title": "What’s the Role of Content Management in Digital Products?"
+  },
+  {
+    "id": 203,
+    "title": "Where Is My WYSIWYG Page Builder?",
+    "url": "https://kontent.ai/blog/where-is-my-wysiwyg-page-builder",
+    "meta_title": "Where Is My WYSIWYG Page Builder?"
+  },
+  {
+    "id": 204,
+    "title": "Why APIs are the future of content",
+    "url": "https://kontent.ai/blog/apis-are-the-future-of-content",
+    "meta_title": "Why APIs Are the Future of Content"
+  },
+  {
+    "id": 205,
+    "title": "Why invest in generative AI for content? ",
+    "url": "https://kontent.ai/blog/why-invest-in-generative-ai-for-content",
+    "meta_title": "Why invest in generative AI for content?"
+  },
+  {
+    "id": 206,
+    "title": "Why is securing AI important",
+    "url": "https://kontent.ai/blog/why-is-securing-ai-important",
+    "meta_title": "Why Is Securing AI Important"
+  },
+  {
+    "id": 207,
+    "title": "Why manufacturers rely on Kontent.ai",
+    "url": "https://kontent.ai/blog/why-manufacturers-rely-on-kontent-ai",
+    "meta_title": "Why Manufacturers Rely on Kontent.ai"
+  },
+  {
+    "id": 208,
+    "title": "Why Structured Writing Needs Structured Content",
+    "url": "https://kontent.ai/blog/why-structured-writing-needs-structured-content",
+    "meta_title": "Why Structured Writing Needs Structured Content"
+  },
+  {
+    "id": 209,
+    "title": "Why the DXP experience is broken and how to build a better one",
+    "url": "https://kontent.ai/blog/why-the-dxp-experience-is-broken-and-how-to-build-a-better-one",
+    "meta_title": "Why the DXP experience is broken and how to build a better one"
+  },
+  {
+    "id": 210,
+    "title": "Why you need better data governance and security from your headless CMS",
+    "url": "https://kontent.ai/blog/why-you-need-better-data-governance-and-security-from-your-headless-cms",
+    "meta_title": "Why You Need Better Data Governance and Security from Your Headless CMS"
+  },
+  {
+    "id": 211,
+    "title": "Why you should ditch DITA and adopt headless instead",
+    "url": "https://kontent.ai/blog/ditch-dita-and-adopt-headless",
+    "meta_title": "Why You Should Ditch DITA and Adopt Headless Instead"
+  },
+  {
+    "id": 212,
+    "title": "Why you should use Figma with a headless CMS",
+    "url": "https://kontent.ai/blog/why-you-should-use-figma-with-headless-cms",
+    "meta_title": "Why You Should Use Figma with Headless CMS"
+  },
+  {
+    "id": 213,
+    "title": "Wind down with Kontent.ai’s 2023 feature wrap-up",
+    "url": "https://kontent.ai/blog/kontent-ai-feature-wrap-up",
+    "meta_title": "Explore the Benefits of New Kontent.ai Features"
+  },
+  {
+    "id": 214,
+    "title": "7+1 Steps to structure a blog post",
+    "url": "https://kontent.ai/blog/how-to-structure-blog-post",
+    "meta_title": "7+1 Steps to Structure a Blog Post"
+  },
+  {
+    "id": 215,
+    "title": "9 website content ideas for your business",
+    "url": "https://kontent.ai/blog/website-content-ideas",
+    "meta_title": "9 Website Content Ideas for Your Business"
+  },
+  {
+    "id": 216,
+    "title": "Your content efficiency needs attention – Generative AI can help",
+    "url": "https://kontent.ai/blog/your-content-efficiency-needs-attention-generative-ai-can-help",
+    "meta_title": "Your content efficiency needs attention – Generative AI can help"
+  },
+  {
+    "id": 217,
+    "title": "Creating print and PDF content with a headless CMS",
+    "url": "https://kontent.ai/blog/creating-print-and-pdf-content-with-a-headless-cms",
+    "meta_title": "Creating print and PDF content with a headless CMS"
+  }
+]
