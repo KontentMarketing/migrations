@@ -1,0 +1,377 @@
+[
+  {
+    "source": "/blog/author/akshay-sura",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/alan-anderson",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/alan-menzies",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/jo-tyrer",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/amy-strada",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/andrew-marsland",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/andrew-marsland",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/andy-thompson",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/andy-thompson",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/dirk-van-hee",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/bart-omlo",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/brian-mckeiver",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/brian-mckeiver",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/bryan-soltis",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/chelsea-warrington",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/colleen-jones",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/colleen-jones",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/corey-hamilton",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/patrick-hogan",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/david-butler",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/lenka-klarova",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/dominika-prikrylova",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/erika-varangouli",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/evan-davey",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/jake-kula",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/jan-kalfus",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/jennifer-ley",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/jennifer-ley",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/neville-james",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/mark-vermeulen",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/joey-egger",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/juraj-komlosi",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/michael-gillett",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/kris-croucher",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/kristian-tasevski",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/veronika-valkova",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/lorris-saint-genez",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/lorris-saint-genez",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/luc-brouwers",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/lukas-martinak",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/lukas-turek",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/sana-remekie",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/marc-lamothe",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/marc-lamothe",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/robert-yelle",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/martin-dolezal",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/pete-trainor",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/matt-nield",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/matus-usiak",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/naima-anton",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/nikola-sarbinowski",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/chris-janning",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/paul-nashawaty",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/katy-white",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/peter-fogelsanger",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/peter-fogelsanger",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/peter-rod",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/barry-loekenbach",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/rosta-striz",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/sana-remekie",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/scott-powney",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/tony-frattaroli",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/travis-brooks",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/simon-herron",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/brad-gustavesen",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/lauren-johnston",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/darcy-heath",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/ben-may",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/anthony-poliseno",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/monte-wilson",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/vaclav-novak",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/marie-christin-grigoleit",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/anastasiia-davydenko",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/yannick-de-pelsmaeker",
+    "destination": "/blog/author/",
+    "permanent": false
+  },
+  {
+    "source": "/blog/author/yvette-hastings",
+    "destination": "/blog/author/",
+    "permanent": false
+  }
+]

@@ -23,7 +23,12 @@ const migration: MigrationModule = {
         .toPromise()
     ).data.items
       .map((post) =>
-        post.elements.author.linkedItems.map((author) => author.system.codename)
+        post.elements.author.linkedItems.map((author) => ({
+          author_codename: author.system.codename,
+          author_name: author.elements.name.value,
+          type: post.system.type,
+          slug: post.elements.urlSlug.value,
+        }))
       )
       .flat()
 
@@ -34,9 +39,12 @@ const migration: MigrationModule = {
         .toPromise()
     ).data.items
       .map((webinar) =>
-        webinar.elements.speakers.linkedItems.map(
-          (speaker) => speaker.system.codename
-        )
+        webinar.elements.speakers.linkedItems.map((speaker) => ({
+          author_codename: speaker.system.codename,
+          author_name: speaker.elements.name.value,
+          type: webinar.system.type,
+          slug: webinar.elements.urlSlug.value,
+        }))
       )
       .flat()
 
@@ -47,9 +55,12 @@ const migration: MigrationModule = {
         .toPromise()
     ).data.items
       .map((event) =>
-        event.elements.speakers.linkedItems.map(
-          (speaker) => speaker.system.codename
-        )
+        event.elements.speakers.linkedItems.map((speaker) => ({
+          author_codename: speaker.system.codename,
+          author_name: speaker.elements.name.value,
+          type: event.system.type,
+          slug: event.elements.urlSlug.value,
+        }))
       )
       .flat()
 
@@ -59,10 +70,13 @@ const migration: MigrationModule = {
         .type(contentTypes.internal_press_release.codename)
         .toPromise()
     ).data.items
-      .map((event) =>
-        event.elements.author.linkedItems.map(
-          (author) => author.system.codename
-        )
+      .map((press) =>
+        press.elements.author.linkedItems.map((author) => ({
+          author_codename: author.system.codename,
+          author_name: author.elements.name.value,
+          type: press.system.type,
+          slug: press.elements.urlSlug.value,
+        }))
       )
       .flat()
 
@@ -72,14 +86,17 @@ const migration: MigrationModule = {
         .type(contentTypes.contact_component.codename)
         .toPromise()
     ).data.items
-      .map((event) =>
-        event.elements.contact.linkedItems.map(
-          (contact) => contact.system.codename
-        )
+      .map((contactCard) =>
+        contactCard.elements.contact.linkedItems.map((contact) => ({
+          author_codename: contact.system.codename,
+          author_name: contact.elements.name.value,
+          type: contactCard.system.type,
+          slug: 'no_slug',
+        }))
       )
       .flat()
 
-    const authorsWithPosts = Array.from(
+    const usedAuthors = Array.from(
       new Set([...posts, ...webinars, ...events, ...press, ...contact])
     )
 
@@ -90,32 +107,48 @@ const migration: MigrationModule = {
         .toPromise()
     ).data.items.map((author) => author.system.codename)
 
-    const authorsWithoutPosts = allAuthors.filter(
-      (author) => !authorsWithPosts.includes(author)
+    const unusedAuthors = allAuthors.filter(
+      (author) =>
+        !usedAuthors.some((usedAuthor) => usedAuthor.author_codename === author)
     )
 
-    const authorsWithoutPostsDataPromises = authorsWithoutPosts.map(
-      (author) => {
-        return KontentService.Instance()
-          .deliveryClient.item<AuthorModel>(author)
-          .toPromise()
-      }
-    )
+    const authorsWithoutPostsDataPromises = unusedAuthors.map((author) => {
+      return KontentService.Instance()
+        .deliveryClient.item<AuthorModel>(author)
+        .toPromise()
+    })
 
     const authorsWithoutPostsData = await Promise.all(
       authorsWithoutPostsDataPromises
     )
+
+    // Unpublish the authors
+    for await (const author of authorsWithoutPostsData) {
+      try {
+        await apiClient
+          .unpublishLanguageVariant()
+          .byItemCodename(author.data.item.system.codename)
+          .byLanguageCodename('default')
+          .withoutData()
+          .toPromise()
+      } catch (error) {
+        console.log(
+          `Archiving author ${author.data.item.elements.name.value} with codename ${author.data.item.system.codename} failed`
+        )
+      }
+    }
 
     const authorDataFiltered = authorsWithoutPostsData.map((author) => {
       return {
         name: author.data.item.elements.name.value,
         email: author.data.item.elements.email.value,
         codename: author.data.item.system.codename,
+        slug: author.data.item.elements.urlSlug.value,
         workflowStep: author.data.item.system.workflowStep,
       }
     })
 
-    const filePath = './src/data/unused_authors.json'
+    const filePath = './src/data/unused_authors_2.json'
 
     fs.writeFileSync(filePath, JSON.stringify(authorDataFiltered, null, 2))
   },

@@ -1,0 +1,2246 @@
+[
+  {
+    "title": "Announcing the 2023 Kontent.ai MVPs 🏆",
+    "slug": "announcing-the-2023-kontent-ai-mvps",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/178b2db7-57aa-46d1-a149-5fadaf033bef/kai-og-img---blog-post---2-lines_mvp.png",
+    "meta_title": "Announcing the 2023 Kontent.ai MVPs 🏆",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1eb652f1-698f-4493-a1f6-2c4f3b0ade42/kai-hero-img---blog-post%402x_mvps.png"
+  },
+  {
+    "title": "Pre-rendered, server-rendered, or hybrid: Which should I use?",
+    "slug": "pre-rendered-server-rendered-or-hybrid-which-should-i-use",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1904e221-92e2-4f9f-a2f2-b359be951f3f/kk-og-img.jpg",
+    "meta_title": "Pre-rendered, server-rendered, or hybrid?",
+    "authors": [
+      "Tom Marshall"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ebc11d05-753b-4a01-b399-5d3d5119c5fe/kk-bg-img-6.jpg"
+  },
+  {
+    "title": "Stop bothering people with reCaptcha; use reCaptcha",
+    "slug": "stop-bothering-people-with-recaptcha-use-recaptcha",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6b1bb3c3-fc4c-41af-831a-00982108432c/kai-og-img---blog-post---3-lines.png",
+    "meta_title": "Stop bothering people with reCaptcha; use reCaptcha",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/06d82552-cf43-43a5-b53e-8957f4403792/kai-hero-img---blog-post%402x_.png"
+  },
+  {
+    "title": "How to avoid production errors caused by content changes on Jamstack sites",
+    "slug": "avoid-production-errors-after-unexpected-content-model-changes",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0288d248-2388-4c2a-97e3-79ca2da6675f/kk-og-img-production-errors.png",
+    "meta_title": "How to avoid production errors caused by content changes",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c6d6e113-7bcf-4689-a61e-a77e1d29187f/kk-bg-img-production-errors.jpg"
+  },
+  {
+    "title": "What’s the best place to host Next.js site?",
+    "slug": "comparison-of-jamstack-hosting-platforms-for-next-js",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/dae5b0f5-6ab7-4aa8-b078-b8fbf2477496/kai-og-img-blog-post-comparison-of-jamstack-hosting-platforms-for-next-js.jpg",
+    "meta_title": "What’s the best place to host Next.js site?",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8e573180-ee4b-4cd9-8150-1ec4f4693c90/kk-bg-img.jpg"
+  },
+  {
+    "title": "Avoid vendor lock-in: Migrating content from Contentful to Kontent",
+    "slug": "avoid-vendor-lock-in-migrating-content-from-contentful-to-kontent",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3836b570-9fd3-42ba-8a6e-9f1681609163/kk-og-image.png",
+    "meta_title": "Avoid vendor lock-in: Migrating content from Contentful to Kontent",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d0e11447-d2a5-4153-884c-292608fa21bf/kk-bg-img.jpg"
+  },
+  {
+    "title": "Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?",
+    "slug": "gatsby-vs-next-gridsome-nuxt",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f697d10b-9d62-44f4-8c91-b5a24bae3ab2/kai-og-img-blog-post-gatsby-vs-next-gridsome-nuxt.jpg",
+    "meta_title": "Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0434d117-56ad-4732-a5e2-bcfdad4d0450/kk-bg-img.jpg"
+  },
+  {
+    "title": "How to generate RSS feed in Next.js",
+    "slug": "how-to-generate-rss-feed-in-next-js",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2673ad83-bc87-4332-ac2e-6249083077b8/kai-og-img-How%20to%20generate%20RSS%20feed%20in%20Nextjs.jpg",
+    "meta_title": "How to generate RSS feed in Next.js",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/34593fe4-afe6-472f-b327-4790d8bd169a/kai-hero-img-How%20to%20generate%20RSS%20feed%20in%20Nextjs.jpg"
+  },
+  {
+    "title": "How to build URLs and handle redirects in Next.js",
+    "slug": "how-to-build-urls-and-handle-redirects-in-next-js",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/df5cb90d-9077-453d-b26f-14729e85b245/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "How to build URLs and handle redirects in Next.js",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/dc420381-3158-4579-b32f-fa1a6090c59b/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "How to handle URL redirects when using a headless CMS",
+    "slug": "how-to-handle-url-redirects-with-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b7122a01-3e26-4fa8-b536-b3efc9fe3ba4/kai-og-img-URL-redirect.jpg",
+    "meta_title": "How to handle URL redirects when using a headless CMS",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7eee4bcd-6c59-4236-8ee8-9dffcc830a54/kk-bg-img%402x.jpg"
+  },
+  {
+    "title": "How to start A/B testing your Next.js site",
+    "slug": "how-to-start-a-b-testing-your-next-js-site",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/50d5a042-b1dc-47ca-89c5-65f6462a6ff2/kai-og-img---blog-post---2-lines-ab-testing.png",
+    "meta_title": "How to implement AB tests in Next.js",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/871f4ba9-cd73-4a30-9927-e76ab5dc933e/kai-hero-img---blog-post%402x-ab-testing.png"
+  },
+  {
+    "title": "How Kontent.ai handles disaster recovery",
+    "slug": "how-kontent-ai-handles-disaster-recovery",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/52fbdfd2-b852-455b-9829-3c8aa897a2e1/How%20Kontent.ai%20handles%20disaster%20recovery.jpg",
+    "meta_title": "How Kontent.ai handles disaster recovery",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e96d76d3-8452-4fae-b63c-b14b2c271b07/kk-bg-img-4.jpg"
+  },
+  {
+    "title": "How we moved from zero to a viable AI solution with Headless CMS",
+    "slug": "how-we-moved-from-zero-to-a-viable-ai-solution-with-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/74307b41-a4e3-47a9-bea5-4db424e4f3d2/how-we-moved-from-zero.png",
+    "meta_title": "How we moved from zero to a viable AI solution with Kontent.ai",
+    "authors": [
+      "Martin Hejtmanek"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/124d0903-d5c1-44a3-b10c-6bab1a00bcb1/ai-prompt.png"
+  },
+  {
+    "title": "The all new JavaScript SDKs—should you upgrade?",
+    "slug": "news-in-javascript-sdks",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ad4d845d-fb59-413b-aa95-aaeb30b2814d/kk-og-img-2.jpg",
+    "meta_title": "The all new JavaScript SDKs—Should you upgrade?",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/012bb874-f082-40e1-9e65-4b718a9cbdaa/kk-bg-img.jpg"
+  },
+  {
+    "title": "How to run scripts before every build on Next.js",
+    "slug": "how-to-run-scripts-before-every-build-on-next-js",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/327030e5-108f-46c6-a848-e08b8eac5382/kai-og-img-How%20to%20run%20scripts%20before%20every%20build%20on%20Nextjs.jpg",
+    "meta_title": "How to run scripts before every build on Next.js",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0efd37e4-bb46-4a22-a898-df9d3ae89580/kai-hero-img-Next.js%20pre-build%20scripts.jpg"
+  },
+  {
+    "title": "How to verify and process webhook notifications in Next.js",
+    "slug": "processing-webhooks-in-next-js",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2133c4ee-f7c0-4545-aef2-7a4df124836b/kai-og-img-blog-post-processing-webhooks-in-next-js.jpg",
+    "meta_title": "How to verify and process webhook notifications in Next.js",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f9b05010-e9d4-480f-97db-1ca1a656b5a4/kk-bb-img-webhook-notification.png"
+  },
+  {
+    "title": "How to decide between React and Vue? Gatsby and Gridsome?",
+    "slug": "react-or-vue-gatsby-or-gridsome",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/97e9e163-48a6-4e97-9ead-704e24b8e9c9/kk-og-img.png",
+    "meta_title": "How to decide between React and Vue? Gatsby and Gridsome?",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3ccee0dc-2892-47e4-bd22-4242fd287ca8/kk-bg-img.jpg"
+  },
+  {
+    "title": "How to build Jamstack site with Angular and Scully",
+    "slug": "build-jamstack-site-with-angular-and-scully",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/22671b83-c284-4d37-8373-d7b5ae3645ff/kk-og-img.jpg",
+    "meta_title": "Build Jamstack site with Angular and Scully",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9bcee3f7-50c5-43e6-949e-c978653ffa60/kk-bg-img-3.jpg"
+  },
+  {
+    "title": "Defeat technical debt on a modern website and make it future-proof",
+    "slug": "defeat-technical-debt-on-a-modern-website-and-make-it-future-proof",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/bd642849-a40b-4ae4-82fa-fad5365794eb/defeat-tech-debt-blog-meta.png",
+    "meta_title": "Defeat technical debt on a modern website and make it future-proof",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/44ad319c-d9ed-4857-972c-305ea100ab47/hero-tech-debt.png"
+  },
+  {
+    "title": "Personalizing static sites using Kontent and Pardot",
+    "slug": "static-site-personalization",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e5557ddc-1c8b-4ae0-a295-edaffde6df72/kk-blog-og-img-personalization-pardot.png",
+    "meta_title": "Personalizing static sites using Kontent and Pardot",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/732694de-c730-45cb-a3a0-67d8ec04170c/kk-blog-img-personalization-pardot_-min.png"
+  },
+  {
+    "title": "Kontent.ai welcomes two new Technology MVPs",
+    "slug": "kontent-ai-new-technology-mvps-2023",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5c13ac62-98e0-44d8-9812-dd548ccd44c7/kontent-ai-welcomes-two-new-tech-mvps.png",
+    "meta_title": "Kontent.ai welcomes two new Technology MVPs",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/25473f9a-8983-4fd0-a353-ad2060542f05/new-tech-mvps.png"
+  },
+  {
+    "title": "How to test cookies using end-to-end tests and Playwright",
+    "slug": "how-to-test-cookies-using-end-to-end-tests-and-playwright",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e1d69908-3d4f-40ea-9272-843a9819e39c/how-to-test-cookies-kai-og-img---blog-post---3-lines.png",
+    "meta_title": "How to test cookies using end-to-end tests and Playwright",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f2986327-c374-4bcd-acca-81ef785a3aab/kai-hero-img---blog-post%402x.png"
+  },
+  {
+    "title": "How to benefit from const assertion in your TypeScript code?",
+    "slug": "how-to-benefit-from-const-assertion-in-your-typescript-code",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8a031db8-e19a-4094-ae03-0d1cc30fb7db/how-to-benefit-from-const.png",
+    "meta_title": "How to benefit from const assertion in your TypeScript code?",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/76a8dd31-4f2b-44c4-ad93-37979fdd9062/kai-hero-img-How%20to%20benefit%20from%20const%20assertion%20in%20your%20TypeScript%20code_.jpg"
+  },
+  {
+    "title": "Positive: The perfect blend of marketing expertise and technical ability",
+    "slug": "positive-the-perfect-blend-of-marketing-expertise-and-technical-ability",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8436ce7d-3a00-4f43-acbc-6a99443d2d4c/positive-partner-of-the-month.png",
+    "meta_title": "Meet client-centric and outcome-orientated, Positive",
+    "authors": [
+      "Shea Gerula"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d23c0573-e4c1-4f30-af71-797928782c09/kai-hero-img---blog-post%402x%20%287%29.jpg"
+  },
+  {
+    "title": "Introducing Luminary, a leader in digital experiences",
+    "slug": "introducing-luminary-a-leader-in-digital-experiences",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/25d1fa12-f8dc-48d7-99ef-474aeacff13c/kai-og-img---blog-post---2-lines%20%281%29.jpg",
+    "meta_title": "Introducing Luminary, a leader in digital experiences",
+    "authors": [
+      "Amber Bartholomeusz"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a77bf876-e65a-450b-94b5-7e15b52b13f3/kai-hero-img---blog-post%402x%20%287%29.jpg"
+  },
+  {
+    "title": "A guide to effective content mapping for enhanced user engagement",
+    "slug": "content-mapping",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2a15593d-0921-4cf1-b8e8-6860e5f89724/A%20Guide%20to%20Effective%20Content%20Mapping%20for%20Enhanced%20User%20Engagement.jpg",
+    "meta_title": "A guide to effective content mapping for enhanced user engagement",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4a72121f-596c-4747-93c4-e486adb6d6a0/content%20mapping%20hero.jpg"
+  },
+  {
+    "title": "How leading organizations across the globe exceed customer expectations",
+    "slug": "how-leading-organizations-across-the-globe-exceed-customer-expectations",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5f8ea05e-bee5-422c-acb4-989d4adbdb40/kai-og-img-bart%E2%80%99s%20blog.jpg",
+    "meta_title": "How leading organizations across the globe exceed customer expectations",
+    "authors": [
+      "Bart Omlo"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8cdb9cec-c10e-494e-9ac1-ee01af8aadfe/kai-hero-img-Bart%E2%80%99s%20blog.jpg"
+  },
+  {
+    "title": "ACTUM Digital: Empowering organizations with digital platforms",
+    "slug": "actum-digital-empowering-organizations-with-digital-platforms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/24d24e44-d796-4507-bb3f-eb04d11b055c/kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "ACTUM Digital: Empowering organizations with digital platforms",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4b5e730c-2551-4031-8f17-dc87b729fb73/kai-hero-img---blog-post%402x-4.jpg"
+  },
+  {
+    "title": "Addressing localization challenges with headless content management",
+    "slug": "addressing-localization-challenges-with-headless-content-management",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f8f545e5-4893-4701-8c65-db34b3107a16/localization-challenges-kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Addressing localization challenges with headless content management",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/06b0f926-8477-4a3e-8ed0-8fa62ad1a1e8/kk-bb-img-localization_.jpg"
+  },
+  {
+    "title": "Agile personalization: A strategy for success",
+    "slug": "agile-personalization-strategy-for-success",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ff821786-1136-4d90-83f0-b1ac63248217/kk-bb-og-img-ninetailed-.png",
+    "meta_title": "Agile personalization: A strategy for success",
+    "authors": [
+      "Andy Kaiser"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/34746734-20b3-4e71-961a-76e9fb901525/kk-bb-img-ninetailed_.png"
+  },
+  {
+    "title": "AI-based auto-tagging of content: what you need to know ",
+    "slug": "ai-based-auto-tagging-of-content-what-you-need-to-know",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0dcd64f0-f7d8-4b09-9979-4e2682cdb9f8/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "AI-based auto-tagging of content: What you need to know",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/61e33ddc-e0a3-4c4b-9229-d3670a5b4c3f/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "AI governance in Kontent.ai",
+    "slug": "ai-governance-in-kontent-ai",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/af9d40cb-df81-41b3-b35a-b7b6e0357eae/kai-og-img---blog-post---2-lines-ai-governance.png",
+    "meta_title": "AI governance in Kontent.ai",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/40601cb3-1094-4c01-9216-81839e164aef/kai-hero-img---blog-post%402x-ai-governance.png"
+  },
+  {
+    "title": "Kontent.ai introduces industry’s first CMS with native AI capabilities ",
+    "slug": "kontent-ai-introduces-industry-s-first-cms-with-native-ai-capabilities",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3bfafa55-41dc-4d99-99f5-4734f7201a64/kai-og-img---ai23.jpg",
+    "meta_title": "Kontent.ai introduces industry’s first CMS with native AI capabilities",
+    "authors": [
+      "Vojtech Boril"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/17554dce-d54d-4069-af21-233c041ea85a/kai-hero-img---homepage%402x%20v2.png"
+  },
+  {
+    "title": "Machine learning: How to ensure labels are smart, not lucky",
+    "slug": "machine-learning-how-to-ensure-labels-are-smart-not-lucky",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d8abcde4-6053-4c89-8006-c2f3347b19c9/kk-og-img.png",
+    "meta_title": "Machine learning: How to ensure labels are smart, not lucky",
+    "authors": [
+      "Michael Berry"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0c933326-3eee-4d4f-9b2d-4aa11a538d55/kk-bg-img.jpg"
+  },
+  {
+    "title": "How to Automatically Translate Content Using Webhooks",
+    "slug": "how-to-automatically-translate-content-using-webhooks",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1fa612fa-7b9e-4f6d-811d-60a0941772c3/kk-og-img.jpg",
+    "meta_title": "Automatic translation of content items using webhooks",
+    "authors": [
+      "Eric Dugre"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c61b1845-c5ba-4375-b6dc-1d173066f106/kk-bg-img.jpg"
+  },
+  {
+    "title": "Best 404 page examples from our customers",
+    "slug": "best-404-page-examples",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ac0aad0a-7726-45e3-a350-377d09fbe6d8/kai-og-img-404-pages.jpg",
+    "meta_title": "Best 404 page examples from our customers",
+    "authors": [
+      "Zaneta Styblova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9484439c-4fb4-445f-8105-6ce45d01f082/kk-bg-img%402x.jpg"
+  },
+  {
+    "title": "Best landing page design examples from our customers",
+    "slug": "best-landing-page-examples",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/568f3664-276d-45f7-b2bf-fd787372117c/kk-og-img.jpg",
+    "meta_title": "Best landing page design examples from our customers",
+    "authors": [
+      "Zaneta Styblova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b8bfada4-c95e-4aa1-a485-a2e099ae9273/kk-bg-img%402x.jpg"
+  },
+  {
+    "title": "Best practices for writing modular content",
+    "slug": "best-practices-for-writing-modular-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0c5a8f02-3ece-4583-8189-e2514659f701/kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "Best practices for writing modular content",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/fb87e075-1b71-4e79-818a-e8d536e11d03/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Best product page design examples in 2024",
+    "slug": "best-product-page-examples",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/594ff673-3544-4c99-a347-1689012423d5/kai-og-img---blog-post---2-lines%402x.jpg",
+    "meta_title": "Best product page design examples in 2024",
+    "authors": [
+      "Zaneta Styblova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/189caa8b-8979-4475-88b8-1557037eb49a/kk-bg-img%402x-1-.png"
+  },
+  {
+    "title": "From chaos to clarity: best practices for content taxonomy",
+    "slug": "from-chaos-to-clarity-best-practices-for-content-taxonomy",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f43601aa-5e0a-4ef2-8c94-d96a9412d72a/content-taxonomy-og-image.png",
+    "meta_title": "From chaos to clarity: Best practices for content taxonomy",
+    "authors": [
+      "Tereza Bruzkova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3d73a48e-50db-41fa-8b7b-a11df8ad14bc/hero-content-taxonomy.png"
+  },
+  {
+    "title": "Decoding AI Success: Tips for Businesses to Achieve Maximum Value and Content Security",
+    "slug": "decoding-ai-success-tips-for-businesses-to-achieve-maximum-value-and-content-security",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d868e4ef-f12c-4db5-b51f-951c07005db0/kai-og-img---blog-post---3-lines_decoding-ai-success.png",
+    "meta_title": "Decoding AI success: Tips for businesses to achieve maximum value and content security",
+    "authors": [
+      "Vojtech Boril",
+      "Martin Michalik"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1af6764d-7e61-4003-87af-a6c2a49f55db/blog-og-image.png"
+  },
+  {
+    "title": "Governance, risk, and compliance at Kontent.ai",
+    "slug": "governance-risk-and-compliance-at-kontent-ai",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/19c9b108-3ccc-4098-8531-e3484a1fe840/governance-risk-compliance-meta.png",
+    "meta_title": "Governance, risk, and compliance at Kontent.ai",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/62bff964-3bb4-451d-a62a-5dce8cff7f20/Governance-risk-compliance-hero-img.png"
+  },
+  {
+    "title": "How we implemented security in a modern hybrid workplace  ",
+    "slug": "how-we-implemented-security-in-a-modern-hybrid-workplace",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/bae5f8c1-7986-4586-b2fb-3f87c8b3eb60/blog-security-in-a-modern-workplace.png",
+    "meta_title": "How we implemented security in a modern hybrid workplace",
+    "authors": [
+      "Petr Prochazka"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/525f3899-ebd4-4d82-aba3-88dfe1cfe79d/modern-hybrid-workplace.png"
+  },
+  {
+    "title": "Kontent.ai expands its MVP program with two new categories",
+    "slug": "kontent-ai-expands-its-mvp-program-with-two-new-categories",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9cc26249-60f6-40d4-9c2f-7f691580bffe/mvp-program-metadata.png",
+    "meta_title": "Kontent.ai expands its MVP program with two new categories",
+    "authors": [
+      "Amber Bartholomeusz"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/16256360-0bcc-4abb-9baf-ded6eebf6324/new-mvp-program-hero.png"
+  },
+  {
+    "title": "Kontent.ai joins Cybersecurity Tech Accord",
+    "slug": "kontent-ai-joins-cybersecurity-tech-accord",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/36947d33-4f29-468e-b79a-5e82d83af578/og-cybersecurity-tech-accord.png",
+    "meta_title": "Kontent.ai joins Cybersecurity Tech Accord",
+    "authors": [
+      "Tereza Bruzkova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/46d802eb-992f-4395-8a2a-de38de7b6fd2/cybersecurity.png"
+  },
+  {
+    "title": "Kontent.ai launches enhanced Partner Program",
+    "slug": "kontent-ai-launches-enhanced-partner-program",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9ff91941-8a0a-41c0-b27f-cdffc8187eaf/blog-kontent-ai-launches-enhanced-partner-program.png",
+    "meta_title": "Kontent.ai launches enhanced Partner Program",
+    "authors": [
+      "Amber Bartholomeusz"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5a6d2235-d97a-42aa-8ff7-fe8d020e2dbb/h.png"
+  },
+  {
+    "title": "Looking back at 2023 trends: Which predictions were spot on?",
+    "slug": "looking-back-at-2023-trends-which-predictions-were-spot-on",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5807c509-0159-4cb1-a20e-37d0c513c8eb/blog-looking-back.png",
+    "meta_title": "Looking back at 2023 trends: Which predictions were spot on?",
+    "authors": [
+      "Tereza Bruzkova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5d76f91c-ff25-403c-8395-36ca29584413/header-trends-2023.png"
+  },
+  {
+    "title": "Meet community-minded, customer-centric Konabos",
+    "slug": "meet-community-minded-customer-centric-konabos",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/44cda818-c9a9-42fd-9b76-668f82c75b19/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Meet community-minded, customer-centric Konabos",
+    "authors": [
+      "Amber Bartholomeusz"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b69bb108-031a-40a5-9638-9c63b2485ae7/konabos%20partner.png"
+  },
+  {
+    "title": "Navigating the privacy landscape: How Kontent.ai upholds data protection",
+    "slug": "navigating-the-privacy-landscape-how-kontent-ai-upholds-data-protection",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4b6e27cc-9536-4a46-ac1e-324a7e4756fb/privacy-landscape-meta.png",
+    "meta_title": "Navigating the privacy landscape: How Kontent.ai upholds data protection",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/eee9e31f-39aa-4c26-9963-2a7b7bea18df/privacy-landscape.png"
+  },
+  {
+    "title": "Product security assurance of Kontent.ai: A trustworthy foundation for content management",
+    "slug": "product-security-assurance-of-kontent-ai-a-trustworthy-foundation-for-content-management",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/79237c2b-40d9-4467-9e9d-1f53d39f4452/product-security-assurance.png",
+    "meta_title": "Product security assurance of Kontent.ai: A trustworthy foundation for content management",
+    "authors": [
+      "Daniel Filakovsky"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b2b5a4d5-18ce-418c-a9f7-8f23153cf285/blog-hero-img.png"
+  },
+  {
+    "title": "Bridging facts and stories: AI enterprise content creation",
+    "slug": "bridging-facts-and-stories-ai-enterprise-content-creation",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c7841bfd-60cc-44c1-bc73-2388520e7d27/kai-og-img---blog-post---3-lines-bridging-facts-and-stories.jpg",
+    "meta_title": "Bridging facts and stories: AI content creation",
+    "authors": [
+      "Tomas Hruby"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/42c00538-0b36-4db9-abc5-e34b665787ba/kai-hero-img---blog-post%402x.png"
+  },
+  {
+    "title": "Building a Cloud-first Headless CMS",
+    "slug": "building-a-cloud-first-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e8c469bf-c6c1-43e1-8beb-0318beb6fe5d/02-shared-repository.png",
+    "meta_title": "Building a cloud-first headless CMS",
+    "authors": [
+      "Roman Konecny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0f5a3b80-e785-4470-a649-be60b91e2695/headless-cms-scenarios---blog-post-image_t.png"
+  },
+  {
+    "title": "Building a Website with Headless CMS in Just One Day",
+    "slug": "headless-cms-site-built-in-one-day",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/cc5c8505-068d-4fbf-b7a7-548abd4c7b8a/kc-in-one-day---blog-post-image_t.png",
+    "meta_title": "Building a website with headless CMS in just one day",
+    "authors": [
+      "Petr Palas"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/cc5c8505-068d-4fbf-b7a7-548abd4c7b8a/kc-in-one-day---blog-post-image_t.png"
+  },
+  {
+    "title": "Building an agile content pipeline with a headless CMS",
+    "slug": "content-pipeline",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6eface58-90c7-4e78-877d-d3f2f9be5a90/content%20pipeline%20og.jpg",
+    "meta_title": "Building an agile content pipeline with a headless CMS",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/34e3f7a2-7877-4c77-80cd-487c0033760c/content%20pipeline%20hero.jpg"
+  },
+  {
+    "title": "Building secure software: Kontent.ai’s adoption of SBOM",
+    "slug": "building-secure-software-kontent-ais-adoption-of-sbom",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d06cd001-2c7b-49ef-a256-34f27e5189f9/SBOM.jpg",
+    "meta_title": "Building secure software: Kontent.ai’s adoption of SBOM",
+    "authors": [
+      "Roman Oravec"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/89fdaf9f-b13b-48b9-87ab-f6868824d4f7/Kontent.ai%E2%80%99s%20Adoption%20of%20SBOM%20hero.jpg"
+  },
+  {
+    "title": "Building Your Custom Documentation Portal (When You Already Have Two)",
+    "slug": "building-your-custom-documentation-portal-when-you-already-have-two",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1b3ef5ef-961d-4105-98c6-3c7a0e28cbea/kk-og-img-alt.png",
+    "meta_title": "Building your custom documentation portal (when you already have two)",
+    "authors": [
+      "Jan Cerman"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7c18535b-255b-49b2-9b07-575486bd5ce0/kk-bg-img.png"
+  },
+  {
+    "title": "Clearing Obsolete Cache Entries with Webhooks",
+    "slug": "clearing-obsolete-cache-entries-with-webhooks",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/19b2b039-0836-4f0f-8f1a-47d791f6c246/clearing-cache-with-webhooks---blog-post-image_t.png",
+    "meta_title": "Clearing obsolete cache entries with webhooks",
+    "authors": [
+      "Jan Lenoch"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/19b2b039-0836-4f0f-8f1a-47d791f6c246/clearing-cache-with-webhooks---blog-post-image_t.png"
+  },
+  {
+    "title": "CMS in the cloud sucks and why it’s time for a cloud-first headless CMS",
+    "slug": "cms-in-the-cloud-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/75d83f23-f393-4f30-aa1a-ba71e0f92ab7/Kentico_blogpost_cover_cloudcms.png",
+    "meta_title": "CMS in the cloud sucks and why it's time for a cloud-first headless CMS",
+    "authors": [
+      "Petr Palas"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/75d83f23-f393-4f30-aa1a-ba71e0f92ab7/Kentico_blogpost_cover_cloudcms.png"
+  },
+  {
+    "title": "Common misconceptions about Generative AI",
+    "slug": "common-misconceptions-about-generative-ai",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/fc7ae92f-2723-45db-9d63-5a512fa80961/kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "Common misconceptions about generative AI",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8362e705-bd59-4738-b4a2-24898215c3d6/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Content architecture: Building the digital blueprint",
+    "slug": "content-architecture",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a5a06a07-5073-43cc-bd99-6dfbd5e4b4a3/Content%20architecture-%20Building%20the%20digital%20blueprint.jpg",
+    "meta_title": "Content architecture: Building the digital blueprint",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/02df47cd-8b14-4db2-9237-dfeed8658756/content-architecture.jpg"
+  },
+  {
+    "title": "Content federation doesn’t deliver unified publishing",
+    "slug": "content-federation-doesnt-deliver-unified-publishing",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f6b95843-8fc9-49ac-a7e9-c72b47dcbaae/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Content federation doesn’t deliver unified publishing",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2935e64d-6b1b-458b-8d44-11af2db4c8d0/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Content governance in the digital age: Harnessing the power of Kontent.ai’s Headless CMS",
+    "slug": "content-governance",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f12df1c2-8f05-4e3e-bedc-0ea01f2eaad3/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Content governance in the digital age",
+    "authors": [
+      "Zaneta Styblova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/13eefdab-179b-4243-b112-992ac07003af/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Step-by-step guide to successful content migration",
+    "slug": "content-migration",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6143144c-e902-439c-b980-e384ca9108b1/content%20migration%20og.jpg",
+    "meta_title": "Step-by-Step Guide to Successful Content Migration",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/73d3e662-305e-4741-b2de-6c9e7bc73957/content%20migration%20hero.jpg"
+  },
+  {
+    "title": "Content strategy using ChatGPT with a headless CMS",
+    "slug": "content-strategy-using-chatgpt-with-a-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e251cca1-56ab-42e7-beb1-b0aab777a1d5/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Content strategy using ChatGPT with a headless CMS",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8f11fe26-cd89-4f33-a6b0-c42e8e879733/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Content strategy vs Content marketing: The key differences",
+    "slug": "content-strategy-vs-content-marketing",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/cd916ef4-d944-4ff5-8b5c-7a44d592ded1/kai-og-img---blog-post---3-lines-2.jpg",
+    "meta_title": "Content strategy vs content marketing: The key differences",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2d842381-f20c-434d-99a7-3a4a17c86543/kai-hero-img---blog-post%402x-5.jpg"
+  },
+  {
+    "title": "Crafting content in the digital age: A deep dive into the content creation process",
+    "slug": "content-creation-process",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/fe4fb4b1-12bd-441c-9d4a-908f1da7696e/deep%20dive%20into%20the%20content%20creation%20process.jpg",
+    "meta_title": "A deep dive into the content creation process",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/58a0f54e-9fd9-48c6-ad5b-f3a40058e2f7/content%20creation%20process%20hero.jpg"
+  },
+  {
+    "title": "Create Once, Publish Everywhere: doing COPE right",
+    "slug": "create-once-publish-everywhere-doing-cope-right",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3673fd1c-fe48-4283-ae57-9df87deb59be/COPE-og-img.jpg",
+    "meta_title": "Create once, publish everywhere: Doing COPE right",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/bb8c161e-6ea3-4e74-8080-168e3076e20f/kk-bg-img-1.jpg"
+  },
+  {
+    "title": "How to Quickly Build a Headless Website Template",
+    "slug": "how-to-quickly-build-a-headless-website-template",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e8e99f08-afe0-4838-bc0a-cb2c4c82e1e3/kc-web-templates---og-image---kc.png",
+    "meta_title": "How to quickly build a headless website template",
+    "authors": [
+      "Jan Sedo"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/aa9027bc-f591-432b-9f77-d7705c74c360/kc-web-templates---bp-img.png"
+  },
+  {
+    "title": "Defining processes and procedures to support content operations",
+    "slug": "defining-processes-and-procedures-to-support-content-operations",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/77f3109b-c297-45ce-967b-31f788cf6c2d/defining-processes-procedures-kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Defining processes and procedures",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/21981628-4c21-4f99-be9e-9ece4fa794a2/kk-blog-img-support-content-operations-min.png"
+  },
+  {
+    "title": "How to disable webhook notifications at your command",
+    "slug": "how-to-disable-webhook-notifications-at-your-command",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d1e0650d-b026-4931-ad87-189c11934a6a/kk-og-img.jpg",
+    "meta_title": "Disable webhook notifications at your command",
+    "authors": [
+      "Martin Makarsky"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/209f81a4-a24e-4a7b-a294-7a1fce83565e/kk-bg-img-6.jpg"
+  },
+  {
+    "title": "How to build a strong content value chain",
+    "slug": "how-to-build-a-strong-content-value-chain",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d8704538-1ad8-48ea-a5f5-8d61a19510e5/kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "How to build a strong content value chain",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/cb083b3e-eb35-48ae-ab38-0f01602cdb06/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Drive success with an engaging customer education program ",
+    "slug": "drive-success-with-an-engaging-customer-education-program",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7ed9e1b5-4ffd-453b-9289-9bf6f58b6785/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Drive success with engaging customer education",
+    "authors": [
+      "Monica Raszyk"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5d9bc385-a1a1-4b75-9970-52b7fc62cbd6/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Edit Your Content Directly from Your Website",
+    "slug": "edit-your-content-directly-from-website",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/743234b3-db5e-4c49-9b55-02d140b75c46/kentico-cloud-product-release---blog-post-image.png",
+    "meta_title": "Edit your content directly from your website",
+    "authors": [
+      "Pavel Jirik"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/743234b3-db5e-4c49-9b55-02d140b75c46/kentico-cloud-product-release---blog-post-image.png"
+  },
+  {
+    "title": "4-step guide to an effective editorial workflow",
+    "slug": "4-step-guide-to-effective-editorial-workflow",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/456ede9f-fd15-46e9-b7ab-23111829b237/blog-4-step-guide-to-editorial-workflow.png",
+    "meta_title": "4-step guide to an effective editorial workflow",
+    "authors": [
+      "Tereza Bruzkova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/588589dc-c6d6-4bd4-ba0f-ed6f127d76b5/guide-to-editorial-workflow.png"
+  },
+  {
+    "title": "Effective content modeling",
+    "slug": "effective-content-modeling",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/78c6b96b-3525-4a49-ac8f-7eb7fc3808c1/kk-og-img.png",
+    "meta_title": "Effective content modeling",
+    "authors": [
+      "Kristian Tasevski"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/824a4957-85ec-41f8-8edf-3209a8367482/kk-bg-img.jpg"
+  },
+  {
+    "title": "Embrace the future: Shift from on-premise platforms to headless, composable SAAS solutions – why should CTOs care?",
+    "slug": "shift-from-on-premise-platforms-to-headless-composable-saas-solutions",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/acdcd75d-6165-4bac-b124-c63a786078c4/shift%20to%20headless%20og.jpg",
+    "meta_title": "Shift from on-premise platforms to headless, composable SAAS solutions",
+    "authors": [
+      "Akshay Sura"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/573055e5-e3f7-4fba-9cca-59b36f6d4db2/shift%20to%20headless.jpg"
+  },
+  {
+    "title": "Emerging best practices for disclosing AI-generated content",
+    "slug": "emerging-best-practices-for-disclosing-ai-generated-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e3e012f2-ac46-441c-b707-b1f6e5ddf114/og-emerging-best-practices.png",
+    "meta_title": "Emerging best practices for disclosing AI-generated content",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d1759fa8-ca79-4936-96f3-5584c43ecbf9/hero-emerging-best-practices.png"
+  },
+  {
+    "title": "Enterprise content governance model for decision making",
+    "slug": "enterprise-content-governance-model-for-decision-making",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/407985a6-e969-4284-ad87-1b852da15a11/enterprise-content-governance-og-img.jpg",
+    "meta_title": "Enterprise content governance model",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3d2b68bb-c93c-4cae-8ce7-aa73119ac739/kk-bg-img-6.jpg"
+  },
+  {
+    "title": "Expand content reach and variety with structured API delivery",
+    "slug": "expand-content-reach-and-variety-with-structured-api-delivery",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8a4ce518-f92e-4251-b204-49d9b740c07f/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Expand your content’s reach and variety with structured API delivery",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9719234b-f908-4f8a-bb22-94bd0d2cfb28/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Faster time to market drives ROI for CMS",
+    "slug": "faster-time-to-market-drives-roi-for-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d6255165-cc8a-455a-9a9a-c1f71c878d5e/kai-og-img---blog-post---2-lines-faster-time.png",
+    "meta_title": "Faster time to market drives ROI for CMS",
+    "authors": [
+      "Martin Michalik"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/dd42a28b-a1e1-4518-83a0-56dff9960a8a/kai-hero-img---blog-post%402x-faster-time-to-market.png"
+  },
+  {
+    "title": "Five benefits of reusing content ",
+    "slug": "five-benefits-of-reusing-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6dd028a8-b833-40e6-9607-07154b0a7b8b/kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "Five benefits of reusing content",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1275a45f-6b22-4617-934a-f58018b3a09b/kai-hero-img---blog-post%402x%20%282%29.jpg"
+  },
+  {
+    "title": "Five keys to prepping content like a top chef",
+    "slug": "five-keys-to-prepping-content-like-a-top-chef",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/07d1708e-bb4b-4fa2-b9e5-6faeeb4ef2fc/prepping-content-like-chef-kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "Five keys to prepping content like a top chef",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5f81ab0a-7774-44c8-b712-510266c66483/kk-blog-img-top-chef_-min.png"
+  },
+  {
+    "title": "Headless, Python, and Flask: How to enjoy massive flexibility in a microframework",
+    "slug": "flask-python-and-headless",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1c98f819-0abb-4ed5-908e-fb0c907157a5/kk-bb-img-headless-python-flask-.png",
+    "meta_title": "Headless, Python, and Flask: Massive flexibility in a microframework",
+    "authors": [
+      "Michael Berry"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1a3abf11-e55e-4b0a-8df1-0c606b150270/kk-bb-img-headless-python-flask-header-.png"
+  },
+  {
+    "title": "From content ideation to publication: Demystifying the content management workflow",
+    "slug": "content-management-workflow",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/582487b4-b550-4446-862a-6de34915c6a1/content%20management%20workflow%20OG.jpg",
+    "meta_title": "Demystifying the content management workflow",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0837176c-91db-425b-a337-e4ee8a641b37/Content%20Management%20Workflow%20hero.jpg"
+  },
+  {
+    "title": "What does native GraphQL support in Kontent bring for devs?",
+    "slug": "graphql-support-in-kontent-for-devs",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d7412651-a98c-49a1-8eef-49e261817c8d/kk-og-img.png",
+    "meta_title": "What does native GraphQL support in Kontent bring for devs?",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ed63a12b-1ee5-4d23-b177-d06fe4a77010/kk-bg-img.jpg"
+  },
+  {
+    "title": "GRM Digital: Reach your digital potential ",
+    "slug": "grm-digital-reach-your-digital-potential",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ab442d6d-7883-4cbe-b232-3a64240e67c8/kai-og-img---blog-post---2-lines-3.jpg",
+    "meta_title": "GRM Digital: Reach your digital potential ",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c6751d66-1533-43e9-b74f-3aaa0ad3121b/kai-hero-img---blog-post%402x-7.jpg"
+  },
+  {
+    "title": "Start 2023 off right with Kontent.ai’s yearly release wrap-up",
+    "slug": "start-2023-off-right-with-kontent-ai-s-yearly-release-wrap-up",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/26bb9af6-6dbf-4378-9916-d9990b44d45d/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Start 2023 off right with Kontent.ai’s release wrap-up",
+    "authors": [
+      "Radka Uhlirova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/eaf224af-f2f3-499c-bdae-0c7c0740c3cf/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "How a headless CMS simplifies your tech stack",
+    "slug": "how-headless-cms-simplifies-your-tech-stack",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/836e2b44-80e3-498a-9bf1-b426ad445c97/How%20a%20headless%20CMS%20simplifies%20your%20tech%20stack%20OG.jpg",
+    "meta_title": "How a headless CMS simplifies your tech stack",
+    "authors": [
+      "Zbysek Nemec"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e31f3361-4168-461c-a623-9bd836776277/How%20a%20headless%20CMS%20simplifies%20your%20tech%20stack%20hero.jpg"
+  },
+  {
+    "title": "How APIs Can Support Your Content Strategy",
+    "slug": "how-apis-can-support-your-content-strategy",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/afc17bd3-0f53-4ef6-844f-d2ca4addd6e5/kai-og-img-How%20APIs%20Can%20Support%20Your%20Content%20Strategy.jpg",
+    "meta_title": "How APIs can support your content strategy",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8ced720e-f61d-4153-a856-05f50f67f385/kk-bg-img.jpg"
+  },
+  {
+    "title": "How content and design can support each other",
+    "slug": "how-content-and-design-can-support-each-other",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/067dcfa6-f0d1-43d9-8f5a-9fe7afdad3b6/how-content-and-design-og-img.jpg",
+    "meta_title": "How content and design can support each other",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8485ab02-98e9-42fd-a231-1b17733cc40b/kk-bb-img-content-design.png"
+  },
+  {
+    "title": "How content and UX can define user interaction together",
+    "slug": "how-content-and-ux-can-define-user-interaction-together",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4c195e52-d4cd-4afb-852c-cd976e876d9d/how-content-ux-define-user-interaction-og-img.jpg",
+    "meta_title": "How content and UX define user interaction",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a0d31765-5410-4482-8ad7-75b376cf8b49/kk-bb-content-ux-work-together-img.png"
+  },
+  {
+    "title": "How content is a game changer for sports organizations",
+    "slug": "how-content-is-a-game-changer-for-sports-organizations",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/08dc8bcc-1a1b-4bb2-913f-010abb74e81a/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "How content is a game changer for sports organizations",
+    "authors": [
+      "Jordan Torpy"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c0bbf05b-34b4-4deb-9617-0cde5de04217/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "How content professionals can influence organizational change",
+    "slug": "how-content-professionals-can-influence-organizational-change",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e3791f80-28a5-480a-a85c-fadef4a0097c/kai-og-img---blog-post---3-lines%20copy.jpg",
+    "meta_title": "How content professionals can influence organizational change",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4450d825-f4e8-4cc0-b222-5594017103c8/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "How Does Headless CMS Fit into an AWS Setup?",
+    "slug": "how-does-headless-cms-fit-into-an-aws-setup",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c9d73acd-0600-43b4-aa17-eba772e6aa7c/aws---social-media-banner_fb.png",
+    "meta_title": "How does headless CMS fit into an AWS setup?",
+    "authors": [
+      "Boris Pocatko"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/dcd96fc3-cb74-4447-8a76-f2b1af805a85/aws---blog-post-image.png"
+  },
+  {
+    "title": "How generative AI fits into content development processes",
+    "slug": "how-generative-ai-fits-into-content-development-processes",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/579bd102-45af-4c39-9792-2c4e63d5c258/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "How generative AI fits into content development processes",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/49c05921-8cb4-4dc3-b0f1-9c28de991399/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "How many content types do you need?",
+    "slug": "how-many-content-types-do-you-need",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e8658bd6-e859-45c1-8ff1-5ee29eb8ec1a/kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "How many content types do you need?",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/28c18e56-d834-4369-8a66-fe4ac0cc20a3/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "How structured content is different in headless CMSs",
+    "slug": "how-structured-content-is-different-in-headless-cmss",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f6900425-2045-4683-ab20-31c6dc0f9e37/structured-content-different-kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "How structured content is different in headless CMSs",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4ae741ea-750d-4903-a06f-192541c255ee/kk-bg-img.jpg"
+  },
+  {
+    "title": "Designing systems to support content and UX collaboration",
+    "slug": "designing-systems-to-support-content-and-ux-collaboration",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/549d524d-ddf3-40c6-9f53-a51e5fc51d33/designing-systems-to-support-content-og-img.jpg",
+    "meta_title": "Designing systems to support content and UX collaboration",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ce1b23ec-b109-4e75-8465-c78ae62673a6/kk-bg-img-content-ux-collaboration.png"
+  },
+  {
+    "title": "How to calculate the total cost of ownership of a CMS",
+    "slug": "how-to-calculate-the-total-cost-of-ownership-of-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7adf0660-a6f2-4b0f-b96b-24e390fed5ba/kai-og-img---blog-post---2-lines_calculate_TCO_of_CMS.jpg",
+    "meta_title": "How to calculate the TCO of a content management system",
+    "authors": [
+      "Vojtech Boril"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7308df69-5876-4467-bb00-388d105241b8/kai-hero-img---blog-post%402x_TCO.jpg"
+  },
+  {
+    "title": "How to choose your AI vendor",
+    "slug": "how-to-choose-your-ai-vendor",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/097e27ec-0493-40da-a066-7a1f4271deaf/How%20to%20choose%20your%20AI%20vendor%20og.jpg",
+    "meta_title": "How to choose your AI vendor",
+    "authors": [
+      "Matej Zachar",
+      "Zbysek Nemec"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a1c1c636-dfe5-4ea0-a013-2823bd138510/How%20to%20choose%20your%20AI%20vendor%20hero.jpg"
+  },
+  {
+    "title": "How to embed guidance to better govern your content",
+    "slug": "how-to-embed-guidance-to-better-govern-your-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/dfb5eb38-151f-402d-b65f-9e8942265240/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "How to embed guidance to better govern your content",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/dc28e8c1-cec0-4d69-b720-4d7e93782e88/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "How to improve cache efficiency and reduce costs with Next.js on-demand ISR",
+    "slug": "leveraging-next-js-on-demand-isr",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9c0a6857-f909-4a98-9dec-ff2fee6746b3/kai-og-img-How%20to%20improve%20cache%20efficiency%20and%20reduce%20costs%20with%20Next.js%20on-demand%20ISR.jpg",
+    "meta_title": "How to improve cache efficiency and reduce costs with Next.js on-demand ISR",
+    "authors": [
+      "Tom Marshall"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0407f135-d691-40dc-98a9-129733c9db19/kai-hero-img-Next.js%20On-Demand%20ISR.jpg"
+  },
+  {
+    "title": "How to include the right details in your content model",
+    "slug": "how-to-include-the-right-details-in-your-content-model",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7091d417-bfc5-4361-8870-361b91fafe0c/how-to-include-the-right-details-in-your-content-model-og-img.jpg",
+    "meta_title": "How to include the right details in your content model",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/986f92c9-7b62-40fc-b827-19aebfe8a554/kk-bg-img.jpg"
+  },
+  {
+    "title": "How to trigger a GitHub Action using a webhook (with no code)",
+    "slug": "how-to-trigger-github-action-using-webhook-with-no-code",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5947e04a-c2c0-489b-beb5-a680767f2754/kai-og-img---blog-post-how-to-trigger-github-action-using-webhook-with-no-code.jpg",
+    "meta_title": "How to trigger a GitHub action using a webhook",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f59e66b6-5ece-48fd-8312-f64d7d6974a1/kk-bg-img-5.jpg"
+  },
+  {
+    "title": "How to write a powerful headline",
+    "slug": "how-to-write-headline",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9b2edb8a-07c3-4b9a-aebe-0036b2bbe285/How%20to%20write%20a%20powerful%20headline.jpg",
+    "meta_title": "How to write a powerful headline",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/846e0302-2088-4fd5-855f-b45a81a404e2/How%20to%20write%20headlines.jpg"
+  },
+  {
+    "title": "How to make the team happy with Hugo and Headless",
+    "slug": "hugo-and-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1f751ff6-87fc-46e7-bb38-187018350509/kk-og-img.png",
+    "meta_title": "How to make the team happy with Hugo and headless",
+    "authors": [
+      "Michael Berry"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c944d8fe-be5c-4f17-807c-67115ec51ed3/kk-bg-img-2.jpg"
+  },
+  {
+    "title": "Ignite your knowledge: New Learn is now live!",
+    "slug": "ignite-your-knowledge-new-learn-is-now-live",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/469108b5-6bce-495b-8b47-50a0384358d6/new-learn.png",
+    "meta_title": "Ignite your knowledge: New Learn is now live!",
+    "authors": [
+      "Tomas Nosek"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c8be85f4-df2d-4b30-bc64-9948d169bd92/kontentship_1x.jpg"
+  },
+  {
+    "title": "Image Transformations — Master Responsive Design with Kentico Cloud",
+    "slug": "image-transformations-master-responsive-design-with-kentico-cloud",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b0cd40d3-899e-4c73-b5cc-2f00970e5f70/kc-product-release---image-transformations---blog-post-image.png",
+    "meta_title": "Image transformations — Master responsive design with Kentico Cloud",
+    "authors": [
+      "Lukas Turek"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b0cd40d3-899e-4c73-b5cc-2f00970e5f70/kc-product-release---image-transformations---blog-post-image.png"
+  },
+  {
+    "title": "Improve the modularity of your next user experience project",
+    "slug": "improve-the-modularity-of-your-next-user-experience-project",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/49b67b51-3670-49e1-8e77-0d6f70b498a0/improve-the-modularity-of-your-next-user-experience-project-og-img.jpg",
+    "meta_title": "Improve the modularity of your next UX project",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2684ab1e-5b9b-443c-a8da-976846d76240/kk-bg-img-1.jpg"
+  },
+  {
+    "title": "Improving compliance in financial content with a headless CMS",
+    "slug": "improving-regulatory-compliance-in-financial-content-using-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e8f9b7ea-4d0e-4982-b04f-bd85d38e120d/compliance-financial-content-kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Improving compliance in financial content with a headless CMS",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5b620c36-5a42-4d69-be13-76eb7c2bb059/kk-bb-img-financial.jpg"
+  },
+  {
+    "title": "Join the Brand New Kentico Cloud Partner Program",
+    "slug": "join-the-brand-new-kentico-cloud-partner-program",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c11cf93b-9e8f-48d5-9f34-c07f6d9a1037/kc-partner-program---social-media-banner_fb_B.png",
+    "meta_title": "Join the brand new Kentico Cloud partner program",
+    "authors": [
+      "Petr Palas"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4990eb2a-1123-444b-ae0e-3120dca11d75/kc-partner-program---blog-post-image_B.png"
+  },
+  {
+    "title": "How to Keep It Stupid Simple: Use .NET Core Razor Pages",
+    "slug": "how-to-keep-it-stupid-simple-use-net-core-razor-pages",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d6c03844-f81a-4e68-88da-6a2ab21d1aef/kai-og-img-blog-post-how-to-keep-it-stupid-simple-use-net-core-razor-pages.jpg",
+    "meta_title": "How to keep it stupid simple: Use .NET Core Razor Pages",
+    "authors": [
+      "Michael Berry"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/72e6147c-d4fe-40d1-ad92-18b253603b7f/kk-bg-img.jpg"
+  },
+  {
+    "title": "Kontent.ai SDLC in Agile Methodology",
+    "slug": "kontent-ai-sdlc-in-agile-methodology",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/93421509-00fc-4d29-baab-ce6b24595a46/kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "Kontent.ai SDLC in agile methodology",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/396e9acd-3844-4710-897a-963a031f4bc3/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Kontent.ai Achieves SOC 2 Type 1 Compliance ",
+    "slug": "kentico-kontent-achieves-soc-2-type-1-compliance",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2f4e3301-099c-4f87-9bb0-1cb4216e99ae/kai-og-img-Kontent.ai%20Achieves%20SOC%202%20Type%201%20Compliance.jpg",
+    "meta_title": "Kontent.ai achieves SOC 2 Type 1 compliance",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/bf3c932a-3d4d-4da0-82ea-fe8fb824fc1f/kai-hero-img-Kontent.ai%20Achieves%20SOC%202%20Type%201%20Compliance.jpg"
+  },
+  {
+    "title": "Kontent.ai Completes SOC 2 Type 2 Examination",
+    "slug": "kentico-kontent-completes-soc-2-type-2-examination",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/588fb394-f513-447d-ae7c-5b2bc99dac48/Kontent.ai%20Completes%20SOC%202%20Type%202%20Examination.jpg",
+    "meta_title": "Kontent.ai completes SOC 2 Type 2 examination",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1623777c-0502-4601-b02b-29fdad75fa2b/kai-hero-img-Kontent.ai%20SOC%202%20Type%202%20Examination.jpg"
+  },
+  {
+    "title": "Kontent.ai achieves ISO 27001 and 27017 security certifications",
+    "slug": "kontent-ai-achieves-iso-27001-and-27017-certifications",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5b72adcf-60c3-49e6-80b6-454364399385/kontent_ai-achieves-ISO-certifications.png",
+    "meta_title": "Kontent.ai achieves ISO 27001 and 27017 security certifications",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8de47e20-6624-4d87-a948-5acd17111713/kontent_ai_ISO_certifications.png"
+  },
+  {
+    "title": "Kontent.ai appoints new senior executives and joins MACH Alliance to support global expansion ",
+    "slug": "kontent-ai-appoints-new-senior-executives-and-joins-mach-alliance",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6f70de07-6fb9-4da9-b27d-70c99e9ab0cd/kontent-ai-appoints-new-executives.png",
+    "meta_title": "Kontent.ai appoints new senior executives and joins MACH Alliance to support global expansion",
+    "authors": [
+      "Vojtech Boril"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/dbf4ee76-5f20-4705-a0df-476c5d60e1a8/new_kai-hero-img---blog-post%402x.png"
+  },
+  {
+    "title": "Kontent.ai named a Leader in the Enterprise G2 Grid for Headless CMS",
+    "slug": "kontent-g2-fall-2022-enterprise-headless-cms-leader",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5ed487b4-7172-402d-9bbb-66f5bc7edcd6/kai-og-img---blog-post---3-lines.png",
+    "meta_title": "Kontent.ai named an enterprise headless CMS leader on G2",
+    "authors": [
+      "Tereza Bruzkova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0db6d969-6662-4382-8efc-df85c6992e1d/g2-leader.png"
+  },
+  {
+    "title": "3 takeaways from Kontent.ai Horizons 2022 in London",
+    "slug": "3-takeaways-from-kontent-ai-horizons-2022-in-london",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ece81cc3-46df-4841-aac4-d9fd6cb28d8e/kai-og-img-horizons%202022.jpg",
+    "meta_title": "3 takeaways from Kontent.ai Horizons 2022 in London",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/dc154981-cd69-443f-98a1-e75b51113383/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Takeaways from Kontent.ai Horizons 2022 in New York",
+    "slug": "takeaways-from-kontent-ai-horizons-2022-in-new-york",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5845631a-a6ed-4b98-8409-1fa01179e01e/kai-og-img-Horizons%20NY.jpg",
+    "meta_title": "Takeaways from Kontent.ai Horizons 2022 in NYC",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b189d675-a0d3-421c-9a5e-583ef7131f64/kai-hero-img-ny.jpg"
+  },
+  {
+    "title": "Kontent.ai Horizons 2023 in Sydney: 3 game-changing insights",
+    "slug": "kontent-ai-horizons-2023-in-sydney-3-game-changing-insights",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5b29e837-1c48-498a-9547-11d180f517a9/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Kontent.ai Horizons 2023 in Sydney: 3 game-changing insights",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/60e47ff7-41fb-4f7c-951e-a30654587c10/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Kontent.ai provides HIPAA compliance for customers",
+    "slug": "kontent-ai-provides-hipaa-compliance-for-customers",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/551b26cd-4354-4a9e-9cc3-dc6d272ded89/Kontent.ai%20provides%20HIPAA%20compliance%20for%20customers%20og.jpg",
+    "meta_title": "Kontent.ai provides HIPAA compliance for customers",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0c4a844d-1de0-45da-93fc-d31e04be700c/Kontent.ai%20is%20HIPAA%20compliant%20hero.jpg"
+  },
+  {
+    "title": "Kontent.ai joins the MACH Alliance",
+    "slug": "kontent-ai-joins-the-mach-alliance",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2a3eb0fe-8123-4574-829c-4931ac1fbf66/kai-og-img---blog-post---mach.jpg",
+    "meta_title": "Kontent.ai joins the MACH Alliance",
+    "authors": [
+      "Vojtech Boril"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/eca46126-6672-4573-941e-59104b4e8eb4/kai-hero-img---blog-post%402x---mach.jpg"
+  },
+  {
+    "title": "Kontent.ai recognized in 2022 Gartner® Market Guide for Web Content Management",
+    "slug": "kontent-ai-recognized-in-gartner-market-guide-for-wcm-2022",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/554b3fac-1df2-4b08-a7e9-56c5ff33a59c/kai-og-img---blog-post---3-lines_gartner_market_guide_.png",
+    "meta_title": "Kontent.ai recognized in 2022 Gartner® Market Guide for Web Content Management",
+    "authors": [
+      "Vojtech Boril"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/641372e7-0c00-4632-82d6-1955b0b5bb7a/gartner_kai-hero-img---blog-post%402x.png"
+  },
+  {
+    "title": "Kontent.ai hates: WYSIWYG",
+    "slug": "kontent-hates-wysiwyg",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b08802c4-9c8c-484e-a5aa-f9c22739af6f/kai-og-img-8.jpg",
+    "meta_title": "Kontent.ai hates: WYSIWYG",
+    "authors": [
+      "Jozef Falis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d80345b7-4ae8-4036-87aa-40b665515cc6/kai-hero-img-8.jpg"
+  },
+  {
+    "title": "Kontent.ai is the first certified headless CMS on Azure Marketplace",
+    "slug": "kontent-transactable-offer-azure-marketplace",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/69562473-2782-4414-8049-9bc3ebef4d86/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Kontent.ai is now a transactable offer on Azure Marketplace",
+    "authors": [
+      "Monica Raszyk"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0781e4eb-14e7-4ff0-98aa-e9ceb25394b0/kk-bg-img-1.jpg"
+  },
+  {
+    "title": "Kontent.ai loves: A/B tests ",
+    "slug": "kontent-loves-ab-tests",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b4ab1b82-9fd8-4471-8ef2-159beb209da3/kai-og-img-9.jpg",
+    "meta_title": "Kontent.ai loves: A/B tests",
+    "authors": [
+      "Jozef Falis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ed284dde-08c2-4d66-a09a-25475096309a/kai-hero-img-9.jpg"
+  },
+  {
+    "title": "Kontent.ai loves: Analytics",
+    "slug": "kontent-loves-analytics",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e2c365cf-8318-4321-ab02-89eb9d6f0321/kai-og-img-4.jpg",
+    "meta_title": "Kontent.ai loves: Analytics",
+    "authors": [
+      "Jozef Falis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f30a08da-bfaa-4b0c-acfc-9db4d304169e/kai-hero-img-4.jpg"
+  },
+  {
+    "title": "Kontent.ai loves: Collaboration",
+    "slug": "kontent-loves-collaboration",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1358c275-147d-41ec-a499-dada1ead2fc7/kai-og-img-2.jpg",
+    "meta_title": "Kontent.ai loves: Collaboration",
+    "authors": [
+      "Jozef Falis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7f6a3e08-4be4-4f13-90fd-178f5f6eeae2/kai-hero-img-2.jpg"
+  },
+  {
+    "title": "Kontent.ai loves: Landing pages",
+    "slug": "kontent-loves-landing-pages",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8b2e5556-35ca-45d3-b4f3-b744a209c3ac/kai-og-img-1.jpg",
+    "meta_title": "Kontent.ai loves: Landing pages",
+    "authors": [
+      "Jozef Falis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2b7b8883-ab9a-4ec7-9a18-285c7e5d8a5f/kai-hero-img-1.jpg"
+  },
+  {
+    "title": "Kontent.ai loves: Marketing automation",
+    "slug": "kontent-loves-marketing-automation",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b450eca7-a80e-4c44-9256-ae34773a2c2c/kai-og-img-6.jpg",
+    "meta_title": "Kontent.ai loves: Marketing automation",
+    "authors": [
+      "Jozef Falis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c9a8515b-7a74-4c76-b0bf-be75ed5ad3d6/kai-hero-img-6.jpg"
+  },
+  {
+    "title": "Kontent.ai loves: Personalization",
+    "slug": "kontent-loves-personalization",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/94bff4d3-3800-4b0e-8734-210a4cf51a12/kai-og-img-5.jpg",
+    "meta_title": "Kontent.ai loves: Personalization",
+    "authors": [
+      "Jozef Falis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e46768fc-effd-45a6-b699-154284d8e267/kai-hero-img-5.jpg"
+  },
+  {
+    "title": "Kontent.ai loves: SEO",
+    "slug": "kontent-loves-seo",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a7ed35c7-72d9-485a-8d6b-9efdf993e090/kai-og-img-3.jpg",
+    "meta_title": "Kontent.ai loves: SEO",
+    "authors": [
+      "Jozef Falis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a6467261-7afc-4cf5-b9a9-aa8be51719ad/kai-hero-img-3.jpg"
+  },
+  {
+    "title": "Kontent.ai loves: Ads and social media",
+    "slug": "kontent-loves-social-media",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5c6073a8-6de0-4e0d-9e44-c4ebda3ff66b/kai-og-img-7.jpg",
+    "meta_title": "Kontent.ai loves: Ads and social media",
+    "authors": [
+      "Jozef Falis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ea3a39c2-9fb8-4c20-9a4a-5ad053dd4f40/kai-hero-img-7.jpg"
+  },
+  {
+    "title": "How to Launch a Beautiful Website from Headless Web Templates",
+    "slug": "how-to-launch-a-beautiful-website-from-headless-web-templates",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e119f7e0-a7c1-4194-8022-9ae5f26016e3/kc-web-templates---og-image---kc.png",
+    "meta_title": "How to launch a beautiful website from headless web templates",
+    "authors": [
+      "Jan Sedo"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/16504b56-5fb5-44d1-80d4-6b1ea640b848/kc-web-templates---bp-img.png"
+  },
+  {
+    "title": "Lessons learned from building a reliable educational portal",
+    "slug": "lessons-learned-from-building-a-reliable-educational-portal",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a250762b-73ee-4138-8aff-048a32c2716b/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Lessons learned from building a reliable educational portal",
+    "authors": [
+      "Jan Cerman"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6c3e64e4-88b0-4e99-a512-4b8c2a4365da/kai-hero-img---blog-post%402x-2.jpg"
+  },
+  {
+    "title": "Leverage technology to enhance content operations",
+    "slug": "leverage-technology-to-enhance-content-operations",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/86ade9f3-3ebb-42be-aa6e-cc537630d1cb/Leverage%20technology%20to%20enhance%20content%20operations%20OG.jpg",
+    "meta_title": "Leverage technology to enhance content operations",
+    "authors": [
+      "Klaas-Jan Meijer"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/42cf61bc-9408-4481-84b5-128db67d1052/Leverage%20technology%20to%20enhance%20content%20operations%20hero.jpg"
+  },
+  {
+    "title": "Make your design system content-friendly",
+    "slug": "make-your-design-system-content-friendly",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/588b516a-28d3-45c7-9378-cf9ad700f610/make-your-design-system-content-friendly-og-img.jpg",
+    "meta_title": "Make your design system content-friendly",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8348562b-cd0c-4033-a579-014e890cb3bc/kk-bg-img-3.jpg"
+  },
+  {
+    "title": "Make your rich text portable",
+    "slug": "make-your-rich-text-portable",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3619d7c5-f47a-4bde-a5b5-b0a596ccfc25/make-your-rich-text-portable.png",
+    "meta_title": "Make your rich text portable",
+    "authors": [
+      "Daniel Pokorny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1d1065de-1ec2-4e3b-888c-71daf4efbaea/kontent_portable.png"
+  },
+  {
+    "title": "Manage content and assets across multiple teams and channels",
+    "slug": "manage-content-and-assets-across-multiple-teams-and-channels",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f1be220a-a248-46b3-86bb-91772c413595/Manage%20content%20and%20assets%20across%20multiple%20teams%20and%20channels%203.jpg",
+    "meta_title": "Manage content and assets across multiple teams and channels",
+    "authors": [
+      "Radka Uhlirova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/eb5442c1-f21f-427e-8f4a-b1beb8e944a2/Manage%20content%20and%20assets%20across%20multiple%20teams%20and%20channels.jpg"
+  },
+  {
+    "title": "Manage multiple websites efficiently",
+    "slug": "manage-multiple-websites-efficiently-with-kontent-ai",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b3f37c93-9cbf-46e3-be2f-fe1c267923bd/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Manage multiple websites efficiently with Kontent.ai",
+    "authors": [
+      "Monica Raszyk"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0e01fd11-0027-4ff3-b995-cf9e5dd6cde2/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Meet MMT, the digital change makers",
+    "slug": "meet-mmt-the-digital-change-makers",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6e2fbb78-a536-4445-8c53-c3c443a958aa/MMT%20og.jpg",
+    "meta_title": "Meet MMT, the digital change makers",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a7c72744-9d32-4c10-bf92-aebc8cc79de6/MMT%20hero.jpg"
+  },
+  {
+    "title": "Migrating content from a monolith CMS to a headless CMS",
+    "slug": "migrating-content-from-a-monolith-cms-to-a-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/45acdd28-5d72-466a-9c89-1bf6c1f41cfa/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Migrating content from a monolith CMS to a headless CMS",
+    "authors": [
+      "Ilesh Mistry"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/642e2411-7646-442b-a14f-6f9bbb0fd59f/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Modular UX using a headless CMS",
+    "slug": "modular-ux-using-a-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/36f5cd3b-8f1d-419e-8d78-68ba7f6027a0/modular-ux-headless-cms-og-img.jpg",
+    "meta_title": "Modular UX using a headless CMS",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0d2db375-8cc3-49a8-801b-4e3644b0934a/kk-bb-img-modular-ux-headless-cms.png"
+  },
+  {
+    "title": "Seamless multisite management with Web Spotlight",
+    "slug": "seamless-multisite-management-with-web-spotlight",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1426e4dc-a2d0-410a-ac32-2e9bd12a0ae2/WSL_kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Seamless multisite management with Web Spotlight",
+    "authors": [
+      "Jordan Torpy"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6937a848-dcd7-4273-ae10-ddbdcc99f4a7/wsl_kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Top 2023 trends in MACH: Insights from MACH Alliance members",
+    "slug": "top-2023-trends-in-mach-insights-from-mach-alliance-members",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/445c32d4-8bad-458d-8fbe-7dddc33a8276/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Top 2023 trends in MACH: Insights from MACH Alliance members",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e090020c-cf49-452d-a354-33c65cce1a16/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "3 Inspiring Omnichannel Examples You Should Know",
+    "slug": "3-inspiring-omnichannel-examples-you-should-know",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6c7b0e4d-910f-4143-91e5-54cde22ddf14/3-inspiring-omnichannel-examples---blog-post-image.png",
+    "meta_title": "3 inspiring omnichannel examples you should know",
+    "authors": [
+      "Ondrej Sirocka"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6c7b0e4d-910f-4143-91e5-54cde22ddf14/3-inspiring-omnichannel-examples---blog-post-image.png"
+  },
+  {
+    "title": "3 Steps to Rapidly Deploy a Headless Single Page Application",
+    "slug": "3-steps-to-rapidly-deploy-headless-single-page-app",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1d8355bc-0bd4-4cb5-aca0-908dead78bf6/headless-spa---blog-post-image_t.png",
+    "meta_title": "3 steps to rapidly deploy a headless single page application",
+    "authors": [
+      "Christopher Jennings"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1d8355bc-0bd4-4cb5-aca0-908dead78bf6/headless-spa---blog-post-image_t.png"
+  },
+  {
+    "title": "5 compelling reasons why you need a content hub",
+    "slug": "5-compelling-reasons-why-you-need-content-hub",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b811e623-885b-466d-9482-1b78f7665e6a/content%20hub.jpg",
+    "meta_title": "5 compelling reasons why you need a content hub",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/27d1b08b-8cd2-4ef7-b895-198257ac4f65/reasons%20why%20you%20need%20a%20content%20hub.jpg"
+  },
+  {
+    "title": "5 Content Contribution Guidelines to Keep Your Writers Motivated",
+    "slug": "5-content-contribution-guidelines-keep-writers-motivated",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/df4807a0-0d4c-4759-a04e-b80a3063af1d/5-content-contribution-guidelines---blog-post-image_t.png",
+    "meta_title": "5 content contribution guidelines to keep your writers motivated",
+    "authors": [
+      "Radka Uhlirova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/df4807a0-0d4c-4759-a04e-b80a3063af1d/5-content-contribution-guidelines---blog-post-image_t.png"
+  },
+  {
+    "title": "5 Hallmarks of a Great Content Strategy",
+    "slug": "5-hallmarks-of-a-great-content-strategy",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/908a39a9-435f-4544-a282-63a5c09217a4/kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "5 hallmarks of a great content strategy",
+    "authors": [
+      "Ondrej Fridrich"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f3daa6a7-c09c-4a20-a052-24ebaff5839f/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "5 Highly Effective Home Assistant Marketing Strategies",
+    "slug": "5-effective-home-assistant-marketing-strategies",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/340b7a1a-9013-45a9-880b-c51c7de5c5de/home-assistant-mkt-strategies---blog-post-image_t.png",
+    "meta_title": "5 highly effective home assistant marketing strategies",
+    "authors": [
+      "Radka Uhlirova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/340b7a1a-9013-45a9-880b-c51c7de5c5de/home-assistant-mkt-strategies---blog-post-image_t.png"
+  },
+  {
+    "title": "5 social media tips to boost your business",
+    "slug": "5-social-media-tips-to-boost-your-business",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/498aa10b-686c-4928-8dff-b100e8646f2f/social-media-tips-blog.png",
+    "meta_title": "5 social media tips to boost your business",
+    "authors": [
+      "Tereza Bruzkova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/fb9ebda8-d5f9-4c88-acba-1576ecf6501c/giorehjbnre.png"
+  },
+  {
+    "title": "5 strategies to reach an unparalleled return on your content",
+    "slug": "5-strategies-to-reach-unparalleled-return-on-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/917b0a13-0c8a-448a-9372-e8775ab26a38/kai-og-img---blog-post---3-lines.png",
+    "meta_title": "5 strategies to reach an unparalleled return on content",
+    "authors": [
+      "Vojtech Boril"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/93c71756-84bf-411e-b0d1-f5d451c91e15/kai-hero-img---blog-post%402x.png"
+  },
+  {
+    "title": "6 reasons why you need a content strategy",
+    "slug": "6-reasons-why-you-need-a-content-strategy",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6c0ad4ff-e19e-4b24-941a-0b94ad70415f/kai-og-img-blog-post-reasons-why-you-need-a-content-strategy.jpg",
+    "meta_title": "6 reasons why you need a content strategy",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/70e8ee9a-027d-4153-a191-59c9e413bf38/kai-hero-img---blog-post-reasons-why-you-need-a-content-strategy%402x.webp"
+  },
+  {
+    "title": "7 Tips for Explaining Headless CMS to Your Clients",
+    "slug": "7-tips-for-explaining-headless-cms-to-your-clients",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2e9e64f4-9e0d-426a-9ecf-b71166301315/7-tips-for-explaining-headless-cms---blog-post-image_t.png",
+    "meta_title": "7 tips for explaining headless CMS to your clients",
+    "authors": [
+      "Vojtech Boril"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2e9e64f4-9e0d-426a-9ecf-b71166301315/7-tips-for-explaining-headless-cms---blog-post-image_t.png"
+  },
+  {
+    "title": "How to use Playwright with Next.js, Vercel, and GitHub",
+    "slug": "next-js-playwright-tests-github-action",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a649be41-f014-4ea7-b97f-ca49b8ee5318/kai-og-img-blog-post-next-js-playwright-tests-github-action.jpg",
+    "meta_title": "How to use Playwright with Next.js, Vercel, and GitHub",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/bf29ba7c-6d20-42e0-acf1-08138670874c/kk-bg-img%402x-vercel.png"
+  },
+  {
+    "title": "Enrich your new Nuxt 3 site with headless CMS content",
+    "slug": "enrich-your-nuxt-3-site-with-headless-cms-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/897875bd-e046-48d0-81af-8b2b3ef267b0/kai-og-img-blog-post-enrich-your-nuxt-3-site-with-headless-cms-content.jpg",
+    "meta_title": "Enrich your Nuxt 3 site with headless CMS content",
+    "authors": [
+      "Ondrej Polesny"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ce67d32f-e4c1-4c27-8fc4-617f1f341277/kk-bg-img-1.jpg"
+  },
+  {
+    "title": "Demystify Nuxtʼs target, mode, and ssr properties",
+    "slug": "demystify-nuxt-target-mode-and-ssr-properties",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4f57b291-fa15-4309-b5aa-98c379e55c5f/kai-og-img-blog-post-demystify-nuxt-target-mode-and-ssr-properties.jpg",
+    "meta_title": "Demystify Nuxtʼs target, mode, and SSR properties",
+    "authors": [
+      "Martin Makarsky"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/11599faa-e800-4b14-a299-98afc49153a0/kk-bg-img.jpg"
+  },
+  {
+    "title": "Optimize Your Web Project Timeline with Headless CMS",
+    "slug": "optimize-your-digital-project-timeline-with-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/acb946ea-1af6-46b9-9d4a-5c1582a4ad4a/optimize-project-timeline---blog-post-image_t.png",
+    "meta_title": "Optimize your web project timeline with headless CMS",
+    "authors": [
+      "Branislav Sandala"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/acb946ea-1af6-46b9-9d4a-5c1582a4ad4a/optimize-project-timeline---blog-post-image_t.png"
+  },
+  {
+    "title": "Orchestration in personalization: matching vs. directing",
+    "slug": "orchestration-in-personalization-matching-vs-directing",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6f83ab02-7b21-493a-8af6-dacac502c596/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Orchestration in personalization: Matching vs. directing",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a66caec9-a9d6-46ce-9874-6d75ca43661f/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Inspired or stolen? How to stop plagiarism before it happens",
+    "slug": "inspired-or-stolen-how-to-stop-plagiarism-before-it-happens",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6c00c1fe-d950-4c07-8215-f732fb83b5fe/kai-og-img-how%20to%20stop%20plagiarism.jpg",
+    "meta_title": "Inspired or stolen? How to stop plagiarism before it happens",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/bd1c2592-bfb0-4410-8911-c3c3864eb7a2/Plagiarism%20blog%20post.jpg"
+  },
+  {
+    "title": "Turn insights into action with Mission Control",
+    "slug": "turn-insights-into-action-with-mission-control",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6960b158-ae28-48bc-a8d1-94caf9f7ede8/kai-og-img---blog-post.jpg",
+    "meta_title": "Turn insights into action with Mission Control",
+    "authors": [
+      "Monica Raszyk"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/45cf334f-87b0-42db-8cc5-3101afb363c6/kai-hero-img---blog-post.jpg"
+  },
+  {
+    "title": "Q1 2023 release wrap-up: More control over content operations",
+    "slug": "q1-2023-release-wrap-up-more-control-over-content-operations",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b7d92876-3fe6-4b0a-a3ed-78d006c9abce/kai-card-img.jpg",
+    "meta_title": "Q1 2023 release wrap-up: More control over content operations",
+    "authors": [
+      "Radka Uhlirova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4659b08a-a77a-4a76-9442-9a6e58929976/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Q2 2023 release wrap-up: Create great content, faster",
+    "slug": "q2-2023-release-wrap-up-create-great-content-faster",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/cd9505f3-6191-4584-a4c8-3cf410339519/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Q2 2023 wrap-up: Create great content, faster",
+    "authors": [
+      "Jordan Torpy"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9bea1a41-df4a-4f81-9d50-650642018a90/kai-hero-img---blog-post%402x.png"
+  },
+  {
+    "title": "Q3 2022 release wrap-up: Tackling complex content operations",
+    "slug": "q3-2022-release-wrap-up",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e8224513-5999-4038-bc4e-c2f4747a8211/kai-og-img---blog-post---3-lines-q3-release-wrap-up.jpg",
+    "meta_title": "Q3 2022 Kontent.ai release wrap-up",
+    "authors": [
+      "Jordan Torpy"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/53744ecd-53ce-4bd7-ad1d-fe63b5b7ec75/kai-hero-img---blog-post%402x-q3-wrapup-hero.jpg"
+  },
+  {
+    "title": "Q3 2023 release wrap-up: Achieve an unparalleled return on content",
+    "slug": "q3-2023-release-wrap-up-achieve-an-unparalleled-return-on-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/24edcddb-6317-4d78-83d9-cffc37710d0c/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Q3 2023 release wrap-up: Achieve an unparalleled return on content",
+    "authors": [
+      "Radka Uhlirova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4291c964-f636-487d-8ad9-a23309f085d5/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "How to unlock multilingual capabilities of your React website",
+    "slug": "how-to-unlock-multilingual-capabilities-of-your-react-website",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b660a480-d1fc-4bea-9d20-c9b3073ae157/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "How to improve your project with multilingual capabilities",
+    "authors": [
+      "Ivan Kiráľ"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9cc28bbd-e789-455b-9d00-34f37542003a/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Implementing emails in 2021: Rounded buttons with shadow that work in Outlook",
+    "slug": "emails-rounded-buttons-with-shadow-outlook",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0f02af8a-d1ff-4835-9938-728c3ed1d0f7/kai-og-img-blog-post-emails-rounded-buttons-with-shadow-outlook.jpg",
+    "meta_title": "Implementing emails in 2021: Rounded buttons in Outlook",
+    "authors": [
+      "Martin Hejtmanek"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8639613f-bc8c-4e50-9722-03558c231d48/kai-hero-img-emails-rounded-buttons-with-shadow-outlook%402x.webp"
+  },
+  {
+    "title": "Implementing emails in 2021: How to create inline tags with vertical alignment that work in Outlook",
+    "slug": "emails-inline-tags-vertical-alignment-outlook",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/903db657-31b9-458d-a26c-6fbdbaa39553/kk-og-img%20copy%202.jpg",
+    "meta_title": "Implementing emails in 2021: Inline tags & vertical alignment",
+    "authors": [
+      "Martin Hejtmanek"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/820a5ead-1ed4-4a67-9584-467a1b01461e/kk-blog-img---emails-1%20copy%202.png"
+  },
+  {
+    "title": "Implementing emails in 2021: How to add rounded corners to containers in Outlook",
+    "slug": "emails-outlook-containers-rounded-courners",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5ceed594-98f1-4e51-9813-56fb93b03bf9/kai-og-img-blog-post-emails-outlook-containers-rounded-courners.jpg",
+    "meta_title": "Adding rounded corners to containers in Outlook",
+    "authors": [
+      "Martin Hejtmanek"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ae0fd907-e40e-4bef-ac93-2f69d763cbdc/kai-hero-img-blog-post-emails-outlook-containers-rounded-courners%402x.webp"
+  },
+  {
+    "title": "Implementing emails in 2021: Outlook specifics for spacing and vertical alignment in tables",
+    "slug": "emails-spacing-outlook-vertical-alignment-in-tables",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/fd6cc2fe-8e23-4ac5-ac51-5232d6d489e8/kai-og-img-blog-post-emails-spacing-outlook-vertical-alignment-in-tables.jpg",
+    "meta_title": "Implementing emails 2021: Spacing and vertical alignment in tables",
+    "authors": [
+      "Martin Hejtmanek"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8d7c8fe2-3cb7-48e4-a7a0-8ea9491d75ad/kai-hero-img-blog-post-emails-spacing-outlook-vertical-alignment-in-tables%402x.webp"
+  },
+  {
+    "title": "Implementing emails in 2021: Basics & how to test generated emails",
+    "slug": "basics-implementing-testing-generated-emails",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a55052ea-12ec-4b27-8d03-37a93e9b6bad/kk-og-img.jpg",
+    "meta_title": "Implementing emails in 2021: Basics & testing",
+    "authors": [
+      "Martin Hejtmanek"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a1666103-9e1b-4540-8c5e-4ea0004a767a/kk-blog-img---emails-1.png"
+  },
+  {
+    "title": "Scale your experience: Connecting content and design modules",
+    "slug": "scale-your-experience-connecting-content-and-design-modules",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/112488cb-e7f9-49ed-9769-e5b199a9ff80/scale-your-experience-connecting-content-and-design-modules-og-img.jpg",
+    "meta_title": "Scale your experience: Connecting content & design modules",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d4453c9a-8574-4d2e-8cdc-9e3db2c6cd65/kk-bg-img-1.jpg"
+  },
+  {
+    "title": "Searching headless content with Algolia, Rails, Kontent & Next.js",
+    "slug": "searching-headless-content-with-algolia-rails-kontent-next-js",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2ceea0ad-ebe9-433e-bbb5-5c474edcc885/kk-og-img.jpg",
+    "meta_title": "Searching headless content with Algolia, Rails, Kontent & Next.js",
+    "authors": [
+      "Tom Marshall"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7fc88c96-5d67-48ed-ad29-8a7cba326b26/kk-bg-img.jpg"
+  },
+  {
+    "title": "Security as a business enabler: Building trust and empowering users",
+    "slug": "security-as-a-business-enabler",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7f027011-7113-4a09-8408-f98f9dcec89a/kai-og-img-security%20blog.jpg",
+    "meta_title": "Security as a business enabler: Building trust and empowering users",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/83d912d3-1b01-4908-af82-7bca1857421a/kai-hero-img-security%20blog.jpg"
+  },
+  {
+    "title": "Sending Push Notifications from Kontent",
+    "slug": "sending-push-notifications-from-kontent",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a96476d9-b70f-4af8-a6a3-2535c6bb51ab/kk-og-img.png",
+    "meta_title": "Sending push notifications from Kontent",
+    "authors": [
+      "Eric Dugre"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a3bb5f2f-0cc9-4f45-be8e-c49ae107916e/kk-bg-img.jpg"
+  },
+  {
+    "title": "Sourcebit: How to make friends with various data sources in the Jamstack?",
+    "slug": "sourcebit-how-to-make-friends-with-various-data-sources-in-the-jamstack",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/28ae59d7-38d2-49ec-bbf7-8c226fadcbc8/kk-og-img.jpg",
+    "meta_title": "How to make friends with various datasources in the Jamstack?",
+    "authors": [
+      "Martin Makarsky"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f425014f-be22-4275-b037-1dddb6dd143d/kk-bg-img.jpg"
+  },
+  {
+    "title": "Structured content as building blocks of the user experience",
+    "slug": "structured-content-as-building-blocks-of-the-user-experience",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/09544c88-324d-4b2a-ab14-03c05ec0b292/kai-og-img-Structured%20Content%20as%20Building%20Blocks%20of%20the%20User%20Experience.jpg",
+    "meta_title": "Structured content as building blocks of the user experience",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b6f38077-84bb-4de6-85fb-86fb4c72d091/kk-bg-img.jpg"
+  },
+  {
+    "title": "Structured content for timelines",
+    "slug": "structured-content-for-timelines",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a765913c-ad00-428c-bcce-39915e04676c/kai-og-img-Structured%20Content%20for%20Timelines.jpg",
+    "meta_title": "Structured content for timelines",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/922d59ee-97d7-4bda-b672-ec92eebdf8f2/kk-bg-img.jpg"
+  },
+  {
+    "title": "Structured rich text rendering in MVC",
+    "slug": "structured-rich-text-rendering-in-mvc",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f5906ce5-f8d6-4e88-a6fa-87e3390f8756/structured-rich-text-rendering-in-mvc---blog-post-image_t.png",
+    "meta_title": "Structured rich text rendering in MVC",
+    "authors": [
+      "Jan Lenoch"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f5906ce5-f8d6-4e88-a6fa-87e3390f8756/structured-rich-text-rendering-in-mvc---blog-post-image_t.png"
+  },
+  {
+    "title": "Supply chain security: How we do it at Kontent.ai",
+    "slug": "supply-chain-security-how-we-do-it-at-kontent-ai",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ec23e2f4-29da-4a8c-b87f-a13f2267126b/supply-chain-security-blog.png",
+    "meta_title": "Supply chain security and how we do it at Kontent.ai",
+    "authors": [
+      "Petr Prochazka"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6a75dd33-c35f-44c6-82e6-828e57652505/supply-chain-security.png"
+  },
+  {
+    "title": "Taking the fear out of deployments with Kontent.ai environments",
+    "slug": "deployment-with-kontent-environments",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5eb13f57-89c1-4a60-ba9e-780009cc0bac/kk-blog-img-og-deployment-environments.png",
+    "meta_title": "Taking the fear out of deployments with environments",
+    "authors": [
+      "Michael Kinkaid"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a952bdd1-60c8-40a9-86c7-c8ed75282ddb/hero-deploying.png"
+  },
+  {
+    "title": "What you should know about content localization",
+    "slug": "content-localization",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d3362663-1bd5-46c6-af08-999a05559e32/kai-og-img---blog-post---3-lines.png",
+    "meta_title": "What You Should Know About Content Localization",
+    "authors": [
+      "Zaneta Styblova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6c643f10-e9cc-4cec-9e74-429e68115c93/kai-hero-img---blog-post%402x.png"
+  },
+  {
+    "title": "The future of content marketing and 5 trends to expect in 2023",
+    "slug": "future-of-content-marketing",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1a9dce62-74a5-4fdc-8fa6-3b03dfa5ac8a/The%20future%20of%20content%20marketing%20and%205%20trends%20to%20expect%20in%202023.jpg",
+    "meta_title": "The future of content marketing | 5 trends to expect in 2023",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/4bc8e5a9-7f6c-4fb9-9975-4ec122c31698/kai-hero-img-The%20future%20of%20content%20marketing.jpg"
+  },
+  {
+    "title": "The power and potential of structured content",
+    "slug": "structured-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e40c78b6-8666-4388-8c05-5ebfb6e875c1/The%20power%20and%20potential%20of%20structured%20content%20OG.jpg",
+    "meta_title": "The power and potential of structured content",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e984d163-69e1-4da2-944e-51fac365a33d/The%20power%20and%20potential%20of%20structured%20content%20hero.jpg"
+  },
+  {
+    "title": "The power of content pillars in digital marketing",
+    "slug": "content-pillars",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/61e2e5c7-359a-4fb5-a286-a8969b3e0881/content%20pillars%20og.jpg",
+    "meta_title": "The power of content pillars in digital marketing",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/42e39a8b-37a4-4a1d-99ac-1adb3c344c9b/content%20pillars%20hero.jpg"
+  },
+  {
+    "title": "The Rise of JAMstack",
+    "slug": "the-rise-of-jamstack",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/743c6093-c158-4bb7-b1b1-b85d88bcff69/kk-og-img.png",
+    "meta_title": "The rise of JAMstack",
+    "authors": [
+      "Petr Svihlik"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b1714607-faa1-4035-87d7-5d21e9f95bca/kk-bg-img.jpg"
+  },
+  {
+    "title": "The role of governance in preventing content debt",
+    "slug": "role-of-governance-in-preventing-content-debt",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5f41160a-b452-4aec-a148-0cd4a12a5fe8/content-governance-debt-og-img.jpg",
+    "meta_title": "Role of governance in preventing content debt",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1336f723-5965-47eb-b967-fdd43afdf0fa/kk-bg-img.jpg"
+  },
+  {
+    "title": "The ultimate guide to evergreen content",
+    "slug": "evergreen-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3523ca1d-429b-4afd-9a44-a172e4bfa1e6/kai-og-img-The%20Ultimate%20Guide%20To%20Evergreen%20Content.jpg",
+    "meta_title": "The ultimate guide to evergreen content",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/9ef45ddd-39ce-4f6e-9db4-3db59ca933bd/kai-hero-img-The%20Ultimate%20Guide%20To%20Evergreen%20Content.jpg"
+  },
+  {
+    "title": "The 7 stages of the content lifecycle",
+    "slug": "7-stages-of-content-lifecycle",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/cf3abdb9-00c3-4027-9db6-836237f246fd/The%207%20stages%20of%20the%20content%20lifecycle.jpg",
+    "meta_title": "The 7 stages of the content lifecycle",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1a003618-413d-460f-b8fd-d62d866ce479/7%20stages%20of%20the%20content%20lifecycle.jpg"
+  },
+  {
+    "title": "Thinklogic: Solving digital problems with custom solutions",
+    "slug": "thinklogic-solving-digital-problems-with-custom-solutions",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/21938498-667a-4633-9afa-56e72cba6445/kai-og-img---blog-post---2-lines-2.jpg",
+    "meta_title": "Thinklogic: Solving digital problems with custom solutions",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c72c097b-fa6e-48ea-a8f1-74b3a34d96a4/kai-hero-img---blog-post%402x-6.jpg"
+  },
+  {
+    "title": "Top 7 content marketing trends in 2022",
+    "slug": "content-marketing-trends",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6e5a9758-8a99-4f7c-a7a4-54668ce2956d/kk-og-img-trends-2022.png",
+    "meta_title": "Top 7 content marketing trends in 2022",
+    "authors": [
+      "Zaneta Styblova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b1da6d8e-a3df-4298-a83d-bef62049d110/kk-bb-img-content-marketing-trends-.png"
+  },
+  {
+    "title": "Top Headless CMS trends you can’t afford to miss in 2023 ",
+    "slug": "top-headless-cms-trends-you-cant-afford-to-miss-in-2023",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d30dea77-71d0-4db0-afcb-e30f8350a1b3/top-headless-cms-trends-2023.png",
+    "meta_title": "Top headless CMS trends you can’t afford to miss in 2023",
+    "authors": [
+      "Tereza Bruzkova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/53c0303d-e9ba-4c47-b6d0-a586ab92a655/headless-cms-trends-2023.png"
+  },
+  {
+    "title": "Top 10 content marketing tools you need",
+    "slug": "top-content-marketing-tools",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/12d074da-096f-4e53-bc3f-371e76a0746f/kai-og-img-top%2010%20content%20marketing%20tools%20you%20need.jpg",
+    "meta_title": "Top 10 content marketing tools you need",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3c3e3b1d-7cce-41e8-b8a4-331f6906deab/best%20content%20marketing%20tools.jpg"
+  },
+  {
+    "title": "Understanding the ROI of content production",
+    "slug": "understanding-the-roi-of-content-production",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/567ab2c7-d125-47c5-8b4c-cb622c0246b9/Understanding%20the%20ROI%20of%20content%20production%20og.jpg",
+    "meta_title": "Understanding the ROI of content production",
+    "authors": [
+      "Jordan Torpy"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/12f437b7-75a1-4516-8418-752b03a9e982/Understanding%20the%20ROI%20of%20content%20production%20hero.jpg"
+  },
+  {
+    "title": "Exporting content using Google Sheets",
+    "slug": "exporting-content-using-google-sheets",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0ce170c5-838c-49ba-9cdc-72d881fb1c8a/kk-og-img.jpg",
+    "meta_title": "Exporting content using Google Sheets",
+    "authors": [
+      "Eric Dugre"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/498df41a-0696-4fd1-9ddc-832ef2989c6c/kk-bg-img-5.jpg"
+  },
+  {
+    "title": "Making DEI actionable, and other takeaways from Women in MACH",
+    "slug": "dei-takeaways-from-women-in-mach-event",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a3e3bfd7-e3d1-4982-a99b-279149e28a59/kai-og-img---blog-post---3-linesMACH.jpg",
+    "meta_title": "Takeaways from the first-ever Women in MACH event",
+    "authors": [
+      "Monica Raszyk"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/774895e3-d3e2-4052-afb3-c1a57386efdf/kai-hero-img---blog-post%402x%281%29.jpg"
+  },
+  {
+    "title": "Bringing radical automation to content operations",
+    "slug": "bringing-radical-automation-to-content-operations",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/b638e392-b82d-4f11-ac95-43710cb6d05e/kai-og-img---blog-post-radical-automation-ai.jpg",
+    "meta_title": "Bringing radical automation to content operations",
+    "authors": [
+      "Jordan Torpy"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/289a878c-095d-4a0e-ab3a-fa961cf216ec/kai-hero-img---blog-post%402x.png"
+  },
+  {
+    "title": "Kontent.ai has raised $40 million in growth capital",
+    "slug": "kontent-ai-has-raised-40-million-in-growth-capital",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/ac6ef35a-4c17-49d9-97d3-2d736b88e006/kai-40m---social-media-banner.jpg",
+    "meta_title": "Kontent.ai has raised $40 million in growth capital",
+    "authors": [
+      "Vojtech Boril"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/266e9935-4963-4141-9d39-52eea7cded39/kai-hero-img---blog-post%402x.png"
+  },
+  {
+    "title": "How to protect sensitive content in my static web app?",
+    "slug": "how-to-protect-sensitive-content-next-js-static-web-app",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/0f9f9f6b-fbb5-4f51-8c28-a35a3e6c2c6f/kk-og-img-protect-sensitive-content-next-js.png",
+    "meta_title": "Protect sensitive content in Next.js static web app",
+    "authors": [
+      "Maarten van den Hooven"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/42df1100-f52c-4751-9a86-1a9e2c2a4baa/kk-bg-img-sensitive-content-next-js.jpg"
+  },
+  {
+    "title": "Unveiling the Insights: Key Takeaways from MACH2",
+    "slug": "unveiling-the-insights-key-takeaways-from-mach2",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a288f81d-4469-410c-a2c6-1bbd0e0199a4/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Unveiling the insights: Key takeaways from MACH2",
+    "authors": [
+      "Shea Gerula"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/7577a4d8-d7d1-4789-96e2-c857defed8f2/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Using Content Models for Custom Variations",
+    "slug": "using-content-models-for-custom-variations",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/225af2b7-4d2a-4ab3-a089-59c90e7e0738/kai-og-img-Using%20Content%20Models%20for%20Custom%20Variations.jpg",
+    "meta_title": "Using content models for custom variations",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2f4c4084-64c9-4dde-8e99-90c04d4fcc60/kai-hero-img-Using%20Content%20Models%20for%20Custom%20Variations.jpg"
+  },
+  {
+    "title": "Using Content Models to Support Reuse",
+    "slug": "using-content-models-to-support-reuse",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c0db244b-d2bf-47d9-b47d-5518794ac3a3/kai-og-img-Using%20Content%20Models%20to%20Support%20Reuse.jpg",
+    "meta_title": "Using content models to support reuse",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/1220ef41-5413-401d-b2fe-b56357ad5834/kai-hero-img-Using%20Content%20Models%20to%20Support%20Reuse.jpg"
+  },
+  {
+    "title": "Using the New Kentico Cloud Content Management API",
+    "slug": "using-new-kentico-cloud-content-management-api",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c05c35ca-6f37-4fd2-88f3-0ff78f409de3/KenticoCloudExportModule.aspx.zip",
+    "meta_title": "Using the new Kentico Cloud content management API",
+    "authors": [
+      "Bryan Soltis"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/a96081b4-0319-4203-8950-a0f0c1c3d17b/content-management-api---blog-post-image_t.png"
+  },
+  {
+    "title": "What is a cloud-first headless CMS?",
+    "slug": "what-is-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6b5816e6-2169-4634-92c7-de7a49ea446e/kai-og-img-blog-post-what-is-headless-cms.jpg",
+    "meta_title": "Headless CMS explained in 5 minutes",
+    "authors": [
+      "Zaneta Styblova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/021a1a52-2807-439c-9ff2-71c840a469ee/kk-bb-img-what-is-headless-cms-.png"
+  },
+  {
+    "title": "What is a static website and how to create one",
+    "slug": "what-is-static-website",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/f7585a38-bd3a-4cd3-91b4-688f836d8aa4/kai-og-img-What%20is%20a%20static%20website%20and%20how%20to%20create%20one.jpg",
+    "meta_title": "What is a static website and how to create one",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/3aa7a1fd-80e3-4cc5-8ed1-35e9ddbffd0e/kai-hero-img-What%20is%20a%20static%20website%20and%20how%20to%20create%20one.jpg"
+  },
+  {
+    "title": "What are omnichannel experiences? Benefits, trends, and examples",
+    "slug": "what-is-omnichannel",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/bef96feb-4593-4224-8845-ac794c0b8921/kk-og-img.png",
+    "meta_title": "What are omnichannel experiences? Benefits, trends, examples",
+    "authors": [
+      "Zaneta Styblova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/df5357b5-209c-45c0-a64f-1c3c1258d6db/kk-bg-img%402x.jpg"
+  },
+  {
+    "title": "What’s the role of content management in digital products?",
+    "slug": "role-of-content-management-in-digital-products",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/93e804a9-e981-4fd1-870b-0ffe7df0c204/role-of-content-management-kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "What’s the role of content management in digital products?",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/cdbb7ec9-8a3f-4025-bd77-49a06ba1ceb5/kk-bb-img-digital-products-min.jpg"
+  },
+  {
+    "title": "Where Is My WYSIWYG Page Builder?",
+    "slug": "where-is-my-wysiwyg-page-builder",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/487acf3e-c519-47e0-935f-08b6bdb71648/where-is-my-wysiwyg-builder.png",
+    "meta_title": "Where is my WYSIWYG page builder?",
+    "authors": [
+      "Ondrej Sirocka"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/487acf3e-c519-47e0-935f-08b6bdb71648/where-is-my-wysiwyg-builder.png"
+  },
+  {
+    "title": "Why APIs are the future of content",
+    "slug": "apis-are-the-future-of-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5f45c465-2bb9-4b42-ad8a-9fc88d49c186/kai-og-img-Why%20APIs%20Are%20the%20Future%20of%20Content.jpg",
+    "meta_title": "Why APIs are the future of content",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/36f1265c-036b-45f7-b06e-352d1c665175/kk-bg-img.jpg"
+  },
+  {
+    "title": "Why invest in generative AI for content? ",
+    "slug": "why-invest-in-generative-ai-for-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/91b40b4e-6d57-4d5e-952c-f36d2bdf7a91/kai-og-img---blog-post---2-lines.jpg",
+    "meta_title": "Why invest in generative AI for content?",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/10895545-4db9-45e2-b3ea-433fb26295d9/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Why is securing AI important",
+    "slug": "why-is-securing-ai-important",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d6cc4790-c0c6-490e-a202-9335c32b8cba/Why%20is%20securing%20AI%20important%20og.jpg",
+    "meta_title": "Why is securing AI important",
+    "authors": [
+      "Matej Zachar",
+      "Daniel Filakovsky"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/378913c6-2d1e-4541-bda3-f75c559d02d9/Why%20is%20securing%20AI%20important%20hero.jpg"
+  },
+  {
+    "title": "Why manufacturers rely on Kontent.ai",
+    "slug": "why-manufacturers-rely-on-kontent-ai",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e1a27537-cee2-4651-b746-ac0d78422f09/manufacturing%20industry.jpg",
+    "meta_title": "Why manufacturers rely on Kontent.ai",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c1fc3d26-2df5-4268-a1de-ec8cf2f67953/kai-hero-img-manufacturing%20industry.jpg"
+  },
+  {
+    "title": "Why Structured Writing Needs Structured Content",
+    "slug": "why-structured-writing-needs-structured-content",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/88f2b98d-7f9c-41ce-a064-2abac96a086a/kai-og-img-Why%20Structured%20Writing%20Needs%20Structured%20Content.jpg",
+    "meta_title": "Why structured writing needs structured content",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/35d69601-4ef3-469a-b208-b29c359ee136/kai-hero-img-Why%20Structured%20Writing%20Needs%20Structured%20Content.jpg"
+  },
+  {
+    "title": "Why the DXP experience is broken and how to build a better one",
+    "slug": "why-the-dxp-experience-is-broken-and-how-to-build-a-better-one",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c2ee1e8f-7ed9-4b86-98ed-eef4c34259a5/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Why the DXP experience is broken and how to build a better one",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/8d5d1b1f-957e-4511-ab7b-06145dae04fe/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Why you need better data governance and security from your headless CMS",
+    "slug": "why-you-need-better-data-governance-and-security-from-your-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e8e25b40-235c-4777-96d0-9f42f0b84dd4/security%20blog.jpg",
+    "meta_title": "Why you need better data governance and security from your headless CMS",
+    "authors": [
+      "Matej Zachar"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/bfbe33d3-9f06-43ec-9371-7e13483dcc3b/security%20blog%202.jpg"
+  },
+  {
+    "title": "Why you should ditch DITA and adopt headless instead",
+    "slug": "ditch-dita-and-adopt-headless",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/688f56ed-bdca-415d-9f7c-16122c4d1cd3/kai-og-img-blog-post-Why%20You%20Should%20Ditch%20DITA%20and%20Adopt%20Headless%20Instead.jpg",
+    "meta_title": "Why you should ditch DITA and adopt headless instead",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/5a67d322-68f7-4509-a054-62be39200334/kk-bg-img.jpg"
+  },
+  {
+    "title": "Why you should use Figma with a headless CMS",
+    "slug": "why-you-should-use-figma-with-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2a7816e9-37f0-4a42-a39e-38f85c06ac35/kai-og-img-blog-why-you-should-use-figma-with-headless-cms.jpg",
+    "meta_title": "Why you should use Figma with headless CMS",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/da56b67c-7d28-444c-b020-f5c74314d951/kk-bb-img-figma.png"
+  },
+  {
+    "title": "Wind down with Kontent.ai’s 2023 feature wrap-up",
+    "slug": "kontent-ai-feature-wrap-up",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/6273b4ec-4fac-43af-8d4e-431962306e8e/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Explore the benefits of new Kontent.ai features",
+    "authors": [
+      "Monica Raszyk"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d90deb38-2e18-47dc-b29f-3185d261685c/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "7+1 Steps to structure a blog post",
+    "slug": "how-to-structure-blog-post",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/d1fd5830-fa30-43a5-bdf1-1338bcd1a638/kai-og-img-how%20to%20structure%20blog%20posts.jpg",
+    "meta_title": "7+1 steps to structure a blog post",
+    "authors": [
+      "Lucie Simonova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/cfeb3c9d-d1b4-443f-893a-ed61d6e61dec/kai-hero-img-how%20to%20structure%20blog%20posts.jpg"
+  },
+  {
+    "title": "9 website content ideas for your business",
+    "slug": "website-content-ideas",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/84060396-e8ea-4f52-a8ef-a9f4f0b45767/9%20website%20content%20ideas%20for%20your%20business.jpg",
+    "meta_title": "9 website content ideas for your business",
+    "authors": [
+      "Zaneta Styblova"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/c40ebd6d-0590-47c6-86d4-c2f18b41d9f5/kk-bg-img%402x.jpg"
+  },
+  {
+    "title": "Your content efficiency needs attention – Generative AI can help",
+    "slug": "your-content-efficiency-needs-attention-generative-ai-can-help",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/e0b24775-5e26-4e78-a1df-212a5be89501/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Your content efficiency needs attention – generative AI can help",
+    "authors": [
+      "Michael Andrews"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/05d0efa3-1fd9-4768-8df8-80f1c9bcb825/kai-hero-img---blog-post%402x.jpg"
+  },
+  {
+    "title": "Creating print and PDF content with a headless CMS",
+    "slug": "creating-print-and-pdf-content-with-a-headless-cms",
+    "meta_image_url": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/2887c9fd-1686-4d70-ad0a-43ea48d512c5/kai-og-img---blog-post---3-lines.jpg",
+    "meta_title": "Creating print and PDF content with a headless CMS",
+    "authors": [
+      "Radka Uhlirova",
+      "Dave Klement"
+    ],
+    "hero_image": "https://assets-us-01.kc-usercontent.com:443/0f95ca41-1323-0068-c0ab-105275b8f42c/de243f72-b711-4a29-a506-c7b77d1eb2ba/kai-hero-img---blog-post%402x.jpg"
+  }
+]
