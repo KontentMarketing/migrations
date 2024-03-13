@@ -28,7 +28,7 @@ export type UmlpElementIntegrationsModel = IContentItem<{
 
   /**
    * List (modular_content)
-   * Required: false
+   * Required: true
    * Id: 17be8670-3875-4a24-a901-e4279cf3478a
    * Codename: list
    */

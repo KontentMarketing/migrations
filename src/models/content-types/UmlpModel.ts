@@ -20,7 +20,6 @@ import { UmlpElementOpenPositionsFilterModel } from './UmlpElementOpenPositionsF
 import { CareersOurValuesModel } from './CareersOurValuesModel';
 import { UmlpElementTextBubblesBlockModel } from './UmlpElementTextBubblesBlockModel';
 import { UmlpElementBreadcrumbsModel } from './UmlpElementBreadcrumbsModel';
-import { ContentItemImageModel } from './ContentItemImageModel';
 import { UmlpElementFeatureWithCodepenModel } from './UmlpElementFeatureWithCodepenModel';
 import { UmlpElementAchievementsV2Model } from './UmlpElementAchievementsV2Model';
 import { UmlpElementLeadModel } from './UmlpElementLeadModel';
@@ -31,8 +30,6 @@ import { UmlpElementHeroModel } from './UmlpElementHeroModel';
 import { UmlpElementPartnerSuccessStoriesShowcaseModel } from './UmlpElementPartnerSuccessStoriesShowcaseModel';
 import { UmlpElementJamstackEnterpriseLandscapeModel } from './UmlpElementJamstackEnterpriseLandscapeModel';
 import { SolutionsPageCustomProductCapabilityModel } from './SolutionsPageCustomProductCapabilityModel';
-import { UmlpElementVideoModel } from './UmlpElementVideoModel';
-import { SolutionsPageProductCapabilityModel } from './SolutionsPageProductCapabilityModel';
 import { UmlpElementIntegrationsModel } from './UmlpElementIntegrationsModel';
 import { UmlpElementG2BadgesModel } from './UmlpElementG2BadgesModel';
 import { UmlpElementAchievementsModel } from './UmlpElementAchievementsModel';
@@ -42,7 +39,6 @@ import { UmlpElementSecurityFeatureModel } from './UmlpElementSecurityFeatureMod
 import { UmlpElementBoxSetModel } from './UmlpElementBoxSetModel';
 import { UmlpElementFormSectionModel } from './UmlpElementFormSectionModel';
 import { UmlpElementKontentOfficesModel } from './UmlpElementKontentOfficesModel';
-import { UmlpElementTrialPageModel } from './UmlpElementTrialPageModel';
 import { HorizonsHeroSectionModel } from './HorizonsHeroSectionModel';
 import { UmlpElementSingleLogoComponentModel } from './UmlpElementSingleLogoComponentModel';
 import { UmlpElementFeaturesModel } from './UmlpElementFeaturesModel';
@@ -59,7 +55,6 @@ import { HorizonsSpeakersModel } from './HorizonsSpeakersModel';
 import { UmlpElementLogosCustomModel } from './UmlpElementLogosCustomModel';
 import { UmlpElementCtaBannerModel } from './UmlpElementCtaBannerModel';
 import { UmlpElementStatisticsModel } from './UmlpElementStatisticsModel';
-import { UmlpElementCaseStudiesModel } from './UmlpElementCaseStudiesModel';
 import { HorizonsVenueSectionModel } from './HorizonsVenueSectionModel';
 import { NewsletterSubscriptionModel } from './NewsletterSubscriptionModel';
 import { UmlpElementTimelineSliderModel } from './UmlpElementTimelineSliderModel';
@@ -109,7 +104,6 @@ import { UmlpElementFaqModel } from './UmlpElementFaqModel';
 import { UmlpElementColoredCardsModel } from './UmlpElementColoredCardsModel';
 import { UmlpElementBubbleCardsModel } from './UmlpElementBubbleCardsModel';
 import { NewsletterSectionModel } from './NewsletterSectionModel';
-import { UmlpElementConsultingFeedbackHeroFormModel } from './UmlpElementConsultingFeedbackHeroFormModel';
 import { UmlpElementSchemaOrgSnippetModel } from './UmlpElementSchemaOrgSnippetModel';
 import { UmlpElementRocPillarsModel } from './UmlpElementRocPillarsModel';
 import { UmlpElementRocTeiResultsModel } from './UmlpElementRocTeiResultsModel';
@@ -120,6 +114,18 @@ import { UmlpElementRocDemoFormModel } from './UmlpElementRocDemoFormModel';
 import { UmlpElementElementGroupsModel } from './UmlpElementElementGroupsModel';
 import { UmlpElementGreenCardsModel } from './UmlpElementGreenCardsModel';
 import { UmlpElementHomeHeroSectionModel } from './UmlpElementHomeHeroSectionModel';
+import { UmlpElementPricingHeroSectionWithTableModel } from './UmlpElementPricingHeroSectionWithTableModel';
+import { UmlpElementFaqWithCategoriesModel } from './UmlpElementFaqWithCategoriesModel';
+import { UmlpElementAnimatedVerticalSliderModel } from './UmlpElementAnimatedVerticalSliderModel';
+import { UmlpElementHorizontalCardCarouselModel } from './UmlpElementHorizontalCardCarouselModel';
+import { UmlpElementImageCarouselModel } from './UmlpElementImageCarouselModel';
+import { UmlpElementPillCarouselModel } from './UmlpElementPillCarouselModel';
+import { UmlpElementRichtextCardSectionModel } from './UmlpElementRichtextCardSectionModel';
+import { UmlpElementStatsSectionModel } from './UmlpElementStatsSectionModel';
+import { UmlpElementContentBlocksWithAssetModel } from './UmlpElementContentBlocksWithAssetModel';
+import { UmlpElementScheduleDemoFormModel } from './UmlpElementScheduleDemoFormModel';
+import { UmlpElementCustomerSuccessStorySliderModel } from './UmlpElementCustomerSuccessStorySliderModel';
+import { UmlpElementExpandableSliderModel } from './UmlpElementExpandableSliderModel';
 import { Metadata } from '../content-type-snippets/metadata';
 import { SitemapMetadata } from '../content-type-snippets/sitemap_metadata';
 
@@ -175,7 +181,6 @@ export type UmlpModel = IContentItem<{
     | CareersOurValuesModel
     | UmlpElementTextBubblesBlockModel
     | UmlpElementBreadcrumbsModel
-    | ContentItemImageModel
     | UmlpElementFeatureWithCodepenModel
     | UmlpElementAchievementsV2Model
     | UmlpElementLeadModel
@@ -186,8 +191,6 @@ export type UmlpModel = IContentItem<{
     | UmlpElementPartnerSuccessStoriesShowcaseModel
     | UmlpElementJamstackEnterpriseLandscapeModel
     | SolutionsPageCustomProductCapabilityModel
-    | UmlpElementVideoModel
-    | SolutionsPageProductCapabilityModel
     | UmlpElementIntegrationsModel
     | UmlpElementG2BadgesModel
     | UmlpElementAchievementsModel
@@ -197,7 +200,6 @@ export type UmlpModel = IContentItem<{
     | UmlpElementBoxSetModel
     | UmlpElementFormSectionModel
     | UmlpElementKontentOfficesModel
-    | UmlpElementTrialPageModel
     | HorizonsHeroSectionModel
     | UmlpElementSingleLogoComponentModel
     | UmlpElementFeaturesModel
@@ -214,7 +216,6 @@ export type UmlpModel = IContentItem<{
     | UmlpElementLogosCustomModel
     | UmlpElementCtaBannerModel
     | UmlpElementStatisticsModel
-    | UmlpElementCaseStudiesModel
     | HorizonsVenueSectionModel
     | NewsletterSubscriptionModel
     | UmlpElementTimelineSliderModel
@@ -264,7 +265,6 @@ export type UmlpModel = IContentItem<{
     | UmlpElementColoredCardsModel
     | UmlpElementBubbleCardsModel
     | NewsletterSectionModel
-    | UmlpElementConsultingFeedbackHeroFormModel
     | UmlpElementSchemaOrgSnippetModel
     | UmlpElementRocPillarsModel
     | UmlpElementRocTeiResultsModel
@@ -275,6 +275,18 @@ export type UmlpModel = IContentItem<{
     | UmlpElementElementGroupsModel
     | UmlpElementGreenCardsModel
     | UmlpElementHomeHeroSectionModel
+    | UmlpElementPricingHeroSectionWithTableModel
+    | UmlpElementFaqWithCategoriesModel
+    | UmlpElementAnimatedVerticalSliderModel
+    | UmlpElementHorizontalCardCarouselModel
+    | UmlpElementImageCarouselModel
+    | UmlpElementPillCarouselModel
+    | UmlpElementRichtextCardSectionModel
+    | UmlpElementStatsSectionModel
+    | UmlpElementContentBlocksWithAssetModel
+    | UmlpElementScheduleDemoFormModel
+    | UmlpElementCustomerSuccessStorySliderModel
+    | UmlpElementExpandableSliderModel
   >;
 
   /**

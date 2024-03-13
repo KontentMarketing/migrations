@@ -1,4 +1,6 @@
 import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
+import { ColorPattern } from '../content-type-snippets/color_pattern';
+import { XLHeading } from '../content-type-snippets/xl_heading';
 import { SharedContentModel } from './SharedContentModel';
 
 /**
@@ -122,4 +124,6 @@ export type UmlpElementHeroModel = IContentItem<{
    * Breadcrumbs are being displayed by default
    */
   hideBreadcrumbs: Elements.MultipleChoiceElement;
-}>;
+}> &
+  ColorPattern &
+  XLHeading;

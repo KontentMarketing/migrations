@@ -28,7 +28,7 @@ export type IntegrationModel = IContentItem<{
 
   /**
    * Logo alternative (asset)
-   * Required: false
+   * Required: true
    * Id: cfe80f9f-3b27-42dc-9dc2-a79d05974f9f
    * Codename: logo_alternative
    */

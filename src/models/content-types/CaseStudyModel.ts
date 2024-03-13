@@ -46,6 +46,24 @@ export type CaseStudyModel = IContentItem<{
   websiteUrl: Elements.TextElement;
 
   /**
+   * Quote (text)
+   * Required: false
+   * Id: ddd1eb48-cf38-4ba7-b548-6d070edcc788
+   * Codename: quote
+   *
+   * Optional quote text
+   */
+  quote: Elements.TextElement;
+
+  /**
+   * Short description (text)
+   * Required: false
+   * Id: 7d54c877-ab46-4e6a-8dd7-0a5292fbac5c
+   * Codename: short_description
+   */
+  shortDescription: Elements.TextElement;
+
+  /**
    * Project URL (text)
    * Required: false
    * Id: 9c570ab8-c73e-4025-82c1-2915a09dff24

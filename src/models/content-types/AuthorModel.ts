@@ -1,4 +1,5 @@
 import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
+import { UmlpElementCtaStripWithImageModel } from './UmlpElementCtaStripWithImageModel';
 import { SitemapMetadata } from '../content-type-snippets/sitemap_metadata';
 
 /**
@@ -80,5 +81,13 @@ export type AuthorModel = IContentItem<{
    * Codename: email
    */
   email: Elements.TextElement;
+
+  /**
+   * Recommended reading (modular_content)
+   * Required: false
+   * Id: d784a197-af2e-4c0a-8ee8-2656fded7e41
+   * Codename: recommended_reading
+   */
+  recommendedReading: Elements.LinkedItemsElement<UmlpElementCtaStripWithImageModel>;
 }> &
   SitemapMetadata;

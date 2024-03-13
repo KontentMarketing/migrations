@@ -1,5 +1,6 @@
 import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
 import { UmlpElementFaqModel } from './UmlpElementFaqModel';
+import { CaseStudyModel } from './CaseStudyModel';
 import { CtaBannerComponentModel } from './CtaBannerComponentModel';
 import { AuthorModel } from './AuthorModel';
 import { BlogTopicModel } from './BlogTopicModel';
@@ -55,6 +56,16 @@ export type BlogPostModel = IContentItem<{
   faqs: Elements.LinkedItemsElement<UmlpElementFaqModel>;
 
   /**
+   * Success Stories (modular_content)
+   * Required: false
+   * Id: b43fe77a-a448-48b3-b12c-e5d9170fa1a4
+   * Codename: success_stories
+   *
+   * Optional section. If not filled out - Kontent Waves promo will be shown.
+   */
+  successStories: Elements.LinkedItemsElement<CaseStudyModel>;
+
+  /**
    * CTA Banner (modular_content)
    * Required: false
    * Id: 903d9d20-08be-4d52-85b9-a6b6225803d3
@@ -89,6 +100,16 @@ export type BlogPostModel = IContentItem<{
    * Codename: author
    */
   author: Elements.LinkedItemsElement<AuthorModel>;
+
+  /**
+   * Author's pick (multiple_choice)
+   * Required: false
+   * Id: a754b633-6120-41bc-a9f9-b3c22dd604a7
+   * Codename: author_s_pick
+   *
+   * If this is checked, it will be displayed as a featured post on the author's subpage.
+   */
+  authorSPick: Elements.MultipleChoiceElement;
 
   /**
    * Header image (asset)

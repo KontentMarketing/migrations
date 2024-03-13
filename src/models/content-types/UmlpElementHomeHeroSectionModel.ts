@@ -1,4 +1,5 @@
 import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
+import { ColorPattern } from '../content-type-snippets/color_pattern';
 import { SharedContentModel } from './SharedContentModel';
 import { UmlpElementLogoStripModel } from './UmlpElementLogoStripModel';
 
@@ -19,6 +20,16 @@ export type UmlpElementHomeHeroSectionModel = IContentItem<{
   heroHeadline: Elements.TextElement;
 
   /**
+   * Heading (rich_text)
+   * Required: true
+   * Id: abf1dec2-2c69-4023-aa64-5b53fdbaac81
+   * Codename: heading
+   *
+   * New heading for the rebranded site
+   */
+  heading: Elements.RichTextElement;
+
+  /**
    * Hero lead paragraph (rich_text)
    * Required: false
    * Id: 6321af46-ac13-4a95-bb17-d1520c39f24b
@@ -36,7 +47,7 @@ export type UmlpElementHomeHeroSectionModel = IContentItem<{
 
   /**
    * Hero secondary CTA (modular_content)
-   * Required: true
+   * Required: false
    * Id: 71a4d6ae-d7ab-4a81-8512-300135130779
    * Codename: hero_secondary_cta
    */
@@ -52,7 +63,7 @@ export type UmlpElementHomeHeroSectionModel = IContentItem<{
 
   /**
    * Hero image (asset)
-   * Required: true
+   * Required: false
    * Id: 18ce37b1-e250-4852-9e25-89b9cbd82f61
    * Codename: hero_image
    */
@@ -65,4 +76,5 @@ export type UmlpElementHomeHeroSectionModel = IContentItem<{
    * Codename: logos
    */
   logos: Elements.LinkedItemsElement<UmlpElementLogoStripModel>;
-}>;
+}> &
+  ColorPattern;

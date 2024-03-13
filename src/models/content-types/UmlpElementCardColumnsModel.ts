@@ -10,6 +10,24 @@ import { ModularItemCardElementModel } from './ModularItemCardElementModel';
  */
 export type UmlpElementCardColumnsModel = IContentItem<{
   /**
+   * Heading (rich_text)
+   * Required: false
+   * Id: 67458ed3-27db-41a1-a759-930e6e8c1a2e
+   * Codename: heading
+   *
+   * Optional heading
+   */
+  heading: Elements.RichTextElement;
+
+  /**
+   * Format (multiple_choice)
+   * Required: true
+   * Id: 06890dcd-d0d2-4799-83b5-d7c89d554e30
+   * Codename: format
+   */
+  format: Elements.MultipleChoiceElement;
+
+  /**
    * Cards (modular_content)
    * Required: true
    * Id: d7b85003-6175-437d-a633-82310fa0de0d

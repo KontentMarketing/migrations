@@ -1,4 +1,6 @@
 import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
+import { ColorPattern } from '../content-type-snippets/color_pattern';
+import { XLHeading } from '../content-type-snippets/xl_heading';
 import { SharedContentModel } from './SharedContentModel';
 
 /**
@@ -10,12 +12,22 @@ import { SharedContentModel } from './SharedContentModel';
  */
 export type UmlpElementHeroSimpleModel = IContentItem<{
   /**
-   * Heading (text)
+   * OUTDATED - Heading (text)
    * Required: true
    * Id: 767766e2-39c5-4648-a61a-7d3824dddd07
    * Codename: heading
+   *
+   * Only in place for the current version of k.ai. For any new elements of the REBRANDED website, use the rich element below.
    */
   heading: Elements.TextElement;
+
+  /**
+   * Heading (rich_text)
+   * Required: true
+   * Id: 3654159d-7a7c-473f-9797-3b51e542e32d
+   * Codename: heading_rich
+   */
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (rich_text)
@@ -32,4 +44,14 @@ export type UmlpElementHeroSimpleModel = IContentItem<{
    * Codename: buttons
    */
   buttons: Elements.LinkedItemsElement<SharedContentModel>;
-}>;
+
+  /**
+   * Alignment (multiple_choice)
+   * Required: true
+   * Id: 403ac096-3e15-44c6-bf4b-877e963fa2f3
+   * Codename: alignment
+   */
+  alignment: Elements.MultipleChoiceElement;
+}> &
+  ColorPattern &
+  XLHeading;

@@ -13,4 +13,5 @@ export type PageType =
   | 'use_case'
   | 'horizons_location'
   | 'feature'
-  | 'mvp_program_subpage';
+  | 'technology'
+  | 'compare';

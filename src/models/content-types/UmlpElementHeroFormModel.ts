@@ -1,4 +1,6 @@
 import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
+import { ColorPattern } from '../content-type-snippets/color_pattern';
+import { XLHeading } from '../content-type-snippets/xl_heading';
 import { UmlpElementAchievementsModel } from './UmlpElementAchievementsModel';
 import { UmlpElementResourceTileGridModel } from './UmlpElementResourceTileGridModel';
 import { UmlpElementCtaBannerModel } from './UmlpElementCtaBannerModel';
@@ -273,4 +275,6 @@ export type UmlpElementHeroFormModel = IContentItem<{
    * Kontent vs Pardot dynamic content. Default should always be Kontent.
    */
   contentSource: Elements.MultipleChoiceElement;
-}>;
+}> &
+  ColorPattern &
+  XLHeading;

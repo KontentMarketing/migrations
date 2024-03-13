@@ -40,4 +40,12 @@ export type UmlpElementContentBubblesGridModel = IContentItem<{
    * Codename: theme
    */
   theme: Elements.MultipleChoiceElement;
+
+  /**
+   * Format (multiple_choice)
+   * Required: true
+   * Id: 382e0c11-2e75-4b27-89e2-e4e6c9a0349b
+   * Codename: format
+   */
+  format: Elements.MultipleChoiceElement;
 }>;

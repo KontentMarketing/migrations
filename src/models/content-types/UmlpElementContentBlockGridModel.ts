@@ -35,4 +35,14 @@ export type UmlpElementContentBlockGridModel = IContentItem<{
    * Optional button
    */
   button: Elements.LinkedItemsElement<SharedContentModel>;
+
+  /**
+   * Theme (multiple_choice)
+   * Required: true
+   * Id: a1a388a4-0c16-4f9b-b1d9-941a391f4080
+   * Codename: theme
+   *
+   * Theme for the REBRANDed version of the site. If this is blocking you from releases on the current site, pick whichever, it won't have any effect.
+   */
+  theme: Elements.MultipleChoiceElement;
 }>;

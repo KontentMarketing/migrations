@@ -18,6 +18,14 @@ export type UmlpElementFeaturedCustomerSuccessStoriesModel = IContentItem<{
   heading: Elements.TextElement;
 
   /**
+   * Hide quotes (multiple_choice)
+   * Required: false
+   * Id: 0eb9d350-18f6-48c1-849a-5d9e116264e3
+   * Codename: hide_quotes
+   */
+  hideQuotes: Elements.MultipleChoiceElement;
+
+  /**
    * Success Stories (modular_content)
    * Required: true
    * Id: f736ce6a-4000-494b-ad7d-0f8c59f25f33

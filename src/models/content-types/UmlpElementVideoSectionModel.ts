@@ -42,4 +42,12 @@ export type UmlpElementVideoSectionModel = IContentItem<{
    * We have 2 visuals available for this component. Have a look at our visual guide under *UMLP element - Video Section* and pick accordingly to your preference.Guide URL: https://kontent-ai.atlassian.net/wiki/spaces/KMT/pages/24871043/Kontent.ai+UMLP+Components+overview
    */
   componentVersion: Elements.MultipleChoiceElement;
+
+  /**
+   * Theme (multiple_choice)
+   * Required: false
+   * Id: 586961f8-0b36-4e03-a941-967d54d7ce17
+   * Codename: theme
+   */
+  theme: Elements.MultipleChoiceElement;
 }>;
