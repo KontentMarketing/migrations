@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Content management for banking and finance",
+    "meta_title": "Headless CMS for banking and finance institutions",
+    "slug": "cms-for-banking-and-finance",
+    "codename": "_rebrand_2024__industries___banking_and_finance",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for education",
+    "meta_title": "Headless CMS for educational institutions",
+    "slug": "headless-cms-for-education",
+    "codename": "_rebrand_2024__industries___education",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for food and beverage",
+    "meta_title": "Headless CMS for food and beverage",
+    "slug": "cms-for-food-and-beverage",
+    "codename": "_rebrand_2024__industries___food_and_beverage",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for government",
+    "meta_title": "Headless CMS for government organizations",
+    "slug": "cms-for-government-organizations",
+    "codename": "_rebrand_2024__industries___government",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for healthcare",
+    "meta_title": "Headless CMS for healthcare organizations",
+    "slug": "cms-for-healthcare-organizations",
+    "codename": "_rebrand_2024__industries___healthcare",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for insurance",
+    "meta_title": "Headless CMS for insurance companies",
+    "slug": "cms-for-insurance-companies",
+    "codename": "_rebrand_2024__industries___insurance",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for manufacturing",
+    "meta_title": "Headless CMS for manufacturers",
+    "slug": "headless-cms-for-manufacturing",
+    "codename": "_rebrand_2024__industries___manufacturing",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for nonprofit organizations",
+    "meta_title": "Headless CMS for nonprofit organizations",
+    "slug": "cms-for-nonprofit-organizations",
+    "codename": "_rebrand_2024__industries___nonprofit_organization",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for retail",
+    "meta_title": "Headless CMS for Retail Businesses",
+    "slug": "cms-for-retail",
+    "codename": "_rebrand_2024__industries___retail",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for software and technology",
+    "meta_title": "Headless CMS for software and technology",
+    "slug": "cms-for-software-and-technology",
+    "codename": "_rebrand_2024__industries___software_and_technolog",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for sports organizations",
+    "meta_title": "Headless CMS for sports",
+    "slug": "cms-for-sports",
+    "codename": "_rebrand_2024__industries___sports",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Content management for travel and tourism",
+    "meta_title": "Headless CMS for travel and tourism",
+    "slug": "cms-for-travel-and-tourism",
+    "codename": "_rebrand_2024__industries___travel_and_tourism",
+    "workflow_step": "published"
+  }
+]

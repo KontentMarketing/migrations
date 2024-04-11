@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Builder.io",
+    "meta_title": "Build digital experiences with Kontent.ai & Builder.io",
+    "slug": "builder-io",
+    "codename": "builder_io",
+    "workflow_step": "published"
+  },
+  {
+    "title": "GatedContent",
+    "meta_title": "Deploy, connect, and optimize smart web forms with Kontent.ai & GatedContent.com",
+    "slug": "gatedcontent",
+    "codename": "gatedcontent",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Algolia",
+    "meta_title": "Integrate Kontent.ai with Algolia",
+    "slug": "algolia",
+    "codename": "integration___algolia",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Bynder",
+    "meta_title": "Integrate Kontent.ai with Bynder",
+    "slug": "bynder",
+    "codename": "integration___bynder",
+    "workflow_step": "published"
+  },
+  {
+    "title": "commercetools",
+    "meta_title": "Integrate Kontent.ai with commercetools",
+    "slug": "commercetools",
+    "codename": "integration___commercetools",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Conscia.ai",
+    "meta_title": "Integrate Kontent.ai with Conscia",
+    "slug": "conscia-ai",
+    "codename": "integration___conscia",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Gatsby",
+    "meta_title": "Integrate Kontent.ai with Gatsby",
+    "slug": "gatsby",
+    "codename": "integration___gatsby",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Cloudinary",
+    "meta_title": "Integrate Kontent.ai with Cloudinary",
+    "slug": "cloudinary",
+    "codename": "integration___google_analytics__copy_",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Gridsome",
+    "meta_title": "Integrate Kontent.ai with Gridsome",
+    "slug": "gridsome",
+    "codename": "integration___gridsome",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Magento",
+    "meta_title": "Integrate Kontent.ai with Magento",
+    "slug": "magento",
+    "codename": "integration___magento",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Netlify",
+    "meta_title": "Integrate Kontent.ai with Netlify",
+    "slug": "netlify",
+    "codename": "integration___netlify",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Nuxt.js",
+    "meta_title": "Integrate Kontent.ai with Nuxt",
+    "slug": "nuxt-js",
+    "codename": "integration___nuxt_js",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Ocula Technologies",
+    "meta_title": "Combine Kontent.ai with Ocula Technologies",
+    "slug": "ocula-technologies",
+    "codename": "integration___ocula",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Recombee",
+    "meta_title": "Integrate Kontent.ai with Recombee",
+    "slug": "recombee",
+    "codename": "integration___recombee",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Shopify",
+    "meta_title": "Integrate Kontent.ai with Shopify",
+    "slug": "shopify",
+    "codename": "integration___shopify",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Ultra Commerce",
+    "meta_title": "Integrate Kontent.ai with Ultra Commerce",
+    "slug": "ultra-commerce",
+    "codename": "integration___shopify__copy_",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Translations.com",
+    "meta_title": "Integrate Kontent.ai with Translations.com",
+    "slug": "translations-com",
+    "codename": "integration___translations_com",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Vue Storefront",
+    "meta_title": "Combine Kontent.ai with Vue Storefront",
+    "slug": "vue-storefront",
+    "codename": "integration___vuestorefront",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Statiq",
+    "meta_title": "Integrate Kontent.ai with Statiq",
+    "slug": "statiq",
+    "codename": "integration___wyam",
+    "workflow_step": "published"
+  },
+  {
+    "title": "XTM Cloud",
+    "meta_title": "Integrate Kontent.ai with XTM Cloud",
+    "slug": "xtm-cloud",
+    "codename": "integration___xtm_cloud",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Zapier",
+    "meta_title": "Integrate Kontent.ai with Zapier",
+    "slug": "zapier",
+    "codename": "integration___zapier",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Phrase",
+    "meta_title": "Integrate Kontent.ai with Phrase",
+    "slug": "phrase",
+    "codename": "memsource",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Scaleflex",
+    "meta_title": "Integrate Kontent.ai with Scaleflex",
+    "slug": "scaleflex",
+    "codename": "scaleflex",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Semrush",
+    "meta_title": "Integrate Kontent.ai with Semrush",
+    "slug": "semrush",
+    "codename": "semrush",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Uniform",
+    "meta_title": "Integrate Kontent.ai with Uniform",
+    "slug": "uniform",
+    "codename": "uniform",
+    "workflow_step": "published"
+  }
+]

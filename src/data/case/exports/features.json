@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Explore  Collections",
+    "meta_title": "Collections",
+    "slug": "collections",
+    "codename": "collection_lp",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Elevate your large-scale content operations.",
+    "meta_title": "Manage Your Content with Collections",
+    "slug": "collections",
+    "codename": "feature_page___collections",
+    "workflow_step": "archived"
+  },
+  {
+    "title": "Explore Mission Control",
+    "meta_title": "Explore Mission Control",
+    "slug": "mission-control",
+    "codename": "mission_control___capability_page",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Explore  simultaneous editing",
+    "meta_title": "Simultaneous Editing",
+    "slug": "simultaneous-editing",
+    "codename": "umlp___simultaneous_editing",
+    "workflow_step": "draft"
+  },
+  {
+    "title": "Explore workflows",
+    "meta_title": "Publish better content with flexible workflows",
+    "slug": "workflows",
+    "codename": "untitled_content_item_20e549b",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Explore&nbsp; Asset Management",
+    "meta_title": "Advanced Asset Management",
+    "slug": "advanced-asset-management",
+    "codename": "untitled_content_item_334d30e",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Explore AI",
+    "meta_title": "The first CMS with native AI capabilities",
+    "slug": "introducing-native-ai-capabilities",
+    "codename": "untitled_content_item_7b69d00",
+    "workflow_step": "published"
+  },
+  {
+    "title": "Explore  Web Spotlight",
+    "meta_title": "Web Spotlight",
+    "slug": "webspotlight",
+    "codename": "webspotlight",
+    "workflow_step": "published"
+  }
+]

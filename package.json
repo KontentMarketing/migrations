@@ -36,6 +36,7 @@
 		"@kontent-ai/management-sdk": "^5.2.0",
 		"@kontent-ai/model-generator": "^5.7.0",
 		"dotenv": "^16.0.2",
+		"string-strip-html": "^8.5.0",
 		"ts-node": "^10.9.1"
 	},
 	"devDependencies": {
