@@ -1,10 +1,7 @@
 import { MigrationModule } from '@kontent-ai/cli'
 import { ManagementClient } from '@kontent-ai/management-sdk'
 import KontentService from './services/KontentService'
-import {
-  HighlightedFeatureModel,
-  contentTypes,
-} from './models'
+import { IntegrationModel, contentTypes } from './models'
 
 type HeadingSize = 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6'
 
@@ -53,25 +50,29 @@ const content_type_codenames = {
     contentTypes.umlp_element___featured_customer_success_stories.codename,
   large_card_grid: contentTypes.umlp_element___large_card_grid.codename,
   highlighted_feature: contentTypes.highlighted_feature.codename,
+  person_list: contentTypes.umlp_element___person_list.codename,
+  integration: contentTypes.integration.codename,
 } as const
 
 const migration: MigrationModule = {
   order: 22,
   run: async (client: ManagementClient) => {
-    const newHeadingCodename = 'heading__rich'
+    const newHeadingCodename = 'video_section_heading__rich'
 
     await client
       .modifyContentType()
-      .byTypeCodename(content_type_codenames.highlighted_feature)
+      .byTypeCodename(content_type_codenames.integration)
       .withData([
         {
           op: 'addInto',
           path: '/elements',
           after: {
-            codename: 'heading',
+            // codename: 'heading',
+            codename:
+              contentTypes.integration.elements.video_section_heading.codename,
           },
           value: {
-            name: 'Heading',
+            name: 'Video Section Heading',
             type: 'rich_text',
             allowed_blocks: ['text'],
             allowed_text_blocks: ['heading-two'],
@@ -84,13 +85,14 @@ const migration: MigrationModule = {
 
     const allItems = (
       await KontentService.Instance(true)
-        .deliveryClient.items<HighlightedFeatureModel>()
-        .type(content_type_codenames.highlighted_feature)
+        .deliveryClient.items<IntegrationModel>()
+        .type(content_type_codenames.integration)
         .toPromise()
     ).data.items
 
     for await (const item of allItems) {
-      const oldHeading = item.elements.heading?.value ?? ''
+      // const oldHeading = item.elements.heading?.value ?? ''
+      const oldHeading = item.elements.videoSectionHeading?.value ?? ''
       const currentWorkflow = item.system.workflowStep
       const newHeading = createNewHeading('h2', oldHeading)
 
@@ -123,12 +125,17 @@ const migration: MigrationModule = {
           })
           .toPromise()
 
-        await client
-          .publishLanguageVariant()
-          .byItemCodename(item.system.codename)
-          .byLanguageCodename('default')
-          .withoutData()
-          .toPromise()
+        try {
+          await client
+            .publishLanguageVariant()
+            .byItemCodename(item.system.codename)
+            .byLanguageCodename('default')
+            .withoutData()
+            .toPromise()
+        } catch (error) {
+          console.log('Error publishing item:', item.system.codename)
+          continue
+        }
       } else {
         await client
           .upsertLanguageVariant()
@@ -152,11 +159,11 @@ const migration: MigrationModule = {
 
     await client
       .modifyContentType()
-      .byTypeCodename(content_type_codenames.highlighted_feature)
+      .byTypeCodename(content_type_codenames.integration)
       .withData([
         {
           op: 'remove',
-          path: '/elements/codename:heading',
+          path: `/elements/codename:${contentTypes.integration.elements.video_section_heading.codename}`,
         },
       ])
       .toPromise()

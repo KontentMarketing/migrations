@@ -1,0 +1,967 @@
+[
+  {
+    "fileName": "7+1 Steps to structure a blog post.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f0f7eb10-5cc2-48bf-a7a4-9957a84e80f6/7%2B1%20Steps%20to%20structure%20a%20blog%20post.jpg",
+    "id": "7b3c88ce-18c5-4292-ad1b-caa8c18e0725"
+  },
+  {
+    "fileName": "AI for Content Management.png",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/8e8ada09-a7f8-4275-85de-17b7c625bfee/AI%20for%20Content%20Management.png",
+    "id": "5bae9469-ca37-4b01-8cce-4512634b8916"
+  },
+  {
+    "fileName": "Best Headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/dee86c3a-69b1-48a9-91ff-c1fef5b25caf/Best%20Headless%20CMS.jpg",
+    "id": "9bee9450-3b93-4ac1-8128-9ad386ff3711"
+  },
+  {
+    "fileName": "9 website content ideas for your business.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/074352ac-6eb8-4eb3-8e40-93dbe1c7fd6e/9%20website%20content%20ideas%20for%20your%20business.jpg",
+    "id": "8e582679-6ee9-4c91-bdc8-3622050e62d6"
+  },
+  {
+    "fileName": "About us.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/3fe51d76-97eb-4039-8645-62b81daef7a5/About%20us.jpg",
+    "id": "db4fd986-7d7a-4448-b77b-0f8ef9b2df93"
+  },
+  {
+    "fileName": "Building a Website with Headless CMS in Just One Day.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/975bdb0f-00e5-45c6-804d-ed604d8f41a1/Building%20a%20Website%20with%20Headless%20CMS%20in%20Just%20One%20Day.jpg",
+    "id": "73c668f4-9bfc-46f4-9d84-4525b51df5c9"
+  },
+  {
+    "fileName": "Content recycle .jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/59f001ab-1700-4dac-9eef-29bb91e91ec7/Content%20recycle%20.jpg",
+    "id": "0facd62c-f262-4960-80d8-a1b391796543"
+  },
+  {
+    "fileName": "CONTENT STRATEGY GLOSSARY.png",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/9294dcb8-75d7-47d5-9a86-56542181e334/CONTENT%20STRATEGY%20GLOSSARY.png",
+    "id": "9042ff6c-3d10-48d3-ad70-85961c6737dd"
+  },
+  {
+    "fileName": "content repurpose.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/30c31fac-01e9-490a-9581-61d473dfc25d/content%20repurpose.jpg",
+    "id": "54ca7dfc-fba7-4622-b994-680db4d84400"
+  },
+  {
+    "fileName": "content marketing.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0444d98e-c234-4ae7-acf7-81fbe0c452f6/content%20marketing.jpg",
+    "id": "c947dedd-3af4-4e3b-8fed-9f75382d0179"
+  },
+  {
+    "fileName": "content strategy plan.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a6b39df3-556b-40a9-a9e4-3ee15a04182a/content%20strategy%20plan.jpg",
+    "id": "2816e83b-d2a6-45d2-8a3e-d624605374bf"
+  },
+  {
+    "fileName": "Content strategy using ChatGPT with a headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/68c0d4ba-963f-4609-8ed1-7fdcdbe86244/Content%20strategy%20using%20ChatGPT%20with%20a%20headless%20CMS.jpg",
+    "id": "ddaebc41-c936-454c-8c3c-c9c1f02a6884"
+  },
+  {
+    "fileName": "Content strategy vs  Content marketing_ The  key differences.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/fb5d6cce-813d-4658-94ac-195b9983c07e/Content%20strategy%20vs%20%20Content%20marketing_%20The%20%20key%20differences.jpg",
+    "id": "79e5297e-2858-4b73-b3b1-85be7039326d"
+  },
+  {
+    "fileName": "Create once, publish everywhere_ doing  COPE right.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f2c74ac2-51c6-4ed2-bc61-f9b410f4ff1d/Create%20once%2C%20publish%20everywhere_%20doing%20%20COPE%20right.jpg",
+    "id": "0c32ce25-fecb-4e4d-a37b-ae7cdf1d80a3"
+  },
+  {
+    "fileName": "Creating print and PDF content with a headless  CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/08d90db5-dfde-4a26-b463-b214bcec2559/Creating%20print%20and%20PDF%20content%20with%20a%20headless%20%20CMS.jpg",
+    "id": "85b08c66-20ac-4df9-ac46-0b7c9ef6c16b"
+  },
+  {
+    "fileName": "Decoding AI success_ Tips for businesses to achieve maximum value and content security.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f39f3ee5-ef01-497e-bd61-ab8c9ac8e982/Decoding%20AI%20success_%20Tips%20for%20businesses%20to%20achieve%20maximum%20value%20and%20content%20security.jpg",
+    "id": "48478996-4c0c-4039-9693-e58f931288f6"
+  },
+  {
+    "fileName": "Defeat technical debt on a modern website and make it future-proof.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/124f2772-49e5-4614-920d-e1a77e8d091a/Defeat%20technical%20debt%20on%20a%20modern%20website%20and%20make%20it%20future-proof.jpg",
+    "id": "4eef255c-f32b-4e16-a579-19d5d1bc8d56"
+  },
+  {
+    "fileName": "Demystify Nuxtʼs target, mode, and ssr properties.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/889c6522-34a3-4f92-a9b4-14a307d6a8a6/Demystify%20Nuxt%CA%BCs%20target%2C%20mode%2C%20and%20ssr%20properties.jpg",
+    "id": "b0e9955b-8154-44de-b981-9281526eda6d"
+  },
+  {
+    "fileName": "Defining processes and procedures to support content operations.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/5dbab89f-9452-488f-9ee6-0e033c0015b2/Defining%20processes%20and%20procedures%20to%20support%20content%20operations.jpg",
+    "id": "392bb906-167b-441a-8622-8bb5e2908f22"
+  },
+  {
+    "fileName": "Designing systems to support content and UX collaboration.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6bb779a8-6b69-47d6-9ae6-4b18294fea9e/Designing%20systems%20to%20support%20content%20and%20UX%20collaboration.jpg",
+    "id": "5931baff-d71c-4f9b-a422-7314f781fb66"
+  },
+  {
+    "fileName": "Develop digital experiences without limits.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/9a29a677-3047-4b93-8ef9-7772b4d3d6b0/Develop%20digital%20experiences%20without%20limits.jpg",
+    "id": "49f3ba78-c7c7-45bb-824f-88862bcaadeb"
+  },
+  {
+    "fileName": "Digital transformation strategy.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/d441c6f9-99b2-49c9-9142-86bd4480977d/Digital%20transformation%20strategy.jpg",
+    "id": "d53649a5-6f1c-4584-995a-fd8e8e4f3960"
+  },
+  {
+    "fileName": "Digital transformation.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/3a02bd20-2c0c-4460-a832-29fd1998b595/Digital%20transformation.jpg",
+    "id": "a651307f-60ac-4366-8a20-93676c2c2b04"
+  },
+  {
+    "fileName": "Drive success with an engaging customer education program.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/95216ba2-e621-4da5-81c9-c7faeb5941a7/Drive%20success%20with%20an%20engaging%20customer%20education%20program.jpg",
+    "id": "5dc896e4-fb93-4031-bf07-6964fb617f24"
+  },
+  {
+    "fileName": "Edit Your Content Directly from Your Website.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/2e5b1ca2-331b-484b-bf65-15b9bd71a182/Edit%20Your%20Content%20Directly%20from%20Your%20Website.jpg",
+    "id": "dc5647fd-8019-4152-ad78-31c216d2b53a"
+  },
+  {
+    "fileName": "Effective content modeling.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/708aad7c-ff80-4fb0-80cc-37ba1986f853/Effective%20content%20modeling.jpg",
+    "id": "a609e67d-32ce-41a9-bdb1-3a26368afda9"
+  },
+  {
+    "fileName": "Emerging best practices for disclosing AI-generated content.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/cdea639a-5abe-4773-801e-8f9400131f60/Emerging%20best%20practices%20for%20disclosing%20AI-generated%20content.jpg",
+    "id": "101c25d7-7f2b-4f67-aab2-08f548e22b56"
+  },
+  {
+    "fileName": "Enrich your new Nuxt 3 site with headless CMS content.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/ba082625-3402-4658-8658-25530a613d16/Enrich%20your%20new%20Nuxt%203%20site%20with%20headless%20CMS%20content.jpg",
+    "id": "c1936df2-b878-453f-875b-34c1171fb84c"
+  },
+  {
+    "fileName": "Expand content reach and variety with structured API delivery.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/e41c3c5e-7065-4367-b656-0a671251006d/Expand%20content%20reach%20and%20variety%20with%20structured%20API%20delivery.jpg",
+    "id": "6af2107a-5c5f-4df2-aaa4-c220ace80b5b"
+  },
+  {
+    "fileName": "Exporting content using Google Sheets.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f363b227-da37-41ce-98ff-6f296d212953/Exporting%20content%20using%20Google%20Sheets.jpg",
+    "id": "22a13fda-2bb3-4524-a517-831517902803"
+  },
+  {
+    "fileName": "Five benefits of reusing content.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/fb0d7dbf-8117-4ce7-8083-205ade1e3c9e/Five%20benefits%20of%20reusing%20content.jpg",
+    "id": "e20a622f-a1c3-41bb-a8bd-bee113d4a140"
+  },
+  {
+    "fileName": "Five keys to prepping content like a top chef.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/2d5a14d3-275e-48ce-85d5-fa121d5fab97/Five%20keys%20to%20prepping%20content%20like%20a%20top%20chef.jpg",
+    "id": "044aef75-8a33-47fe-aad6-0fe84414f39c"
+  },
+  {
+    "fileName": "From chaos to clarity_ best practices for content taxonomy.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a72208d3-4b25-4d20-b25c-ac050882cb35/From%20chaos%20to%20clarity_%20best%20practices%20for%20content%20taxonomy.jpg",
+    "id": "05403ec7-b109-4bb6-91a1-1d8bfce46552"
+  },
+  {
+    "fileName": "Governance, risk, and compliance at Kontent.ai.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/c56f399b-c942-4eec-9639-908f3064f264/Governance%2C%20risk%2C%20and%20compliance%20at%20Kontent.ai.jpg",
+    "id": "65b83635-da4a-4ef7-a69d-c751ca9a81d1"
+  },
+  {
+    "fileName": "Headless CMS for universities.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6f11d3af-c8aa-4cc0-aa0c-0a2d4d104a93/Headless%20CMS%20for%20universities.jpg",
+    "id": "171647ff-d51c-4010-a24d-153692a8d1f7"
+  },
+  {
+    "fileName": "Headless, Python, and Flask_ How to enjoy massive flexibility in a microframework.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/34488301-22a5-43f8-95b4-b11bdb35315f/Headless%2C%20Python%2C%20and%20Flask_%20How%20to%20enjoy%20massive%20flexibility%20in%20a%20microframework.jpg",
+    "id": "7e305b56-d750-4563-ac1f-27f6cefb8945"
+  },
+  {
+    "fileName": "Enterprise content governance model for decision making.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/5c17a923-2fb6-461a-afa6-18023f5532c1/Enterprise%20content%20governance%20model%20for%20decision%20making.jpg",
+    "id": "711d9bac-7689-4358-a5a9-ca42dfbc761d"
+  },
+  {
+    "fileName": "How APIs Can Support Your Content Strategy.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0b6ba9a8-aea1-499d-92ca-44102f2e8433/How%20APIs%20Can%20Support%20Your%20Content%20Strategy.jpg",
+    "id": "a9ac1f82-1a8c-4f17-b8f7-26517d70f971"
+  },
+  {
+    "fileName": "How content and design can support each other.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/fe2fd824-35e3-4db2-9298-0bbb164f84cb/How%20content%20and%20design%20can%20support%20each%20other.jpg",
+    "id": "501c0f4a-2c05-44e6-92c8-19a145296368"
+  },
+  {
+    "fileName": "How content and UX can define user interaction together.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/2279fc09-bab3-4ae0-a311-9463996e2137/How%20content%20and%20UX%20can%20define%20user%20interaction%20together.jpg",
+    "id": "efe30c9b-01dc-447c-8bac-1eca87f1bae7"
+  },
+  {
+    "fileName": "How content is a game changer for sports organizations.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6258412b-8636-4891-aac6-28c53b4aaba7/How%20content%20is%20a%20game%20changer%20for%20sports%20organizations.jpg",
+    "id": "b8575280-1745-4d67-856a-7b542b9b8ebd"
+  },
+  {
+    "fileName": "How content professionals can influence organizational change.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/23a5b89b-214a-4d43-86e7-b4df6114e33f/How%20content%20professionals%20can%20influence%20organizational%20change.jpg",
+    "id": "18a0c13a-b5c6-48f9-a196-4f630b25bbe1"
+  },
+  {
+    "fileName": "How does headless CMS fit into an AWS setup_.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0224ddf4-02af-4e28-819f-c22859035685/How%20does%20headless%20CMS%20fit%20into%20an%20AWS%20setup_.jpg",
+    "id": "74d0849f-1e44-47cc-834e-46f976cde502"
+  },
+  {
+    "fileName": "How leading organizations across the globe exceed customer expectations.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/30c1a2e2-be52-4e08-99a2-d6358740b0be/How%20leading%20organizations%20across%20the%20globe%20exceed%20customer%20expectations.jpg",
+    "id": "2ed4c493-95f0-4193-93cf-af40ffc5654b"
+  },
+  {
+    "fileName": "How Kontent.ai handles disaster recovery.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/1a5eb545-ea70-4703-a5c0-84fb5c566f2d/How%20Kontent.ai%20handles%20disaster%20recovery.jpg",
+    "id": "778122ea-f4e2-4537-90fb-d9f943bac0f0"
+  },
+  {
+    "fileName": "How generative AI fits into content development processes.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/5c53f988-9ce7-4f28-94a3-ba07657a32ab/How%20generative%20AI%20fits%20into%20content%20development%20processes.jpg",
+    "id": "dc8a0aaa-0264-4e88-bde0-2318da21cb35"
+  },
+  {
+    "fileName": "How many content types do you need_.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/43d2f7fa-db89-4f6a-9651-cd2d088f6e54/How%20many%20content%20types%20do%20you%20need_.jpg",
+    "id": "a2049392-d62c-4d50-893c-2389987dfc2a"
+  },
+  {
+    "fileName": "How structured content is different in headless CMSs.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/897481da-fdca-4328-b5be-df742e129d7f/How%20structured%20content%20is%20different%20in%20headless%20CMSs.jpg",
+    "id": "7629bcae-dbc1-4b6f-85dd-3370a053e4eb"
+  },
+  {
+    "fileName": "How to benefit from const assertion in your TypeScript code_.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/9e0358e9-a790-4fab-a7f3-c0c563bb7d94/How%20to%20benefit%20from%20const%20assertion%20in%20your%20TypeScript%20code_.jpg",
+    "id": "2e906855-4f40-4515-86f8-0e913848c250"
+  },
+  {
+    "fileName": "How to Automatically Translate Content Using Webhooks.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/cb7abecd-b1b6-4abd-89b9-3c35254733ed/How%20to%20Automatically%20Translate%20Content%20Using%20Webhooks.jpg",
+    "id": "076172e0-491a-48eb-9e2f-b00590eecc83"
+  },
+  {
+    "fileName": "How to build a strong content value chain.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/b6a79ad8-fbc0-4899-abb8-e8cd3e94cd07/How%20to%20build%20a%20strong%20content%20value%20chain.jpg",
+    "id": "6568ab3e-6c98-4c24-bcff-7782e0ec4226"
+  },
+  {
+    "fileName": "How to build URLs and handle redirects in Next.js.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/d3775d0b-b8c9-4d24-97ab-b8df7cf6a353/How%20to%20build%20URLs%20and%20handle%20redirects%20in%20Next.js.jpg",
+    "id": "1bf1f7e8-f2f2-4e06-93b3-1b612c3e129c"
+  },
+  {
+    "fileName": "How to calculate the total cost of ownership of a CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/05092127-331c-493b-8344-dbfc47d32036/How%20to%20calculate%20the%20total%20cost%20of%20ownership%20of%20a%20CMS.jpg",
+    "id": "888d3a8a-a33e-41b6-ab0a-97f4cb91608e"
+  },
+  {
+    "fileName": "How to choose your AI vendor.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/e7378176-2470-4acb-968b-fcd5549906ee/How%20to%20choose%20your%20AI%20vendor.jpg",
+    "id": "ede311af-0372-48c3-b3bb-984699fec900"
+  },
+  {
+    "fileName": "How to disable webhook notifications at your command.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/09d634e7-02f5-451c-bfe9-33e6de796296/How%20to%20disable%20webhook%20notifications%20at%20your%20command.jpg",
+    "id": "8ebdf45e-fa59-46bd-a3e2-04c5b3f77ff1"
+  },
+  {
+    "fileName": "How to embed guidance to better govern your content.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/3b7603a5-1ac4-4f2e-97f0-cdf0994fc8b8/How%20to%20embed%20guidance%20to%20better%20govern%20your%20content.jpg",
+    "id": "ed01eaf0-3adc-4040-b066-e7d53710eb48"
+  },
+  {
+    "fileName": "How to generate RSS feed in Next.js.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/1ab625b0-1ba6-4390-ab44-42812202e745/How%20to%20generate%20RSS%20feed%20in%20Next.js.jpg",
+    "id": "2fbc763f-cada-4a6b-a1a9-9ded4a50d279"
+  },
+  {
+    "fileName": "How to handle URL redirects when using a headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/885e8d99-45d7-46cb-9c0c-6d7de8e5b1a0/How%20to%20handle%20URL%20redirects%20when%20using%20a%20headless%20CMS.jpg",
+    "id": "67a070c6-caeb-46a1-a7e5-84eb1ee0ba8b"
+  },
+  {
+    "fileName": "How to improve cache efficiency and reduce costs with Next.js on-demand ISR.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0fb93f3f-a6f6-44c5-8612-db83a3c75c21/How%20to%20improve%20cache%20efficiency%20and%20reduce%20costs%20with%20Next.js%20on-demand%20ISR.jpg",
+    "id": "1ede3fd5-a70a-494a-99ca-a38afff8177e"
+  },
+  {
+    "fileName": "How to include the right details in your content model.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/913caf3a-0dfb-49a0-89e7-aac1e24cea46/How%20to%20include%20the%20right%20details%20in%20your%20content%20model.jpg",
+    "id": "eadbdc33-d4f8-404d-88ce-96a95ff5fded"
+  },
+  {
+    "fileName": "How to Keep It Stupid Simple_ Use .NET Core Razor Pages.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/14a923fb-af9b-4e49-a10f-d1fbcea11680/How%20to%20Keep%20It%20Stupid%20Simple_%20Use%20.NET%20Core%20Razor%20Pages.jpg",
+    "id": "4ae0598b-6e4f-41ef-b0f6-8479f7fa1aed"
+  },
+  {
+    "fileName": "How to protect sensitive content in my static web app_.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/ba31d7ec-6247-4614-9b40-a5b3c31fca05/How%20to%20protect%20sensitive%20content%20in%20my%20static%20web%20app_.jpg",
+    "id": "d3021f96-d93c-478d-abfb-682610e737e8"
+  },
+  {
+    "fileName": "How to make the team happy with Hugo and Headless.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/d23f9dc5-f9e6-4249-83e0-e3da0fdf4ca7/How%20to%20make%20the%20team%20happy%20with%20Hugo%20and%20Headless.jpg",
+    "id": "7f41c182-77dd-4059-b416-ac6e5fc992f4"
+  },
+  {
+    "fileName": "How to start AB testing your Next.js site.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/7b5dfeb9-8dfc-4017-a981-25c27ea73836/How%20to%20start%20AB%20testing%20your%20Next.js%20site.jpg",
+    "id": "77919dee-56bc-4001-8950-1750fc915e04"
+  },
+  {
+    "fileName": "How to run scripts before every build on Next.js.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/3d3d9385-ccb1-4e39-8d0f-5df919f69720/How%20to%20run%20scripts%20before%20every%20build%20on%20Next.js.jpg",
+    "id": "f6eb1335-8455-4285-8dc0-c792fbef385b"
+  },
+  {
+    "fileName": "How to test cookies using end-to-end tests and Playwright.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6dba2727-5656-4126-9b57-c1aaebe991b5/How%20to%20test%20cookies%20using%20end-to-end%20tests%20and%20Playwright.jpg",
+    "id": "80c66a1d-d5f7-48dd-b997-867e85682cf9"
+  },
+  {
+    "fileName": "How to trigger a GitHub Action using a webhook (with no code).jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/b749a539-39b6-442a-a475-86e04b6faa02/How%20to%20trigger%20a%20GitHub%20Action%20using%20a%20webhook%20%28with%20no%20code%29.jpg",
+    "id": "b7b199f9-2df2-4055-84a7-1e8120b954da"
+  },
+  {
+    "fileName": "How to unlock multilingual capabilities of your React website.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/059ca3f6-aca4-420a-b03d-2a66659fa972/How%20to%20unlock%20multilingual%20capabilities%20of%20your%20React%20website.jpg",
+    "id": "ec9428ab-bbe2-49ec-ba07-c2d984ccbce5"
+  },
+  {
+    "fileName": "How to use Playwright with Next.js, Vercel, and GitHub.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/fbb92bf5-b58e-4921-b163-7d591c208ddd/How%20to%20use%20Playwright%20with%20Next.js%2C%20Vercel%2C%20and%20GitHub.jpg",
+    "id": "0203af42-d893-4841-9d34-3a69116070b5"
+  },
+  {
+    "fileName": "How to verify and process webhook notifications in Next.js.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/57269c91-25ff-4187-b250-abac3c24e1ca/How%20to%20verify%20and%20process%20webhook%20notifications%20in%20Next.js.jpg",
+    "id": "11e809b3-a589-44d7-b0c9-dc5a291d3c35"
+  },
+  {
+    "fileName": "How to write a powerful headline.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6cadc694-0587-424e-86bd-d4f6f147ce8b/How%20to%20write%20a%20powerful%20headline.jpg",
+    "id": "a5f0b345-45ff-44c1-90ac-e752f5129272"
+  },
+  {
+    "fileName": "How we implemented security in a modern hybrid workplace.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/16d522f7-67bc-4e83-813e-d9b42c8faa8f/How%20we%20implemented%20security%20in%20a%20modern%20hybrid%20workplace.jpg",
+    "id": "7512ccfc-fbc2-4e63-b1fd-a13f0bc9a73c"
+  },
+  {
+    "fileName": "Ignite your knowledge_ New Learn is now live!.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/7031950f-0d7a-4e72-8a5a-994b36b018ec/Ignite%20your%20knowledge_%20New%20Learn%20is%20now%20live%21.jpg",
+    "id": "5572a678-138f-42d3-bd39-f6f5f298130f"
+  },
+  {
+    "fileName": "Implementing emails in 2021_ How to add rounded corners to containers in Outlook.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/2337899d-abef-4033-b47d-597503cba91c/Implementing%20emails%20in%202021_%20How%20to%20add%20rounded%20corners%20to%20containers%20in%20Outlook.jpg",
+    "id": "481e90c8-3d0d-4a3f-8212-4696c33662f6"
+  },
+  {
+    "fileName": "Implementing emails in 2021_ How to create inline tags with vertical alignment that work in Outlook.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/21537933-a151-472f-a231-abdc19786fa6/Implementing%20emails%20in%202021_%20How%20to%20create%20inline%20tags%20with%20vertical%20alignment%20that%20work%20in%20Outlook.jpg",
+    "id": "eb849ac9-ecc8-4085-8e36-b31cbd5a1573"
+  },
+  {
+    "fileName": "Implementing emails in 2021_ Outlook specifics for spacing and vertical alignment in tables.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/1d806cf8-6324-443f-a5c4-2d14944d5c20/Implementing%20emails%20in%202021_%20Outlook%20specifics%20for%20spacing%20and%20vertical%20alignment%20in%20tables.jpg",
+    "id": "38087813-7c06-49c7-98eb-cbbde93c7998"
+  },
+  {
+    "fileName": "How we moved from zero to a viable AI solution with Headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/11cc2dc3-9edf-4cd4-8321-9da9eaece765/How%20we%20moved%20from%20zero%20to%20a%20viable%20AI%20solution%20with%20Headless%20CMS.jpg",
+    "id": "81af9234-fdfb-440e-9b92-b19ca652a059"
+  },
+  {
+    "fileName": "Implementing emails in 2021_ Rounded buttons with shadow that work in Outlook.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6a4c9347-95a6-4a7f-a483-d90b54cbf965/Implementing%20emails%20in%202021_%20Rounded%20buttons%20with%20shadow%20that%20work%20in%20Outlook.jpg",
+    "id": "34ed6e78-7e45-4132-9454-e3d9c7448e8a"
+  },
+  {
+    "fileName": "Improve the modularity of your next user experience project.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/acccc3ad-56f8-4c7c-a593-05d917002bb5/Improve%20the%20modularity%20of%20your%20next%20user%20experience%20project.jpg",
+    "id": "74b62293-b69b-4db2-b758-26b43d855b18"
+  },
+  {
+    "fileName": "Improving compliance in financial content with a headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/7fce4818-ce9e-4b10-b4c1-6c81bb3a6449/Improving%20compliance%20in%20financial%20content%20with%20a%20headless%20CMS.jpg",
+    "id": "04821f82-bfbb-42d7-a2fe-68f113314eb2"
+  },
+  {
+    "fileName": "Inspired or stolen_ How to stop plagiarism before it happens.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/55157df0-d4be-4447-aac8-a9daebdbd56d/Inspired%20or%20stolen_%20How%20to%20stop%20plagiarism%20before%20it%20happens.jpg",
+    "id": "06223fb3-f8c2-4347-927a-61a78d873cd4"
+  },
+  {
+    "fileName": "Introducing Luminary, a leader in digital experiences.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/07670bad-53f3-4fc1-9d2f-49fe39442f95/Introducing%20Luminary%2C%20a%20leader%20in%20digital%20experiences.jpg",
+    "id": "532bfef0-79c8-4a6f-9ca7-ac066868d2c0"
+  },
+  {
+    "fileName": "Kontent.ai Achieves SOC 2 Type 1 Compliance.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6277c966-f3ec-409d-9fb4-d4d5ad727cd3/Kontent.ai%20Achieves%20SOC%202%20Type%201%20Compliance.jpg",
+    "id": "5cde9b09-d58c-4f44-b6e2-d93f98876f3b"
+  },
+  {
+    "fileName": "Kontent.ai appoints new senior executives and joins MACH Alliance to support global expansion.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/94d11888-108f-4eaf-8ddd-55588d6afdcd/Kontent.ai%20appoints%20new%20senior%20executives%20and%20joins%20MACH%20Alliance%20to%20support%20global%20expansion.jpg",
+    "id": "ccc38ac9-e210-4631-ac2d-5788691fc041"
+  },
+  {
+    "fileName": "Kontent.ai builds powerhouse commercial & revenue operations team to foster innovation and drive growth.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/e61a2510-cc28-419b-bbd7-0db577cebf78/Kontent.ai%20builds%20powerhouse%20commercial%20%26%20revenue%20operations%20team%20to%20foster%20innovation%20and%20drive%20growth.jpg",
+    "id": "608b9304-e628-4478-8597-1f31860bba50"
+  },
+  {
+    "fileName": "Kontent.ai Completes SOC 2 Type 2 Examination.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/90c26736-8414-4784-b9fb-8e79967fc67e/Kontent.ai%20Completes%20SOC%202%20Type%202%20Examination.jpg",
+    "id": "cdcd3a90-feea-41db-b4b6-76a58e71081c"
+  },
+  {
+    "fileName": "Kontent.ai expands its MVP program with two new categories.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0cc70533-71e5-40ec-b695-d3edd8fbbc8c/Kontent.ai%20expands%20its%20MVP%20program%20with%20two%20new%20categories.jpg",
+    "id": "3532327d-424e-46eb-a936-79a3e98d1235"
+  },
+  {
+    "fileName": "Kontent.ai has raised $40 million in growth capital.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/779c6427-b036-400b-9f60-bb99dfa50dbd/Kontent.ai%20has%20raised%20%2440%20million%20in%20growth%20capital.jpg",
+    "id": "a992e2d6-2fe8-4810-8021-8adb784808d2"
+  },
+  {
+    "fileName": "Kontent.ai Completes SOC 2 Type 2 Examination-1.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/391a1ab8-ade8-45a2-aeaa-db6a86e32239/Kontent.ai%20Completes%20SOC%202%20Type%202%20Examination-1.jpg",
+    "id": "d69031fd-f53d-4386-9323-52a8c6bc7eeb"
+  },
+  {
+    "fileName": "Kontent.ai hates_ WYSIWYG.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f2219b86-466e-4188-b650-2a421d1b55a8/Kontent.ai%20hates_%20WYSIWYG.jpg",
+    "id": "63923f78-fcb1-4289-b9c0-52f2ffeb36c0"
+  },
+  {
+    "fileName": "Kontent.ai Horizons 2023 in Sydney_ 3 game-changing insights.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/80588d25-6b38-49ae-8ba8-a2a6926ba992/Kontent.ai%20Horizons%202023%20in%20Sydney_%203%20game-changing%20insights.jpg",
+    "id": "8f02f086-a902-45b6-b6b8-20f7695e0109"
+  },
+  {
+    "fileName": "Kontent.ai introduces industry’s first CMS with native AI capabilities-1.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/b9c9e67e-e7a4-4869-a521-1ba76bf68186/Kontent.ai%20introduces%20industry%E2%80%99s%20first%20CMS%20with%20native%20AI%20capabilities-1.jpg",
+    "id": "4fc63bd6-168b-4c31-8350-f1ff94b7c180"
+  },
+  {
+    "fileName": "Kontent.ai introduces industry’s first CMS with native AI capabilities.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/cf7a5945-0b8c-43c8-84c8-d69c79c1f4a0/Kontent.ai%20introduces%20industry%E2%80%99s%20first%20CMS%20with%20native%20AI%20capabilities.jpg",
+    "id": "4e30cb9d-93ac-4f5f-92ab-9d8f435285b4"
+  },
+  {
+    "fileName": "Kontent.ai is the first certified headless CMS on Azure Marketplace.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/4227ae45-57aa-4bcb-b5eb-b181b33bd67a/Kontent.ai%20is%20the%20first%20certified%20headless%20CMS%20on%20Azure%20Marketplace.jpg",
+    "id": "8cb319ca-4a26-4882-85e3-74e7c4d5cad9"
+  },
+  {
+    "fileName": "Kontent.ai joins Cybersecurity Tech Accord.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/94c98477-7063-42d3-92a9-17597b4621c8/Kontent.ai%20joins%20Cybersecurity%20Tech%20Accord.jpg",
+    "id": "1997f131-d823-43e9-a90d-8d85055f33c0"
+  },
+  {
+    "fileName": "Kontent.ai joins the MACH Alliance.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/8fba9397-a569-4344-96bf-a1851457be48/Kontent.ai%20joins%20the%20MACH%20Alliance.jpg",
+    "id": "55515f5d-18c5-45d6-b7a9-c6b2a099d251"
+  },
+  {
+    "fileName": "Kontent.ai launches enhanced Partner Program.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/2d593180-f5a3-4ba8-8f24-2e250bbb8aa0/Kontent.ai%20launches%20enhanced%20Partner%20Program.jpg",
+    "id": "b7101442-2b26-4cf5-b8ce-673768c28657"
+  },
+  {
+    "fileName": "Kontent.ai loves AB tests.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/5aca6766-6b7e-469a-99ba-f4325c183810/Kontent.ai%20loves%20AB%20tests.jpg",
+    "id": "a9b278eb-9bd4-4bd7-9502-b04d63a2140c"
+  },
+  {
+    "fileName": "Kontent.ai loves_ Ads and social media.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/c0c2101c-7646-4eb5-8f8a-4360d15a214d/Kontent.ai%20loves_%20Ads%20and%20social%20media.jpg",
+    "id": "881585ed-7e20-4294-8d40-6bafe494eb76"
+  },
+  {
+    "fileName": "Kontent.ai loves_ Analytics.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/352a4357-eb9c-4d8c-b1a1-6092ab5dbdd7/Kontent.ai%20loves_%20Analytics.jpg",
+    "id": "7101b4a4-fbb5-4ff1-9c3b-88c270c20b22"
+  },
+  {
+    "fileName": "Kontent.ai loves_ Collaboration.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6f8edfb3-1150-43e3-a5fa-5ba14e70f944/Kontent.ai%20loves_%20Collaboration.jpg",
+    "id": "c07777de-e7b9-4671-9c4b-ff97f8363896"
+  },
+  {
+    "fileName": "Kontent.ai loves_ Marketing automation.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/fae5f00e-b41c-4ad8-8b4f-1d22aa7edc4a/Kontent.ai%20loves_%20Marketing%20automation.jpg",
+    "id": "15213a4a-b1fc-4c3a-ae95-1759586da91d"
+  },
+  {
+    "fileName": "Kontent.ai loves_ Landing pages.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/888c34bb-f770-4e2d-a65c-724c28c15950/Kontent.ai%20loves_%20Landing%20pages.jpg",
+    "id": "9fa39947-31ab-4be4-a333-a6373962910d"
+  },
+  {
+    "fileName": "Kontent.ai loves_ SEO.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/7becf100-847b-491f-8fc3-854f66c33b0c/Kontent.ai%20loves_%20SEO.jpg",
+    "id": "b1ae0bed-78f2-4db1-8861-c14d07ba4176"
+  },
+  {
+    "fileName": "Kontent.ai loves_ Personalization.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/1d3a4d65-cb15-4e92-9c59-70af8d652519/Kontent.ai%20loves_%20Personalization.jpg",
+    "id": "06b7f46e-41a8-4fe2-b80d-48e13312aa93"
+  },
+  {
+    "fileName": "Kontent.ai named a Leader in the Enterprise G2 Grid for Headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/c79a04fb-21a9-453b-9314-1919e70afd45/Kontent.ai%20named%20a%20Leader%20in%20the%20Enterprise%20G2%20Grid%20for%20Headless%20CMS.jpg",
+    "id": "e915b9ab-449b-40fe-89b0-a7a9c6ff8577"
+  },
+  {
+    "fileName": "Kontent.ai provides HIPAA compliance for customers.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/2b1541a8-02a4-40f7-9867-7363d93cb6d5/Kontent.ai%20provides%20HIPAA%20compliance%20for%20customers.jpg",
+    "id": "b2244d20-80b8-49b9-8c66-136afcc9c82a"
+  },
+  {
+    "fileName": "Kontent.ai recognized in 2022 Gartner® Market Guide for Web Content Management.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/eef9ead0-4aa3-4af1-9467-e72b1509c160/Kontent.ai%20recognized%20in%202022%20Gartner%C2%AE%20Market%20Guide%20for%20Web%20Content%20Management.jpg",
+    "id": "86440312-ce67-49e5-87c8-9ccd9a58949d"
+  },
+  {
+    "fileName": "Kontent.ai SDLC in Agile Methodology.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f7da22f6-fc74-498b-aac3-e38de473d88f/Kontent.ai%20SDLC%20in%20Agile%20Methodology.jpg",
+    "id": "4131a464-70d7-4e7f-b338-1f647635778d"
+  },
+  {
+    "fileName": "Kontent.ai unveils next-generation AI-powered content management system.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f6e29aa0-c537-4e18-8e62-a7aa94f96be8/Kontent.ai%20unveils%20next-generation%20AI-powered%20content%20management%20system.jpg",
+    "id": "16b2e4dd-4bf5-45cd-a721-88c4495c3f70"
+  },
+  {
+    "fileName": "Kontent.ai welcomes two new Technology MVPs.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/ff1c3d83-9d6d-4e1e-ab32-b70097811d30/Kontent.ai%20welcomes%20two%20new%20Technology%20MVPs.jpg",
+    "id": "11378d40-eaf6-4237-84b9-da75677041a6"
+  },
+  {
+    "fileName": "kontent.ai-announces-new-chief-executive-officer-mark-ruddock.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/41ab4d4c-4682-4933-ad83-0fe639d551f9/kontent.ai-announces-new-chief-executive-officer-mark-ruddock.jpg",
+    "id": "8254caee-e426-4695-bb8c-a9411a1f68b0"
+  },
+  {
+    "fileName": "KONTENTAI EARNS ONE OF THETOP G2 SCORES.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/52349da8-d1f9-42aa-9fb0-6f4ae42d8523/KONTENTAI%20EARNS%20ONE%20OF%20THE%E2%80%A8TOP%20G2%20SCORES.jpg",
+    "id": "00fe2239-6ff4-4ef0-98c8-f058721b2f72"
+  },
+  {
+    "fileName": "Lessons learned from building a reliable educational portal.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/37918068-46f1-45fb-902e-9228ef0de7a6/Lessons%20learned%20from%20building%20a%20reliable%20educational%20portal.jpg",
+    "id": "eccb7941-260b-4d43-9a4f-f385572016b2"
+  },
+  {
+    "fileName": "Leverage technology to enhance content operations.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/af843d90-366e-47d2-bac0-1146689780ed/Leverage%20technology%20to%20enhance%20content%20operations.jpg",
+    "id": "2b5a374c-7e52-4058-85e0-3a071c1b4f7f"
+  },
+  {
+    "fileName": "Looking back at 2023 trends_ Which predictions were spot on_.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/7d0b5282-be8c-4b04-ad4a-55aab352f390/Looking%20back%20at%202023%20trends_%20Which%20predictions%20were%20spot%20on_.jpg",
+    "id": "2f76c7d5-85ca-46e3-a8c7-6ab32372d15f"
+  },
+  {
+    "fileName": "Machine learning - How to ensure labels are smart, not lucky.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/3e36121e-b144-4d87-bc1a-85aefb917792/Machine%20learning%20-%20How%20to%20ensure%20labels%20are%20smart%2C%20not%20lucky.jpg",
+    "id": "dbd6500f-0cfa-4a45-9b8d-63db1e499983"
+  },
+  {
+    "fileName": "Make your design system content-friendly.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/120eea7a-24ae-4333-9571-636439aeb80d/Make%20your%20design%20system%20content-friendly.jpg",
+    "id": "77707f0e-ae6c-4130-9634-08a4916224bf"
+  },
+  {
+    "fileName": "Making DEI actionable, and other takeaways from Women in MACH.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/844a4930-438d-4382-8e7e-e5864819bb28/Making%20DEI%20actionable%2C%20and%20other%20takeaways%20from%20Women%20in%20MACH.jpg",
+    "id": "6ab928be-b992-47f6-8d92-9f66d317f768"
+  },
+  {
+    "fileName": "Manage content and assets across multiple teams and channels.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/221db24c-7fc4-4c93-a4a8-ec56be43c5fc/Manage%20content%20and%20assets%20across%20multiple%20teams%20and%20channels.jpg",
+    "id": "c07a2d0f-fb55-4c30-826e-66084f002705"
+  },
+  {
+    "fileName": "Manage multiple websites efficiently.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a6689b42-59be-4c48-a62c-1131025a4a62/Manage%20multiple%20websites%20efficiently.jpg",
+    "id": "89db544f-a4c9-4a1d-9ce0-dba316db6d15"
+  },
+  {
+    "fileName": "Meet community-minded, customer-centric Konabos.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a4590760-7e7f-4107-9b92-ebe4b04636c7/Meet%20community-minded%2C%20customer-centric%20Konabos.jpg",
+    "id": "dacd15cd-8997-4b5c-a3dd-4ee93c1a85bf"
+  },
+  {
+    "fileName": "Meet MMT, the digital change makers.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/d26df531-cf73-49e1-a3f2-0054627c3697/Meet%20MMT%2C%20the%20digital%20change%20makers.jpg",
+    "id": "7aa9b394-2b8b-4966-b6b3-cc4cbb58af49"
+  },
+  {
+    "fileName": "Migrating content from a monolith CMS to a headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0ba0591f-dfa1-439e-94fb-a6b454a95224/Migrating%20content%20from%20a%20monolith%20CMS%20to%20a%20headless%20CMS.jpg",
+    "id": "be115f68-0e48-46b1-9a49-795589daca80"
+  },
+  {
+    "fileName": "Modular UX using a headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/220402c6-83f2-4c29-bfbb-849c67db9986/Modular%20UX%20using%20a%20headless%20CMS.jpg",
+    "id": "a580a53a-560e-4055-bc00-8a7eea2b61d3"
+  },
+  {
+    "fileName": "OG AI governance in Kontent.ai.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/38b5bab0-ce3f-4c24-a68f-9dfec282c6f3/OG%20AI%20governance%20in%20Kontent.ai.jpg",
+    "id": "3fd58429-bc56-4409-b1ed-ae64d172c686"
+  },
+  {
+    "fileName": "OG Building an agile content pipeline with a headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/7fb4a493-fdbf-4cf3-9f69-257e7ed48668/OG%20Building%20an%20agile%20content%20pipeline%20with%20a%20headless%20CMS.jpg",
+    "id": "978c020f-2fa3-4444-b9d9-9691da0d1456"
+  },
+  {
+    "fileName": "OG Faster time to market drives ROI for CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/b0398f92-9d21-4989-82ec-fd48cc6001e9/OG%20Faster%20time%20to%20market%20drives%20ROI%20for%20CMS.jpg",
+    "id": "97ce6d51-9bc4-4471-9439-5a0ed2416307"
+  },
+  {
+    "fileName": "OG GRM Digital_ Reach your digital potential.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/3cdb0a2b-3a34-40a1-ab78-1eee99abadba/OG%20GRM%20Digital_%20Reach%20your%20digital%20potential.jpg",
+    "id": "7427c05d-7873-49f1-b347-5ba1fecb2219"
+  },
+  {
+    "fileName": "OG How a headless CMS simplifies your tech stack.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6f064866-6dcb-477e-b89e-41ec8abea43c/OG%20How%20a%20headless%20CMS%20simplifies%20your%20tech%20stack.jpg",
+    "id": "d5aacdec-0e9b-43d7-b0f1-e6954bb35c9d"
+  },
+  {
+    "fileName": "OG Make your rich text portable.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/00218489-496f-4227-a617-a0d090407cd6/OG%20Make%20your%20rich%20text%20portable.jpg",
+    "id": "f27fb69d-05d7-44d9-93da-941b20cccdf8"
+  },
+  {
+    "fileName": "OG Meet BizStream_ Where strategy, design, and technology flow together.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/96944d49-d239-4fdb-a10b-12b431c93f01/OG%20Meet%20BizStream_%20Where%20strategy%2C%20design%2C%20and%20technology%20flow%20together.jpg",
+    "id": "5762cb01-d21f-4ad0-a9e4-16647e8ad26e"
+  },
+  {
+    "fileName": "OG Navigating the privacy landscape_ How Kontent.ai upholds data protection.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/212c9bc5-0010-4b2c-a0fd-1ff7338711af/OG%20Navigating%20the%20privacy%20landscape_%20How%20Kontent.ai%20upholds%20data%20protection.jpg",
+    "id": "de6c6197-7961-4470-bf00-f1ced3fcdf97"
+  },
+  {
+    "fileName": "OG Thinklogic_ Solving digital problems with custom solutions.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6c169653-60f3-41ba-93c1-e8ee8f3cea81/OG%20Thinklogic_%20Solving%20digital%20problems%20with%20custom%20solutions.jpg",
+    "id": "4312d2e3-919e-482c-8b67-e451b8a2e254"
+  },
+  {
+    "fileName": "OG Trial.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/04fa3bd9-8cae-47f4-93ca-d1ec7bb6be81/OG%20Trial.jpg",
+    "id": "0b1ec6c4-665e-46ae-91b5-e50a1a90a701"
+  },
+  {
+    "fileName": "OG Step-by-step guide to successful content migration.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/b9778d98-871b-40de-95ea-50706e98da93/OG%20Step-by-step%20guide%20to%20successful%20content%20migration.jpg",
+    "id": "45278be3-b425-47f3-8254-b2a425defa8a"
+  },
+  {
+    "fileName": "OG Turn insights into action with Mission Control.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/01c47aea-3042-4621-b7b7-c7092f6b3b29/OG%20Turn%20insights%20into%20action%20with%20Mission%20Control.jpg",
+    "id": "b46f99e4-dd9e-4f95-b53a-7103f068195e"
+  },
+  {
+    "fileName": "Orchestration in personalization-matching vs. directing.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/1f93e935-a74c-4c47-a802-364b4d02f571/Orchestration%20in%20personalization-matching%20vs.%20directing.jpg",
+    "id": "aeca32e3-1ffa-4483-abc2-1575af345d37"
+  },
+  {
+    "fileName": "Personalizing static sites using Kontent.ai and Pardot.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/3a28fb05-8d5e-4c4f-b64f-47e7b5cddf64/Personalizing%20static%20sites%20using%20Kontent.ai%20and%20Pardot.jpg",
+    "id": "f8a38c78-c852-402e-a9d5-78685c77c522"
+  },
+  {
+    "fileName": "OG What you should know about content localization.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/942f3b7b-c7e5-4b33-9f78-bb495a0acbe3/OG%20What%20you%20should%20know%20about%20content%20localization.jpg",
+    "id": "0f0ca23c-46ab-4ae0-984f-125c4a2a01a7"
+  },
+  {
+    "fileName": "Partner of the Month April 2024.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a9195f4c-0964-4dda-93b5-7de72f1376d6/Partner%20of%20the%20Month%20April%202024.jpg",
+    "id": "f5023a22-5a7b-413c-8c4c-949db122092d"
+  },
+  {
+    "fileName": "Positive-The perfect blend of marketing expertise and technical ability.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0b65277a-0561-4307-8228-75804d1395f6/Positive-The%20perfect%20blend%20of%20marketing%20expertise%20and%20technical%20ability.jpg",
+    "id": "4587ab57-5fe4-485a-a998-b26d52b00e5c"
+  },
+  {
+    "fileName": "Pre-rendered, server-rendered, or hybrid-Which should I use.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/bb31189d-401e-4b44-b3b5-1b181169fbf6/Pre-rendered%2C%20server-rendered%2C%20or%20hybrid-Which%20should%20I%20use.jpg",
+    "id": "5e67b013-c2ca-40d8-acb2-bd7eead60d9c"
+  },
+  {
+    "fileName": "Product security assurance of Kontent.ai-A trustworthy foundation for content management.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/510ba9a9-fec5-42f8-8a52-e19982f4f255/Product%20security%20assurance%20of%20Kontent.ai-A%20trustworthy%20foundation%20for%20content%20management.jpg",
+    "id": "11316c21-8fb5-458d-84d8-9e3bde78535e"
+  },
+  {
+    "fileName": "Q1 2023 release wrap-up - More control over content operations.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/5871d6d3-e77c-47bf-b4e0-036e6094e097/Q1%202023%20release%20wrap-up%20-%20More%20control%20over%20content%20operations.jpg",
+    "id": "4455435e-1804-4a36-a0b7-0a39efca8bd9"
+  },
+  {
+    "fileName": "Q2 2023 release wrap-up - Create great content, faster.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/9a9d2e58-2b93-4f56-829a-2f127ddec4d4/Q2%202023%20release%20wrap-up%20-%20Create%20great%20content%2C%20faster.jpg",
+    "id": "84fa2748-c468-451e-bde1-e8dcd1b226fd"
+  },
+  {
+    "fileName": "Q3 2022 release wrap-up - Tackling complex content operations.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/4aa70567-d53c-4eca-bb7f-43ba9e5c064c/Q3%202022%20release%20wrap-up%20-%20Tackling%20complex%20content%20operations.jpg",
+    "id": "f161637f-798f-4613-92f6-ea700b7ceacb"
+  },
+  {
+    "fileName": "Scale your experience-Connecting content and design modules.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f994d084-9655-4352-8029-9e0aded1bf0c/Scale%20your%20experience-Connecting%20content%20and%20design%20modules.jpg",
+    "id": "225f1a3a-b7e3-467a-a1a5-d682e4e5ad4b"
+  },
+  {
+    "fileName": "Seamless multisite management with Web Spotlight.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/15a5d1a6-875e-464a-9131-d3f418a790eb/Seamless%20multisite%20management%20with%20Web%20Spotlight.jpg",
+    "id": "bafefb22-b5eb-4b34-9ee4-63092410149e"
+  },
+  {
+    "fileName": "Q3 2023 release wrap-up-Achieve an unparalleled return on content.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/20c03afa-4098-48fc-a409-81792dce2d41/Q3%202023%20release%20wrap-up-Achieve%20an%20unparalleled%20return%20on%20content.jpg",
+    "id": "45aeb306-a198-4eea-8bc6-14f141cf414f"
+  },
+  {
+    "fileName": "Searching headless content with Algolia, Rails, Kontent & Next.js.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a8cc422e-784a-4572-a313-ecb4a644bfdf/Searching%20headless%20content%20with%20Algolia%2C%20Rails%2C%20Kontent%20%26%20Next.js.jpg",
+    "id": "8837c162-a884-49a2-a492-c3387caf26f1"
+  },
+  {
+    "fileName": "Searching headless content with Algolia, Rails, Kontent.ai & Next.js.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/544255cb-71b4-4809-90b4-847128fd85cb/Searching%20headless%20content%20with%20Algolia%2C%20Rails%2C%20Kontent.ai%20%26%20Next.js.jpg",
+    "id": "20dcdfbb-3d12-4b67-b531-80d2f20b0c99"
+  },
+  {
+    "fileName": "Security as a business enabler- Building trust and empowering users.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/84eb076b-2da6-4598-9005-ab3c69de9087/Security%20as%20a%20business%20enabler-%20Building%20trust%20and%20empowering%20users.jpg",
+    "id": "7a2746c4-874b-4f07-a4d7-f52dff697c48"
+  },
+  {
+    "fileName": "Sending push notifications from Kontent.ai.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f175ccb2-9e3a-4b6f-b11d-8f9ddbd8273e/Sending%20push%20notifications%20from%20Kontent.ai.jpg",
+    "id": "14c92ad5-b837-4e00-bf33-07091e0290d2"
+  },
+  {
+    "fileName": "Start 2023 off right with Kontent.ai’s yearly release wrap-up.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0c0a2ade-bb4e-456b-a7e7-e16ef6b4a73e/Start%202023%20off%20right%20with%20Kontent.ai%E2%80%99s%20yearly%20release%20wrap-up.jpg",
+    "id": "b171a602-9b3f-4732-8f2c-dc5909c18b03"
+  },
+  {
+    "fileName": "Stop bothering people with reCaptcha, use reCaptcha.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/5661ff0d-b953-4129-9bc3-d945d2412dad/Stop%20bothering%20people%20with%20reCaptcha%2C%20use%20reCaptcha.jpg",
+    "id": "d972eb4a-f447-44f5-a500-40774ddcca6c"
+  },
+  {
+    "fileName": "Shift from on-premise platforms to headless.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/fa3d2e8a-74b9-4211-973c-4c7492507b4b/Shift%20from%20on-premise%20platforms%20to%20headless.jpg",
+    "id": "d5c82245-d2df-4853-a28a-905546d02f4d"
+  },
+  {
+    "fileName": "Structured content as building blocks of the user experience.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/26a65f85-d05d-4740-a939-bbd5423ac217/Structured%20content%20as%20building%20blocks%20of%20the%20user%20experience.jpg",
+    "id": "4384d233-d8ca-466d-9ab7-93e52b754ad3"
+  },
+  {
+    "fileName": "Structured content for timelines.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/366c9259-18a3-4305-9cbe-f478d0949f43/Structured%20content%20for%20timelines.jpg",
+    "id": "3f7c5e2c-f86b-4ae8-8dba-dfe2241ded02"
+  },
+  {
+    "fileName": "Structured rich text rendering in MVC.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f62a67c3-8a3a-4049-9986-7710ba8c3c7d/Structured%20rich%20text%20rendering%20in%20MVC.jpg",
+    "id": "c3974c0e-412a-43c0-a398-26d4a376f41b"
+  },
+  {
+    "fileName": "Supply chain security-How we do it at Kontent.ai.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/107b1a1a-e679-4731-860a-1dc3ad577de0/Supply%20chain%20security-How%20we%20do%20it%20at%20Kontent.ai.jpg",
+    "id": "3d30f827-1eb4-48c9-a7ec-ee3d9a1bbfce"
+  },
+  {
+    "fileName": "Takeaways from Kontent.ai Horizons 2022 in New York.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/6eabe8c9-01a9-49c8-8349-a0e5c2a27d8c/Takeaways%20from%20Kontent.ai%20Horizons%202022%20in%20New%20York.jpg",
+    "id": "6fad8082-00c5-43ad-8fce-9b5d2c4585e6"
+  },
+  {
+    "fileName": "Taking the fear out of deployments with Kontent.ai environments.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/af11c14b-93dc-4bdc-9088-c35138ce42c0/Taking%20the%20fear%20out%20of%20deployments%20with%20Kontent.ai%20environments.jpg",
+    "id": "e1979529-474c-4e36-a146-95b3b5f9ea19"
+  },
+  {
+    "fileName": "The advantages of headless CMS-An in-depth look.png",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/d98c63b5-01df-4e02-a37a-7bc140675b10/The%20advantages%20of%20headless%20CMS-An%20in-depth%20look.png",
+    "id": "42fdaeb6-c9f6-44ba-9716-c0ab8e9e70b4"
+  },
+  {
+    "fileName": "The future of content marketing and 5 trends to expect in 2023.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/9f17792a-8c22-4d0c-bd11-11fd30778b48/The%20future%20of%20content%20marketing%20and%205%20trends%20to%20expect%20in%202023.jpg",
+    "id": "b8c7ab9f-b93d-47eb-9dda-3d4c2d3a922f"
+  },
+  {
+    "fileName": "The power and potential of structured content.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0574d05a-04c2-40dd-8c9a-ed7b94079111/The%20power%20and%20potential%20of%20structured%20content.jpg",
+    "id": "68be8fa8-971f-4f40-8b09-de92a20f870e"
+  },
+  {
+    "fileName": "The rise of JAMstack.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/e2e6917f-09d1-42a6-a51a-25a3a07bedde/The%20rise%20of%20JAMstack.jpg",
+    "id": "7272020c-3df9-40f4-a9aa-834f67b66354"
+  },
+  {
+    "fileName": "The role of governance in preventing content debt.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/5ed11343-74c7-410a-a383-d91ecf506c36/The%20role%20of%20governance%20in%20preventing%20content%20debt.jpg",
+    "id": "ad58ac6d-c416-4150-93c1-e0d2b1a6a2c5"
+  },
+  {
+    "fileName": "The ultimate guide to evergreen content.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/aa4fe2f2-ed9e-45a5-8e51-86a525df7b69/The%20ultimate%20guide%20to%20evergreen%20content.jpg",
+    "id": "1f097eb8-e6dd-4172-860f-adf930cca283"
+  },
+  {
+    "fileName": "The Ultimate Guide to Headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/806fe4be-deed-4b7e-94ab-c2229e7c1e55/The%20Ultimate%20Guide%20to%20Headless%20CMS.jpg",
+    "id": "4542140e-b8ec-42e9-bb08-dc0976358c50"
+  },
+  {
+    "fileName": "Top 10 content marketing tools you need.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/becaf940-eef1-4723-8d46-a5e6c1437b4d/Top%2010%20content%20marketing%20tools%20you%20need.jpg",
+    "id": "f68bac72-be76-4490-839b-3f088964b939"
+  },
+  {
+    "fileName": "Top 2023 trends in MACH-Insights from MACH Alliance members.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/87b3a2c0-f763-4a20-868d-d651ebc359ed/Top%202023%20trends%20in%20MACH-Insights%20from%20MACH%20Alliance%20members.jpg",
+    "id": "8ce311fa-2f86-4965-bf2f-c250fb0e41ce"
+  },
+  {
+    "fileName": "Top headless CMS trends you can’t afford to miss in 2023.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/5395db68-daec-4779-a70a-990575ee8983/Top%20headless%20CMS%20trends%20you%20can%E2%80%99t%20afford%20to%20miss%20in%202023.jpg",
+    "id": "67940042-7391-4201-9282-92b90b401732"
+  },
+  {
+    "fileName": "Understanding the ROI of content production.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/c7425ee1-5c0a-4f93-9c0b-2bb963876dc5/Understanding%20the%20ROI%20of%20content%20production.jpg",
+    "id": "e883649d-d9eb-413b-857f-5e936ba7ab5f"
+  },
+  {
+    "fileName": "Unveiling the Insights-Key Takeaways from MACH2.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a5a8cecd-5c33-4eba-9cd0-9805e0027730/Unveiling%20the%20Insights-Key%20Takeaways%20from%20MACH2.jpg",
+    "id": "3e3f94fc-0e63-4ce9-9e40-3055310d71a4"
+  },
+  {
+    "fileName": "Using content models for custom variations.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/efdb934d-6bff-410d-b847-7c63ef586833/Using%20content%20models%20for%20custom%20variations.jpg",
+    "id": "6a2bed45-edd3-4023-a814-bd682163336a"
+  },
+  {
+    "fileName": "Using content models to support reuse.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a8d7748e-3dcf-4cce-a9f2-4a824eb2f358/Using%20content%20models%20to%20support%20reuse.jpg",
+    "id": "6dfcfc52-58f3-401d-aa8e-3781b9b8890e"
+  },
+  {
+    "fileName": "What does native GraphQL support in Kontent bring for devs_.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a4b1f809-1e85-4dca-9baf-1f072588ed62/What%20does%20native%20GraphQL%20support%20in%20Kontent%20bring%20for%20devs_.jpg",
+    "id": "d3617185-7804-40c7-ba39-46dc406feec5"
+  },
+  {
+    "fileName": "What is a cloud CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/e4d2fc80-bb6b-4e3e-ad73-8663cedb5ab7/What%20is%20a%20cloud%20CMS.jpg",
+    "id": "2f3b87a4-e5e2-47ea-90b3-95036068950c"
+  },
+  {
+    "fileName": "What is a static website and how to create one.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/36a24ea5-5988-41f9-aafa-6e0a1236baf0/What%20is%20a%20static%20website%20and%20how%20to%20create%20one.jpg",
+    "id": "77e0a0c8-4469-42de-99e3-19efc3700a8d"
+  },
+  {
+    "fileName": "What’s the best CMS for SEO.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/b66e6b2b-d45a-4b9e-b7e2-0868adabd8f8/What%E2%80%99s%20the%20best%20CMS%20for%20SEO.jpg",
+    "id": "931f2ef5-a37a-4c1c-b568-dd054d9a151a"
+  },
+  {
+    "fileName": "Where is my WYSIWYG page builder.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/b25aa18d-0ca1-489a-aa19-f0c31e490060/Where%20is%20my%20WYSIWYG%20page%20builder.jpg",
+    "id": "c772c4a0-072d-4cc3-a0eb-dd0943b1717b"
+  },
+  {
+    "fileName": "Why is securing AI important.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/47d53b43-ce6b-44da-aa9a-36cd26eab46f/Why%20is%20securing%20AI%20important.jpg",
+    "id": "ca2f3476-4c7a-4d81-8f2f-c105a29774f4"
+  },
+  {
+    "fileName": "Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt_.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/f5036589-d3f2-42a0-a54d-fbb0725ddaac/Why%20is%20Next.js%20my%20ultimate%20choice%20over%20Gatsby%2C%20Gridsome%2C%20and%20Nuxt_.jpg",
+    "id": "839c90bc-8e47-43c9-98e6-fcb40ef419b7"
+  },
+  {
+    "fileName": "Why manufacturers rely on Kontent.ai.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/d666f971-381c-4bd7-aa5f-1c39287f2823/Why%20manufacturers%20rely%20on%20Kontent.ai.jpg",
+    "id": "819545f6-7453-4964-84d7-30ff3dc55b0c"
+  },
+  {
+    "fileName": "Why structured writing needs structured content.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/9434a806-6960-4d10-82a0-2ea2237c10b1/Why%20structured%20writing%20needs%20structured%20content.jpg",
+    "id": "3fb93dd8-23bb-460e-9801-9091d2eb70e8"
+  },
+  {
+    "fileName": "Why the DXP experience is broken and how to build a better one.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/0cffe790-f1ce-4d1b-b2e4-cdbdb70b94a5/Why%20the%20DXP%20experience%20is%20broken%20and%20how%20to%20build%20a%20better%20one.jpg",
+    "id": "2a532136-2571-4e90-9b56-615499ad4517"
+  },
+  {
+    "fileName": "Why you need better data governance and security from your headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a7cf7b96-df07-407d-b1d6-a9263571190e/Why%20you%20need%20better%20data%20governance%20and%20security%20from%20your%20headless%20CMS.jpg",
+    "id": "c0eac564-66df-4df6-b43b-de65c7cc5f0c"
+  },
+  {
+    "fileName": "Why you should ditch DITA and adopt headless instead.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/a0cd6edf-61af-467a-9b19-e4fe7ddafff5/Why%20you%20should%20ditch%20DITA%20and%20adopt%20headless%20instead.jpg",
+    "id": "20ae75e1-0133-4e16-bc94-dc0031f912d8"
+  },
+  {
+    "fileName": "Why you should use Figma with a headless CMS.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/c09e278f-5f16-4c0d-b5cb-ed1edbee2b05/Why%20you%20should%20use%20Figma%20with%20a%20headless%20CMS.jpg",
+    "id": "6a3dfe9f-6a8a-4ffa-b654-63259f7358dd"
+  },
+  {
+    "fileName": "Wind down with Kontent.ai’s 2023 feature wrap-up.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/e75ed7ac-4574-4c6f-8471-d2b4d03f0a19/Wind%20down%20with%20Kontent.ai%E2%80%99s%202023%20feature%20wrap-up.jpg",
+    "id": "e5de9d2f-4fba-45a3-883e-cc83705c9969"
+  },
+  {
+    "fileName": "Your content efficiency needs attention – Generative AI can help.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/eb723855-0809-4ee6-be2f-18ce6402ddf0/Your%20content%20efficiency%20needs%20attention%20%E2%80%93%20Generative%20AI%20can%20help.jpg",
+    "id": "70171e5d-b2c0-44df-8bb3-0a5126acef6c"
+  },
+  {
+    "fileName": "Your content efficiency needs attention-Generative AI can help.jpg",
+    "url": "https://assets.kontent.ai/0f95ca41-1323-0068-c0ab-105275b8f42c/67bb4226-c090-4532-90b3-23c74a274031/Your%20content%20efficiency%20needs%20attention-Generative%20AI%20can%20help.jpg",
+    "id": "edc0e605-3432-4980-95ef-f38ab5f32a45"
+  }
+]

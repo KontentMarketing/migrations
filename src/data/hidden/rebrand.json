@@ -1,0 +1,52 @@
+[
+  {
+    "codename": "_hidden_copy____homepage",
+    "slug": "headless-cms-kw",
+    "page_type": "special"
+  },
+  {
+    "codename": "_hidden_copy____homepage___ppc___best_headless_cms",
+    "slug": "best-headless-cms-ppc",
+    "page_type": "special"
+  },
+  {
+    "codename": "_hidden_copy____homepage___ppc___cloud_headless_cm",
+    "slug": "cloud-headless-cms-ppc",
+    "page_type": "special"
+  },
+  {
+    "codename": "_hidden_copy____homepage___ppc___content_managemen",
+    "slug": "content-management-system-ppc",
+    "page_type": "special"
+  },
+  {
+    "codename": "_hidden_copy____homepage___ppc___headless_cms_feat",
+    "slug": "headless-features-ppc",
+    "page_type": "special"
+  },
+  {
+    "codename": "_hidden_copy____homepage___ppc___headless_commerce",
+    "slug": "headless-cms-ppc",
+    "page_type": "special"
+  },
+  {
+    "codename": "_hidden_copy____homepage__copy_",
+    "slug": "enterprise-cms-ppc",
+    "page_type": "special"
+  },
+  {
+    "codename": "_test____component_guide_2",
+    "slug": "visual-guide-2",
+    "page_type": "special"
+  },
+  {
+    "codename": "visual_guide_for_umlps",
+    "slug": "umlp-visual-guide",
+    "page_type": "landing_page"
+  },
+  {
+    "codename": "work_in_progress___simplified_tco_calculator",
+    "slug": "tco-calculator",
+    "page_type": "special"
+  }
+]
