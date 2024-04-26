@@ -109,12 +109,12 @@ export type IntegrationModel = IContentItem<{
   heroCtaButton: Elements.LinkedItemsElement<SharedContentModel>;
 
   /**
-   * Video section heading (text)
+   * Video Section Heading (rich_text)
    * Required: false
-   * Id: 85f4d7be-473f-4489-a456-527302b22fb1
-   * Codename: video_section_heading
+   * Id: 38052ae7-34a8-410f-8194-28bc2163d450
+   * Codename: video_section_heading__rich
    */
-  videoSectionHeading: Elements.TextElement;
+  videoSectionHeadingRich: Elements.RichTextElement;
 
   /**
    * Video section text (rich_text)

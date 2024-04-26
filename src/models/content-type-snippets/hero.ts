@@ -16,6 +16,14 @@ export type Hero = IContentItem<{
   heroTitle: Elements.TextElement;
 
   /**
+   * Title - rich (rich_text)
+   * Required: false
+   * Id: ab2a00f2-dbeb-4979-bc8c-15525a45f9cd
+   * Codename: hero__title___rich
+   */
+  heroTitleRich: Elements.RichTextElement;
+
+  /**
    * Perex (rich_text)
    * Required: false
    * Id: a48c30cb-b5e7-65b4-bda6-8da2363a089e

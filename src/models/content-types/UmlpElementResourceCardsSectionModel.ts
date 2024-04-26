@@ -10,12 +10,12 @@ import { ResourceModel } from './ResourceModel';
  */
 export type UmlpElementResourceCardsSectionModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: d6b4a93b-c79f-4097-83b4-6525ff427475
-   * Codename: heading
+   * Id: d14c3228-76ff-4155-8ebd-f0e01f3d8669
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (rich_text)

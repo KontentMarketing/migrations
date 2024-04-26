@@ -10,14 +10,12 @@ import { ModularItemCardElementModel } from './ModularItemCardElementModel';
  */
 export type UmlpElementCardsModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: 0d450593-1ceb-4a68-983d-27f1865ff6e2
-   * Codename: heading
-   *
-   * Optional
+   * Id: 2d9e5705-e51b-4138-b5bb-0a85c605b1a1
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Cards (modular_content)

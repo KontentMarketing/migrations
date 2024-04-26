@@ -10,14 +10,12 @@ import { ComponentTimelineSliderSlideModel } from './ComponentTimelineSliderSlid
  */
 export type UmlpElementTimelineSliderModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: d578d9f8-7259-4335-8e7f-28fbbee254b6
-   * Codename: heading
-   *
-   * Optional section heading
+   * Id: 2f8feb37-4e2a-4651-be67-ab92fb686ab2
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Slides (modular_content)

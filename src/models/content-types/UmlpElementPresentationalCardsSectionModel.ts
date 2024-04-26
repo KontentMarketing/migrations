@@ -10,12 +10,12 @@ import { PresentationalCardModel } from './PresentationalCardModel';
  */
 export type UmlpElementPresentationalCardsSectionModel = IContentItem<{
   /**
-   * Heading (text)
-   * Required: true
-   * Id: e5cb3c1b-20c4-4734-987d-3d3306d6465b
-   * Codename: heading
+   * Heading (rich_text)
+   * Required: false
+   * Id: d72fd8b1-c864-4df7-ae2c-0ef8982f2dd5
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Cards (modular_content)

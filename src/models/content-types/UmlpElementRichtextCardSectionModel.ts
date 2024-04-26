@@ -37,4 +37,14 @@ export type UmlpElementRichtextCardSectionModel = IContentItem<{
    * Optional CTA
    */
   cta: Elements.LinkedItemsElement<SharedContentModel>;
+
+  /**
+   * Format (multiple_choice)
+   * Required: false
+   * Id: 8b6220f9-dd16-4dbe-a956-490f03933013
+   * Codename: format
+   *
+   * Pick between 2 or 3 column layout
+   */
+  format: Elements.MultipleChoiceElement;
 }>;

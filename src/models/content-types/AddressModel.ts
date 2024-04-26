@@ -12,7 +12,7 @@ import { CountryModel } from './CountryModel';
 export type AddressModel = IContentItem<{
   /**
    * Name (text)
-   * Required: true
+   * Required: false
    * Id: 89e68b66-7e17-4a30-a406-5c648471116f
    * Codename: name
    *
@@ -22,7 +22,7 @@ export type AddressModel = IContentItem<{
 
   /**
    * Street (text)
-   * Required: true
+   * Required: false
    * Id: 60f106d7-c7dc-45ef-aa47-7d58d8ab1e0b
    * Codename: street
    */
@@ -50,7 +50,7 @@ export type AddressModel = IContentItem<{
 
   /**
    * Postal code (text)
-   * Required: true
+   * Required: false
    * Id: c5f17c87-ca50-454b-a882-02fd5475c613
    * Codename: postal_code
    *
@@ -60,7 +60,7 @@ export type AddressModel = IContentItem<{
 
   /**
    * City (text)
-   * Required: true
+   * Required: false
    * Id: 6174ffbc-e0d4-380d-01c4-58e92f6869d6
    * Codename: city
    */

@@ -8,12 +8,12 @@ import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
  */
 export type CareersJobOpportunitiesModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: true
-   * Id: de32b5ea-0127-4cd4-bcb1-d28320654cf5
-   * Codename: heading
+   * Id: 23e702e9-199c-4c07-a30d-3c32138e621d
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Appendix (rich_text)

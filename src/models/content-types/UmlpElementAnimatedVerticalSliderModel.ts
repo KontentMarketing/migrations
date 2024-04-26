@@ -16,4 +16,22 @@ export type UmlpElementAnimatedVerticalSliderModel = IContentItem<{
    * Codename: slides
    */
   slides: Elements.LinkedItemsElement<UmlpElementAnimatedVerticalSliderSlideModel>;
+
+  /**
+   * Variant (multiple_choice)
+   * Required: true
+   * Id: 438762ef-0ca2-41d6-b14e-6a5a008c74e0
+   * Codename: variant
+   */
+  variant: Elements.MultipleChoiceElement;
+
+  /**
+   * Image position (multiple_choice)
+   * Required: true
+   * Id: 7d783989-6163-41fe-befc-a895262dcd53
+   * Codename: image_position
+   *
+   * Only affecting the slider in split screen mode
+   */
+  imagePosition: Elements.MultipleChoiceElement;
 }>;

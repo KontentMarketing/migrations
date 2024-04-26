@@ -1,5 +1,6 @@
 import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
 import { Hero } from '../content-type-snippets/hero';
+import { ResourceModel } from './ResourceModel';
 import { CtaBannerComponentModel } from './CtaBannerComponentModel';
 import { Metadata } from '../content-type-snippets/metadata';
 import { SitemapMetadata } from '../content-type-snippets/sitemap_metadata';
@@ -12,6 +13,14 @@ import { SitemapMetadata } from '../content-type-snippets/sitemap_metadata';
  * Codename: resource_page
  */
 export type ResourcePageModel = IContentItem<{
+  /**
+   * Featured resource (modular_content)
+   * Required: true
+   * Id: dd10f207-5b5a-4b6b-8569-ed5b889c62b9
+   * Codename: featured_resource
+   */
+  featuredResource: Elements.LinkedItemsElement<ResourceModel>;
+
   /**
    * Image (asset)
    * Required: true

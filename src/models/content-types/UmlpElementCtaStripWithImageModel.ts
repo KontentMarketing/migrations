@@ -10,12 +10,12 @@ import { SharedContentModel } from './SharedContentModel';
  */
 export type UmlpElementCtaStripWithImageModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: true
-   * Id: e6e10918-2ae6-4285-bd4d-1de989a7952b
-   * Codename: heading
+   * Id: 1f2267c6-f8b5-4c5c-9254-24e0cae0b369
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (rich_text)

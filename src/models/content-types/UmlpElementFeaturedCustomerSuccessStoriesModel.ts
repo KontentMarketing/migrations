@@ -10,12 +10,12 @@ import { CaseStudyModel } from './CaseStudyModel';
  */
 export type UmlpElementFeaturedCustomerSuccessStoriesModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: d2cd9955-31a5-4b33-89a4-edfee22caeb7
-   * Codename: heading
+   * Id: 7ca4d68e-0cce-4a69-83ba-4e5fae1b614c
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Hide quotes (multiple_choice)

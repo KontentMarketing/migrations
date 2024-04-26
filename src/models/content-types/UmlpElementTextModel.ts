@@ -8,6 +8,14 @@ import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
  */
 export type UmlpElementTextModel = IContentItem<{
   /**
+   * Heading (rich_text)
+   * Required: false
+   * Id: 4810c412-bcd5-4184-8bbc-386a9eb5261d
+   * Codename: heading
+   */
+  heading: Elements.RichTextElement;
+
+  /**
    * Text (rich_text)
    * Required: false
    * Id: caa164be-ebfc-4e42-8c50-38b3015992fc

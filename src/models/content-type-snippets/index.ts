@@ -1,3 +1,4 @@
+export * from './color_variant';
 export * from './hero_kk';
 export * from './sitemap_metadata';
 export * from './xl_heading';

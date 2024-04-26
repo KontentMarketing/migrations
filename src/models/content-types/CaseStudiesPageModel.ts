@@ -2,7 +2,9 @@ import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
 import { Hero } from '../content-type-snippets/hero';
 import { UmlpElementFeaturedCustomerSuccessStoriesModel } from './UmlpElementFeaturedCustomerSuccessStoriesModel';
 import { UmlpElementLogosCustomModel } from './UmlpElementLogosCustomModel';
+import { UmlpElementG2BadgesModel } from './UmlpElementG2BadgesModel';
 import { CaseStudyModel } from './CaseStudyModel';
+import { CtaBannerComponentModel } from './CtaBannerComponentModel';
 import { SitemapMetadata } from '../content-type-snippets/sitemap_metadata';
 
 /**
@@ -28,6 +30,14 @@ export type CaseStudiesPageModel = IContentItem<{
    * Codename: logo_slider
    */
   logoSlider: Elements.LinkedItemsElement<UmlpElementLogosCustomModel>;
+
+  /**
+   * G2 Awards (modular_content)
+   * Required: false
+   * Id: 4be5d4b2-cb4e-4f03-8f22-aa0535e425d3
+   * Codename: g2_awards
+   */
+  g2Awards: Elements.LinkedItemsElement<UmlpElementG2BadgesModel>;
 
   /**
    * Title (text)
@@ -78,6 +88,14 @@ export type CaseStudiesPageModel = IContentItem<{
    * Codename: metadata_image
    */
   metadataImage: Elements.AssetsElement;
+
+  /**
+   * CTA Section (modular_content)
+   * Required: false
+   * Id: aa647290-79c1-4a76-9a92-7c110acaf094
+   * Codename: cta_section
+   */
+  ctaSection: Elements.LinkedItemsElement<CtaBannerComponentModel>;
 }> &
   Hero &
   SitemapMetadata;

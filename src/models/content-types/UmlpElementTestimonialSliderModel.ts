@@ -11,12 +11,20 @@ import { SharedContentModel } from './SharedContentModel';
  */
 export type UmlpElementTestimonialSliderModel = IContentItem<{
   /**
-   * Heading (text)
-   * Required: false
-   * Id: d3386296-5f44-4be9-9388-1b7014b04583
-   * Codename: heading
+   * Type (multiple_choice)
+   * Required: true
+   * Id: c9da29cf-6d1a-4cda-9b10-97a244ce770c
+   * Codename: type
    */
-  heading: Elements.TextElement;
+  type: Elements.MultipleChoiceElement;
+
+  /**
+   * Heading (rich_text)
+   * Required: false
+   * Id: bd610944-f712-456e-aa2c-22418c09001f
+   * Codename: heading__rich
+   */
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (rich_text)

@@ -8,10 +8,10 @@ import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
  */
 export type UmlpElementTcoCalculatorFormModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: true
-   * Id: 1df77a9a-eba1-4f46-81a7-7bc173811530
-   * Codename: heading
+   * Id: 601e497c-e048-4821-babe-05fb6f9ac988
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 }>;

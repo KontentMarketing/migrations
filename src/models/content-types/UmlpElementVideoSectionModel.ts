@@ -10,12 +10,12 @@ import { ContentItemYoutubeVideoModel } from './ContentItemYoutubeVideoModel';
  */
 export type UmlpElementVideoSectionModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: 9ccccae7-b140-41dd-9349-83d05d52a4e6
-   * Codename: heading
+   * Id: 9ab0fe6a-10b0-45f7-9b4d-a81a8afd9b06
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (rich_text)

@@ -20,14 +20,12 @@ export type HighlightedFeatureModel = IContentItem<{
   image: Elements.AssetsElement;
 
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: c6582dbf-bfde-4111-a8ba-becc239951cf
-   * Codename: heading
-   *
-   * Main heading
+   * Id: 77339557-e35d-4516-98ff-6443bce55ace
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Tag text (text)

@@ -27,6 +27,16 @@ export type BubbleCardModel = IContentItem<{
   text: Elements.RichTextElement;
 
   /**
+   * Image (asset)
+   * Required: false
+   * Id: 2c4cf0b6-e5b5-4270-ab6d-744ea80ad219
+   * Codename: image
+   *
+   * Background image
+   */
+  image: Elements.AssetsElement;
+
+  /**
    * Bubbles (modular_content)
    * Required: true
    * Id: 41f77234-a3dd-48c4-a5e4-c5a52c0f09c8

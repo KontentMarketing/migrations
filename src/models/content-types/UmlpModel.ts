@@ -27,7 +27,6 @@ import { UmlpElementTextImageBlockModel } from './UmlpElementTextImageBlockModel
 import { UmlpElementFullWidthImageModel } from './UmlpElementFullWidthImageModel';
 import { HighlightedFeatureModel } from './HighlightedFeatureModel';
 import { UmlpElementHeroModel } from './UmlpElementHeroModel';
-import { UmlpElementPartnerSuccessStoriesShowcaseModel } from './UmlpElementPartnerSuccessStoriesShowcaseModel';
 import { UmlpElementJamstackEnterpriseLandscapeModel } from './UmlpElementJamstackEnterpriseLandscapeModel';
 import { SolutionsPageCustomProductCapabilityModel } from './SolutionsPageCustomProductCapabilityModel';
 import { UmlpElementIntegrationsModel } from './UmlpElementIntegrationsModel';
@@ -115,7 +114,6 @@ import { UmlpElementElementGroupsModel } from './UmlpElementElementGroupsModel';
 import { UmlpElementGreenCardsModel } from './UmlpElementGreenCardsModel';
 import { UmlpElementHomeHeroSectionModel } from './UmlpElementHomeHeroSectionModel';
 import { UmlpElementPricingHeroSectionWithTableModel } from './UmlpElementPricingHeroSectionWithTableModel';
-import { UmlpElementFaqWithCategoriesModel } from './UmlpElementFaqWithCategoriesModel';
 import { UmlpElementAnimatedVerticalSliderModel } from './UmlpElementAnimatedVerticalSliderModel';
 import { UmlpElementHorizontalCardCarouselModel } from './UmlpElementHorizontalCardCarouselModel';
 import { UmlpElementImageCarouselModel } from './UmlpElementImageCarouselModel';
@@ -126,6 +124,8 @@ import { UmlpElementContentBlocksWithAssetModel } from './UmlpElementContentBloc
 import { UmlpElementScheduleDemoFormModel } from './UmlpElementScheduleDemoFormModel';
 import { UmlpElementCustomerSuccessStorySliderModel } from './UmlpElementCustomerSuccessStorySliderModel';
 import { UmlpElementExpandableSliderModel } from './UmlpElementExpandableSliderModel';
+import { UmlpElementExpandableGridModel } from './UmlpElementExpandableGridModel';
+import { UmlpElementStaticLogosModel } from './UmlpElementStaticLogosModel';
 import { Metadata } from '../content-type-snippets/metadata';
 import { SitemapMetadata } from '../content-type-snippets/sitemap_metadata';
 
@@ -188,7 +188,6 @@ export type UmlpModel = IContentItem<{
     | UmlpElementFullWidthImageModel
     | HighlightedFeatureModel
     | UmlpElementHeroModel
-    | UmlpElementPartnerSuccessStoriesShowcaseModel
     | UmlpElementJamstackEnterpriseLandscapeModel
     | SolutionsPageCustomProductCapabilityModel
     | UmlpElementIntegrationsModel
@@ -276,7 +275,6 @@ export type UmlpModel = IContentItem<{
     | UmlpElementGreenCardsModel
     | UmlpElementHomeHeroSectionModel
     | UmlpElementPricingHeroSectionWithTableModel
-    | UmlpElementFaqWithCategoriesModel
     | UmlpElementAnimatedVerticalSliderModel
     | UmlpElementHorizontalCardCarouselModel
     | UmlpElementImageCarouselModel
@@ -287,6 +285,8 @@ export type UmlpModel = IContentItem<{
     | UmlpElementScheduleDemoFormModel
     | UmlpElementCustomerSuccessStorySliderModel
     | UmlpElementExpandableSliderModel
+    | UmlpElementExpandableGridModel
+    | UmlpElementStaticLogosModel
   >;
 
   /**

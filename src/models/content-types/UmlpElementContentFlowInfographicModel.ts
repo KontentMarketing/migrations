@@ -8,12 +8,14 @@ import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
  */
 export type UmlpElementContentFlowInfographicModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: true
-   * Id: e3d29829-2ad9-4544-8ecc-3813e1f00e9b
-   * Codename: heading
+   * Id: c3b109d6-308f-47bb-8fe2-03a4dffb4c26
+   * Codename: heading__rich
+   *
+   * New heading field which allows text highlighting
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (rich_text)

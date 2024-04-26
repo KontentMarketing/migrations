@@ -37,14 +37,6 @@ export type PartnerModel = IContentItem<{
   partnerLevel: Elements.MultipleChoiceElement;
 
   /**
-   * Content Modeling Certified (multiple_choice)
-   * Required: true
-   * Id: 7253c2a6-30ad-482b-b60b-a974945349f3
-   * Codename: content_modeling_certified
-   */
-  contentModelingCertified: Elements.MultipleChoiceElement;
-
-  /**
    * Logo (asset)
    * Required: false
    * Id: 4dd9b6e2-716e-4fa2-6a6a-187229354825

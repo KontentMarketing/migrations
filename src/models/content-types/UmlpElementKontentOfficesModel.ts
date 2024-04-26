@@ -18,12 +18,12 @@ export type UmlpElementKontentOfficesModel = IContentItem<{
   locations: Elements.LinkedItemsElement<OfficeModel>;
 
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: true
-   * Id: 301239b1-6867-4d7b-a156-de2d758fa877
-   * Codename: heading
+   * Id: a9546f57-835e-4dce-afa5-059051aa4c98
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (rich_text)

@@ -10,12 +10,12 @@ import { CompanyValueModel } from './CompanyValueModel';
  */
 export type CareersOurValuesModel = IContentItem<{
   /**
-   * Heading (text)
-   * Required: true
-   * Id: 6415f29e-ecbf-46fe-8658-a38fb24df286
-   * Codename: heading
+   * Heading (rich_text)
+   * Required: false
+   * Id: 06206d26-0c1c-45ba-aa2a-db19a634a63b
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Values (modular_content)

@@ -10,12 +10,32 @@ import { LogoModel } from './LogoModel';
  */
 export type UmlpElementLogosCustomModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: c299d3a3-1b1f-4e60-a407-e796da0867db
-   * Codename: heading
+   * Id: 33d90825-0c7d-419d-8659-635226cfbdaa
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
+
+  /**
+   * Smaller heading (multiple_choice)
+   * Required: false
+   * Id: ed6dabfc-8ef0-4ccf-9b8c-6bd596bac1ca
+   * Codename: smaller_heading
+   *
+   * Smaller 22px heading (default is 44px - standard h2)
+   */
+  smallerHeading: Elements.MultipleChoiceElement;
+
+  /**
+   * Smaller indent (multiple_choice)
+   * Required: false
+   * Id: 86d0cbd1-a413-4fa4-8588-d240c92b312b
+   * Codename: smaller_indent
+   *
+   * Decreases the space between the slider and the previous section from the standard 200 or so px to 120px
+   */
+  smallerIndent: Elements.MultipleChoiceElement;
 
   /**
    * Logo size (multiple_choice)

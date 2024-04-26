@@ -40,4 +40,14 @@ export type UmlpElementAchievementsModel = IContentItem<{
    * Codename: display_type
    */
   displayType: Elements.MultipleChoiceElement;
+
+  /**
+   * Format (multiple_choice)
+   * Required: false
+   * Id: 9fb7c975-7a96-408b-a59e-291914eacedf
+   * Codename: format
+   *
+   * 3 column vs 2 column layout
+   */
+  format: Elements.MultipleChoiceElement;
 }>;

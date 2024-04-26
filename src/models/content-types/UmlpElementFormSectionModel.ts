@@ -10,12 +10,12 @@ import { UmlpElementHeroFormModel } from './UmlpElementHeroFormModel';
  */
 export type UmlpElementFormSectionModel = IContentItem<{
   /**
-   * Heading (text)
-   * Required: true
-   * Id: b81a6337-f389-46fe-81bb-9f976c30154c
-   * Codename: heading
+   * Heading (rich_text)
+   * Required: false
+   * Id: 608316f6-6f6f-4d8f-b8c0-bfa21d85ca89
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (rich_text)

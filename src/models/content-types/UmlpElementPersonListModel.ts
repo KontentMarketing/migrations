@@ -10,12 +10,12 @@ import { PersonModel } from './PersonModel';
  */
 export type UmlpElementPersonListModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: b3115947-7624-4d84-af29-2987f05ccae9
-   * Codename: heading
+   * Id: 66258310-d5bb-4194-947c-368c48de9361
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * People (modular_content)

@@ -11,12 +11,12 @@ import { SharedContentModel } from './SharedContentModel';
  */
 export type UmlpElementTextBubblesBlockModel = IContentItem<{
   /**
-   * Heading (text)
-   * Required: true
-   * Id: 5361ba16-6fa2-4e3b-9ae4-6485425b3d8d
-   * Codename: heading
+   * Heading (rich_text)
+   * Required: false
+   * Id: 8f259c58-0009-430d-ac8c-12b5fbe43b8f
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (rich_text)
@@ -45,22 +45,18 @@ export type UmlpElementTextBubblesBlockModel = IContentItem<{
   cta: Elements.LinkedItemsElement<SharedContentModel>;
 
   /**
-   * Theme (multiple_choice)
-   * Required: true
-   * Id: 44621106-7ad9-41f2-9279-8ab83230a3f9
-   * Codename: theme
-   *
-   * Select background color of the section. Default color is white.
+   * Format (multiple_choice)
+   * Required: false
+   * Id: ede88f68-7ff3-4eb8-a445-c4ffe3684f5e
+   * Codename: format
    */
-  theme: Elements.MultipleChoiceElement;
+  format: Elements.MultipleChoiceElement;
 
   /**
-   * Text position (multiple_choice)
-   * Required: true
-   * Id: c361fb53-f0cf-4824-bcec-720c8294b038
-   * Codename: text_position
-   *
-   * Position of the text. Default behaviour is text on the left, bubbles on the right.
+   * Background (multiple_choice)
+   * Required: false
+   * Id: 60efd189-45f0-44e3-9e26-000485df9472
+   * Codename: background
    */
-  textPosition: Elements.MultipleChoiceElement;
+  background: Elements.MultipleChoiceElement;
 }>;

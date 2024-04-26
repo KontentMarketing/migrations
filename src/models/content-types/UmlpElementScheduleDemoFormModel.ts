@@ -24,4 +24,12 @@ export type UmlpElementScheduleDemoFormModel = IContentItem<{
    * Codename: cards
    */
   cards: Elements.LinkedItemsElement<ModularItemCardElementModel>;
+
+  /**
+   * Thank you (rich_text)
+   * Required: true
+   * Id: 10b7fdd6-26e9-4f1e-a2a6-efcfafdd78f6
+   * Codename: thank_you
+   */
+  thankYou: Elements.RichTextElement;
 }>;

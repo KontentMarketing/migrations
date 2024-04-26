@@ -8,12 +8,12 @@ import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
  */
 export type NewsletterSectionModel = IContentItem<{
   /**
-   * Heading (text)
-   * Required: true
-   * Id: a1f129f1-e97a-4393-9dec-13ed08323d19
-   * Codename: heading
+   * Heading (rich_text)
+   * Required: false
+   * Id: 8669a39f-f684-4161-becf-c9687fe2a2fe
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Text (text)

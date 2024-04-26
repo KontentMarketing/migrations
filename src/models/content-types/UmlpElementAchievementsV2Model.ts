@@ -10,12 +10,12 @@ import { AchievementModel } from './AchievementModel';
  */
 export type UmlpElementAchievementsV2Model = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: c4338b64-7218-4a5d-9418-8d77ebe403d2
-   * Codename: heading
+   * Id: cfecfcff-9dba-4264-9760-7091a7403997
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Achievements (modular_content)
@@ -34,4 +34,14 @@ export type UmlpElementAchievementsV2Model = IContentItem<{
    * We have 2 visuals available for this component. Have a look at our visual guide under *UMLP element - Achievements v2* and pick accordingly to your preference.Guide URL: https://kontent-ai.atlassian.net/wiki/spaces/KMT/pages/24871043/Kontent.ai+UMLP+Components+overview
    */
   theme: Elements.MultipleChoiceElement;
+
+  /**
+   * Format (multiple_choice)
+   * Required: false
+   * Id: b200fd88-fd77-45bf-a1c5-a4f8bc823729
+   * Codename: format
+   *
+   * 3 column vs 2 column layout
+   */
+  format: Elements.MultipleChoiceElement;
 }>;

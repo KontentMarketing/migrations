@@ -10,10 +10,34 @@ import { ComponentGroupModel } from './ComponentGroupModel';
  */
 export type UmlpElementElementGroupsModel = IContentItem<{
   /**
+   * Heading (rich_text)
+   * Required: false
+   * Id: 23156175-477f-40a4-a8ab-809175562df1
+   * Codename: heading
+   */
+  heading: Elements.RichTextElement;
+
+  /**
+   * Text (rich_text)
+   * Required: false
+   * Id: ae0759bf-1bac-441c-a552-792a273f891a
+   * Codename: text
+   */
+  text: Elements.RichTextElement;
+
+  /**
    * Groups (modular_content)
    * Required: true
    * Id: 8cc773bb-d719-47af-ad2c-978468088f39
    * Codename: groups
    */
   groups: Elements.LinkedItemsElement<ComponentGroupModel>;
+
+  /**
+   * Sticky navigation (multiple_choice)
+   * Required: false
+   * Id: 7f6d385f-1374-46c6-ba35-e40ef8c9e259
+   * Codename: sticky_navigation
+   */
+  stickyNavigation: Elements.MultipleChoiceElement;
 }>;

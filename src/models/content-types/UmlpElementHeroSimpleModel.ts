@@ -13,7 +13,7 @@ import { SharedContentModel } from './SharedContentModel';
 export type UmlpElementHeroSimpleModel = IContentItem<{
   /**
    * OUTDATED - Heading (text)
-   * Required: true
+   * Required: false
    * Id: 767766e2-39c5-4648-a61a-7d3824dddd07
    * Codename: heading
    *

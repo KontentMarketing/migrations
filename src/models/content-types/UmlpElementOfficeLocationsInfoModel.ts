@@ -10,12 +10,12 @@ import { OfficeModel } from './OfficeModel';
  */
 export type UmlpElementOfficeLocationsInfoModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: 56197bf7-a3e7-404f-810a-2302e79a4253
-   * Codename: heading
+   * Id: 8c17f5c2-fbf9-49c2-abc5-00f70103790b
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Offices (modular_content)

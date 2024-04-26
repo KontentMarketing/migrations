@@ -8,22 +8,20 @@ import { IContentItem, Elements } from '@kontent-ai/delivery-sdk';
  */
 export type UmlpElementFullWidthImageModel = IContentItem<{
   /**
+   * Heading (rich_text)
+   * Required: false
+   * Id: d8e8f51e-df18-4d31-b037-e6f313602d4d
+   * Codename: heading
+   */
+  heading: Elements.RichTextElement;
+
+  /**
    * Image (asset)
    * Required: true
    * Id: 3d730b6c-fe29-4e0d-916e-cc4cadd04570
    * Codename: image
    */
   image: Elements.AssetsElement;
-
-  /**
-   * Theme (multiple_choice)
-   * Required: true
-   * Id: 5b90f316-a9c2-43f6-80fd-356060a7c860
-   * Codename: theme
-   *
-   * Background of the section containing the image
-   */
-  theme: Elements.MultipleChoiceElement;
 
   /**
    * Image size (multiple_choice)

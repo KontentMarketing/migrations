@@ -48,5 +48,13 @@ export type GlossaryTermModel = IContentItem<{
    * Codename: url_slug
    */
   urlSlug: Elements.UrlSlugElement;
+
+  /**
+   * OG Image (asset)
+   * Required: false
+   * Id: 627f5e03-acbd-4389-9610-754ef8a704b4
+   * Codename: og_image
+   */
+  ogImage: Elements.AssetsElement;
 }> &
   SitemapMetadata;

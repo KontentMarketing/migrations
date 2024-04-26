@@ -18,6 +18,16 @@ export type ResourceModel = IContentItem<{
   title: Elements.TextElement;
 
   /**
+   * Description (rich_text)
+   * Required: false
+   * Id: 0c80ad08-6e42-4237-b16a-5266d8397c28
+   * Codename: description
+   *
+   * Short description
+   */
+  description: Elements.RichTextElement;
+
+  /**
    * Type (multiple_choice)
    * Required: true
    * Id: 78a41e16-ab39-4539-ac22-268e441a50a2

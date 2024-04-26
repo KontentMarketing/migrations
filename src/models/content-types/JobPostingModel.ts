@@ -22,6 +22,16 @@ export type JobPostingModel = IContentItem<{
   title: Elements.TextElement;
 
   /**
+   * Page heading (rich_text)
+   * Required: true
+   * Id: 6120b8eb-4e35-48a3-9e2f-7143a856095c
+   * Codename: page_heading
+   *
+   * Main heading on the job posting page. Should be the name of the position, identical to title. You can use highlighting and line breaks here.
+   */
+  pageHeading: Elements.RichTextElement;
+
+  /**
    * Position category (taxonomy)
    * Required: true
    * Id: c4972cae-e31a-4961-92d3-d93a0812f78b
@@ -38,6 +48,16 @@ export type JobPostingModel = IContentItem<{
    * The body of your job ad. Use preview to display what it will look like. The structure is up to you. Always include a short intro paragraph, responsibilities, requirements, and how we differentiate from other employers. See the page linked above for an example.
    */
   description: Elements.RichTextElement;
+
+  /**
+   * Summary (rich_text)
+   * Required: false
+   * Id: 68923742-a789-470d-8fcb-740cb252c036
+   * Codename: summary
+   *
+   * Optional piece of text displayed next to the application form
+   */
+  summary: Elements.RichTextElement;
 
   /**
    * Experience requirements (text)

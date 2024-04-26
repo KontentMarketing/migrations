@@ -10,12 +10,12 @@ import { SolutionsPageRelatedAssetModel } from './SolutionsPageRelatedAssetModel
  */
 export type UmlpElementRelatedResourcesModel = IContentItem<{
   /**
-   * Heading (text)
-   * Required: true
-   * Id: 57942d6f-fee7-4b36-9d67-6a941753b585
-   * Codename: heading
+   * Heading (rich_text)
+   * Required: false
+   * Id: d1a565c6-0781-4889-a4e7-0f94140ed35a
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Resources (modular_content)

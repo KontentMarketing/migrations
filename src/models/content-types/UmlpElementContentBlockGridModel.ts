@@ -11,12 +11,12 @@ import { SharedContentModel } from './SharedContentModel';
  */
 export type UmlpElementContentBlockGridModel = IContentItem<{
   /**
-   * Heading (text)
+   * Heading (rich_text)
    * Required: false
-   * Id: be470218-5fcf-4a26-ad02-15b05cc1126c
-   * Codename: heading
+   * Id: 80090bc4-0102-49d0-b042-b1d5c4f7c592
+   * Codename: heading__rich
    */
-  heading: Elements.TextElement;
+  headingRich: Elements.RichTextElement;
 
   /**
    * Blocks (modular_content)

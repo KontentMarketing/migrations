@@ -34,10 +34,28 @@ export type UmlpElementAnimatedVerticalSliderSlideModel = IContentItem<{
   image: Elements.AssetsElement;
 
   /**
+   * Logo (asset)
+   * Required: false
+   * Id: 3e68360c-24cd-4bc5-bb8d-162ef96ea0be
+   * Codename: logo
+   */
+  logo: Elements.AssetsElement;
+
+  /**
    * CTA (modular_content)
    * Required: false
    * Id: 52bf75ba-816c-475c-8d7b-25fb5cebc3e2
    * Codename: cta
    */
   cta: Elements.LinkedItemsElement<SharedContentModel>;
+
+  /**
+   * Persistent title (multiple_choice)
+   * Required: false
+   * Id: dd37792d-f1fd-488f-9831-5398b9a63fef
+   * Codename: persistent_title
+   *
+   * Title will be displayed over the image when in full screen mode
+   */
+  persistentTitle: Elements.MultipleChoiceElement;
 }>;

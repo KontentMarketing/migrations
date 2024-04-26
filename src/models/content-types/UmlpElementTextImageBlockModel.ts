@@ -16,6 +16,14 @@ export type UmlpElementTextImageBlockModel = IContentItem<{
   image: Elements.AssetsElement;
 
   /**
+   * Heading (rich_text)
+   * Required: false
+   * Id: a16a7a04-0f0e-4737-8e88-148c4f8c4ffc
+   * Codename: heading
+   */
+  heading: Elements.RichTextElement;
+
+  /**
    * Text (rich_text)
    * Required: true
    * Id: e3600582-86d6-4579-8c60-27e39a84e83c

@@ -12,14 +12,6 @@ import { UmlpElementLogoStripModel } from './UmlpElementLogoStripModel';
  */
 export type UmlpElementHomeHeroSectionModel = IContentItem<{
   /**
-   * Hero headline (text)
-   * Required: true
-   * Id: eb79ae6e-de2d-4ad7-a362-b587607eb8af
-   * Codename: hero_headline
-   */
-  heroHeadline: Elements.TextElement;
-
-  /**
    * Heading (rich_text)
    * Required: true
    * Id: abf1dec2-2c69-4023-aa64-5b53fdbaac81
